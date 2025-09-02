@@ -1,0 +1,297 @@
+﻿City,Amount,Product_Category,Sales_Rep,Discount,Customer_segmentation,After_dicouont,Loss,Month_Formatted,Spend,Channel,ROI%
+Hyderabad,1771.71,Electronics,Jason Taylor,0.19,Online,1435.09,336.62,01-01-2023,5436.4,TV,1434.09
+Hyderabad,3426.32,Home Decor,Heather Lowe,0.1,Wholesale,3083.69,342.63,01-01-2023,,TV,#DIV/0!
+Hyderabad,6995.21,Home Decor,Derrick Washington,0.04,Online,6715.4,279.81,01-01-2023,,TV,#DIV/0!
+Hyderabad,1050.86,Apparel,Mr. John Mathews,0.15,Wholesale,893.23,157.63,01-01-2023,,TV,#DIV/0!
+Hyderabad,6734.2,Groceries,Kyle Jones,0.11,Retail,5993.44,740.76,01-01-2023,,TV,#DIV/0!
+Hyderabad,3904.63,Apparel,Sarah Frank,0.14,Retail,3357.98,546.65,01-01-2023,,TV,#DIV/0!
+Hyderabad,8057.19,Home Decor,Samantha Davis,0.04,Online,7734.9,322.29,01-01-2023,,TV,#DIV/0!
+Hyderabad,5339.36,Home Decor,Wendy Weaver,0.13,Retail,4645.24,694.12,01-01-2023,,TV,#DIV/0!
+Hyderabad,7837.74,Groceries,Zachary Livingston,0.03,Online,7602.61,235.13,01-01-2023,,TV,#DIV/0!
+Hyderabad,785.35,Electronics,Scott Murphy,0.12,Retail,691.11,94.24,01-01-2023,,TV,#DIV/0!
+Hyderabad,4513,Home Decor,Brent Lopez,0.07,Online,4197.09,315.91,01-01-2023,,TV,#DIV/0!
+Hyderabad,3324.98,Electronics,Sabrina Thomas,0.04,Online,3191.98,133,01-01-2023,,TV,#DIV/0!
+Hyderabad,3487.8,Apparel,Brandy Gomez,0.06,Retail,3278.53,209.27,01-01-2023,,TV,#DIV/0!
+Hyderabad,9217.91,Electronics,Stephen Whitney,0.04,Wholesale,8849.19,368.72,01-01-2023,,TV,#DIV/0!
+Hyderabad,8585.88,Apparel,Michael Harmon,0.02,Retail,8414.16,171.72,01-01-2023,,TV,#DIV/0!
+Hyderabad,1344.7,Electronics,Mary Pierce,0.23,Online,1035.42,309.28,01-01-2023,,TV,#DIV/0!
+Hyderabad,4746.14,Electronics,Sara Williams,0.11,Wholesale,4224.06,522.08,01-01-2023,,TV,#DIV/0!
+Hyderabad,6628.1,Apparel,Daniel Soto MD,0.22,Retail,5169.92,1458.18,01-01-2023,,TV,#DIV/0!
+Hyderabad,849.07,Groceries,Darryl Rivas,0.02,Online,832.09,16.98,01-01-2023,,TV,#DIV/0!
+Hyderabad,4869.91,Home Decor,Crystal Miller,0.12,Wholesale,4285.52,584.39,01-01-2023,,TV,#DIV/0!
+Hyderabad,7845.63,Home Decor,Jamie Scott,0.09,Wholesale,7139.52,706.11,01-01-2023,,TV,#DIV/0!
+Hyderabad,945.85,Groceries,Francisco Oliver,0.12,Retail,832.35,113.5,01-01-2023,,TV,#DIV/0!
+Hyderabad,2194.36,Electronics,James Nguyen,0.18,Retail,1799.38,394.98,01-01-2023,,TV,#DIV/0!
+Hyderabad,5720.7,Home Decor,Sara Brooks,0.04,Online,5491.87,228.83,01-01-2023,,TV,#DIV/0!
+Hyderabad,5204.57,Apparel,Lisa Newman,0.15,Wholesale,4423.88,780.69,01-01-2023,,TV,#DIV/0!
+Hyderabad,6346.33,Groceries,Amy Martinez,0.08,Retail,5838.62,507.71,01-01-2023,,TV,#DIV/0!
+Hyderabad,8789.58,Home Decor,Anne Compton,0.12,Online,7734.83,1054.75,01-01-2023,,TV,#DIV/0!
+Hyderabad,1760.34,Electronics,Lauren Owens,0.1,Retail,1584.31,176.03,01-02-2023,8685.88,TV,1583.31
+Hyderabad,2394.79,Home Decor,Jeffery Cooper,0.15,Online,2035.57,359.22,01-02-2023,,TV,#DIV/0!
+Hyderabad,7332.57,Groceries,Sarah Harris MD,0.09,Wholesale,6672.64,659.93,01-02-2023,,TV,#DIV/0!
+Hyderabad,4190.4,Apparel,Ashley Valdez,0.02,Retail,4106.59,83.81,01-02-2023,,TV,#DIV/0!
+Hyderabad,9090.73,Groceries,Steven Palmer,0.24,Retail,6908.95,2181.78,01-02-2023,,TV,#DIV/0!
+Hyderabad,8983.36,Groceries,Kristina Ford,0.1,Retail,8085.02,898.34,01-02-2023,,TV,#DIV/0!
+Hyderabad,7496.88,Groceries,Melissa Pena,0.05,Online,7122.04,374.84,01-02-2023,,TV,#DIV/0!
+Hyderabad,6606.96,Electronics,Melanie Anderson,0.02,Retail,6474.82,132.14,01-02-2023,,TV,#DIV/0!
+Hyderabad,4176.18,Electronics,Ryan Conley,0.25,Online,3132.14,1044.05,01-02-2023,,TV,#DIV/0!
+Hyderabad,3843.89,Apparel,Patrick Walker,0.21,Wholesale,3036.67,807.22,01-02-2023,,TV,#DIV/0!
+Hyderabad,6897.9,Electronics,Cynthia Newton,0.17,Online,5725.26,1172.64,01-02-2023,,TV,#DIV/0!
+Hyderabad,7069.15,Electronics,Kyle Rush,0.03,Retail,6857.08,212.07,01-02-2023,,TV,#DIV/0!
+Hyderabad,8142.35,Apparel,Lisa Phillips,0,Retail,8142.35,0,01-02-2023,,TV,#DIV/0!
+Hyderabad,1693.84,Groceries,Angela Beltran,0.18,Wholesale,1388.95,304.89,01-02-2023,,TV,#DIV/0!
+Hyderabad,7505.13,Apparel,Carolyn Blanchard,0.09,Online,6829.67,675.46,01-02-2023,,TV,#DIV/0!
+Hyderabad,2188.09,Apparel,Matthew Dominguez,0.15,Online,1859.88,328.21,01-02-2023,,TV,#DIV/0!
+Hyderabad,6665.24,Groceries,David Hansen,0.14,Wholesale,5732.11,933.13,01-02-2023,,TV,#DIV/0!
+Hyderabad,9565.33,Electronics,Albert Hart,0.15,Wholesale,8130.53,1434.8,01-02-2023,,TV,#DIV/0!
+Hyderabad,5689.7,Home Decor,Benjamin Holmes,0.05,Wholesale,5405.22,284.49,01-02-2023,,TV,#DIV/0!
+Hyderabad,4893.7,Apparel,John Kent,0.2,Online,3914.96,978.74,01-02-2023,,TV,#DIV/0!
+Hyderabad,2254.38,Home Decor,Alyssa Walker,0.17,Wholesale,1871.14,383.24,01-02-2023,,TV,#DIV/0!
+Hyderabad,4157.88,Electronics,Rebecca Patterson,0.19,Retail,3367.88,790,01-02-2023,,TV,#DIV/0!
+Hyderabad,8308.91,Groceries,Michael Miranda,0.14,Online,7145.66,1163.25,01-02-2023,,TV,#DIV/0!
+Hyderabad,555.02,Home Decor,Kyle Wilson,0.14,Retail,477.32,77.7,01-02-2023,,TV,#DIV/0!
+Hyderabad,6449.41,Electronics,Ryan Burke,0.07,Retail,5997.95,451.46,01-02-2023,,TV,#DIV/0!
+Hyderabad,8970.98,Groceries,Sara Brown,0.01,Online,8881.27,89.71,01-02-2023,,TV,#DIV/0!
+Hyderabad,7235.42,Apparel,Melissa Munoz,0.21,Online,5715.98,1519.44,01-02-2023,,TV,#DIV/0!
+Hyderabad,8872.85,Home Decor,Diana Blankenship,0.13,Online,7719.38,1153.47,01-03-2023,4875.01,TV,7718.38
+Hyderabad,8165.55,Electronics,Lauren Kelley,0.12,Retail,7185.68,979.87,01-03-2023,,TV,#DIV/0!
+Hyderabad,6728.82,Apparel,Edward Boyd,0.19,Retail,5450.34,1278.48,01-03-2023,,TV,#DIV/0!
+Hyderabad,4742.15,Apparel,Stephanie Davis,0.17,Retail,3935.98,806.17,01-03-2023,,TV,#DIV/0!
+Hyderabad,4375.52,Groceries,Elizabeth Brown,0.04,Wholesale,4200.5,175.02,01-03-2023,,TV,#DIV/0!
+Hyderabad,5740.87,Home Decor,Shari Watson DDS,0.05,Retail,5453.83,287.04,01-03-2023,,TV,#DIV/0!
+Hyderabad,9065.27,Groceries,Andrew Allison,0.13,Wholesale,7886.78,1178.49,01-03-2023,,TV,#DIV/0!
+Hyderabad,2042.91,Groceries,Eric Mann,0.01,Retail,2022.48,20.43,01-03-2023,,TV,#DIV/0!
+Hyderabad,9338.45,Groceries,Anthony Perez,0.01,Wholesale,9245.07,93.38,01-03-2023,,TV,#DIV/0!
+Hyderabad,4262.48,Groceries,Brandon Simon Jr.,0.16,Retail,3580.48,682,01-03-2023,,TV,#DIV/0!
+Hyderabad,1998.68,Apparel,Leon King,0,Retail,1998.68,0,01-03-2023,,TV,#DIV/0!
+Hyderabad,2581.45,Home Decor,Kimberly Bradley,0.18,Wholesale,2116.79,464.66,01-03-2023,,TV,#DIV/0!
+Hyderabad,1727.92,Apparel,Travis Burke,0.11,Online,1537.85,190.07,01-03-2023,,TV,#DIV/0!
+Hyderabad,4519.39,Electronics,Deborah Salinas,0.24,Wholesale,3434.74,1084.65,01-03-2023,,TV,#DIV/0!
+Hyderabad,1103.1,Electronics,Christian Lynch,0.04,Wholesale,1058.98,44.12,01-03-2023,,TV,#DIV/0!
+Hyderabad,696.28,Home Decor,Patty Ward,0.25,Online,522.21,174.07,01-03-2023,,TV,#DIV/0!
+Hyderabad,5380.76,Electronics,Robert Mcpherson,0.08,Online,4950.3,430.46,01-03-2023,,TV,#DIV/0!
+Hyderabad,6655.09,Groceries,Amy Turner,0.15,Wholesale,5656.83,998.26,01-03-2023,,TV,#DIV/0!
+Hyderabad,3544.46,Electronics,Donald Mcmillan,0.22,Wholesale,2764.68,779.78,01-03-2023,,TV,#DIV/0!
+Hyderabad,2247.24,Electronics,Chelsea Vargas,0.21,Online,1775.32,471.92,01-04-2023,12621.51,Outdoor,1774.32
+Hyderabad,9241.13,Electronics,Amy Davidson,0.14,Online,7947.37,1293.76,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,4873.61,Home Decor,Charles Caldwell,0.07,Retail,4532.46,341.15,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,6621.46,Groceries,Tyler Baker,0.04,Retail,6356.6,264.86,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,624.05,Electronics,David Walker,0.17,Retail,517.96,106.09,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,8481.54,Apparel,Michael White,0.07,Wholesale,7887.83,593.71,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,9203.79,Home Decor,Gregory Anderson,0.01,Retail,9111.75,92.04,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,9591.78,Electronics,Jamie Jones,0.23,Online,7385.67,2206.11,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,2092,Apparel,Tamara Cain,0.24,Wholesale,1589.92,502.08,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,2981.52,Groceries,Chelsea Ortiz,0.21,Online,2355.4,626.12,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,7935.53,Apparel,Julia Diaz,0.1,Online,7141.98,793.55,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,1375.23,Electronics,Amanda Gomez,0.23,Wholesale,1058.93,316.3,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,9295.93,Groceries,Kyle Hanson,0.21,Retail,7343.78,1952.15,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,7779.82,Groceries,Michelle Ortiz,0.21,Wholesale,6146.06,1633.76,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,9221.4,Electronics,Joseph Quinn,0.17,Wholesale,7653.76,1567.64,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,6569.82,Apparel,Ralph Ryan,0.15,Retail,5584.35,985.47,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,3476.2,Apparel,Lorraine Franklin,0.16,Retail,2920.01,556.19,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,1665.95,Home Decor,Thomas Moore,0.12,Online,1466.04,199.91,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,4071.92,Home Decor,Ashley Hill,0.11,Wholesale,3624.01,447.91,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,3520.17,Electronics,Dennis Wheeler,0.1,Wholesale,3168.15,352.02,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,9628.11,Apparel,Daniel Brewer,0.16,Wholesale,8087.61,1540.5,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,6659.15,Apparel,Jasmine Lopez,0.15,Online,5660.28,998.87,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,6757.18,Apparel,Jamie Pierce,0.16,Retail,5676.03,1081.15,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,4057.04,Apparel,Eric Walsh,0.01,Online,4016.47,40.57,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,8922.5,Apparel,Adam Smith,0.14,Wholesale,7673.35,1249.15,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,7958.06,Electronics,Brandy Brown,0.22,Online,6207.29,1750.77,01-04-2023,,Outdoor,#DIV/0!
+Hyderabad,8238.59,Home Decor,David Gonzalez,0.2,Wholesale,6590.87,1647.72,01-05-2023,9038.77,TV,6589.87
+Hyderabad,9920.14,Electronics,Thomas Sloan,0.22,Wholesale,7737.71,2182.43,01-05-2023,,TV,#DIV/0!
+Hyderabad,8889.59,Electronics,Laura Hickman,0.11,Wholesale,7911.74,977.85,01-05-2023,,TV,#DIV/0!
+Hyderabad,948.47,Apparel,Melissa Miller,0.18,Retail,777.75,170.72,01-05-2023,,TV,#DIV/0!
+Hyderabad,5497.42,Home Decor,Terri Lee,0.16,Wholesale,4617.83,879.59,01-05-2023,,TV,#DIV/0!
+Hyderabad,4084.7,Electronics,Chelsea Grant,0.21,Online,3226.91,857.79,01-05-2023,,TV,#DIV/0!
+Hyderabad,2696.28,Groceries,Robert Gutierrez,0.21,Retail,2130.06,566.22,01-05-2023,,TV,#DIV/0!
+Hyderabad,5084.93,Groceries,Maria Bishop,0.09,Wholesale,4627.29,457.64,01-05-2023,,TV,#DIV/0!
+Hyderabad,5179.35,Apparel,Sara Lowe,0.17,Online,4298.86,880.49,01-05-2023,,TV,#DIV/0!
+Hyderabad,1356.39,Apparel,Gabriel Marshall,0.18,Retail,1112.24,244.15,01-05-2023,,TV,#DIV/0!
+Hyderabad,5191.81,Groceries,Selena King,0.05,Online,4932.22,259.59,01-05-2023,,TV,#DIV/0!
+Hyderabad,1245.3,Electronics,Jorge Diaz,0.1,Online,1120.77,124.53,01-05-2023,,TV,#DIV/0!
+Hyderabad,1219.8,Apparel,John Morris,0.05,Wholesale,1158.81,60.99,01-05-2023,,TV,#DIV/0!
+Hyderabad,626.91,Groceries,Shelley Sutton,0.16,Online,526.6,100.31,01-05-2023,,TV,#DIV/0!
+Hyderabad,4685.44,Electronics,Bryan Robinson,0.09,Retail,4263.75,421.69,01-05-2023,,TV,#DIV/0!
+Hyderabad,4245.29,Electronics,Antonio Boone,0.12,Retail,3735.86,509.43,01-05-2023,,TV,#DIV/0!
+Hyderabad,9158.81,Home Decor,Christina Hayes,0.02,Online,8975.63,183.18,01-05-2023,,TV,#DIV/0!
+Hyderabad,6597.61,Electronics,Mikayla Gallegos,0.01,Wholesale,6531.63,65.98,01-05-2023,,TV,#DIV/0!
+Hyderabad,1890.5,Home Decor,Wayne Wilson,0.08,Wholesale,1739.26,151.24,01-05-2023,,TV,#DIV/0!
+Hyderabad,8457.67,Home Decor,Leslie Sherman,0.05,Retail,8034.79,422.88,01-05-2023,,TV,#DIV/0!
+Hyderabad,688.8,Home Decor,Laura Sampson,0.18,Online,564.82,123.98,01-05-2023,,TV,#DIV/0!
+Hyderabad,4808.03,Groceries,Dustin Lopez,0.14,Retail,4134.91,673.12,01-05-2023,,TV,#DIV/0!
+Hyderabad,1728.26,Electronics,Roger Byrd,0.13,Wholesale,1503.59,224.67,01-05-2023,,TV,#DIV/0!
+Hyderabad,2191.64,Electronics,Melissa Carrillo,0.05,Wholesale,2082.06,109.58,01-05-2023,,TV,#DIV/0!
+Hyderabad,4663.19,Groceries,Christina Ward,0.01,Retail,4616.56,46.63,01-06-2023,7251.61,Print,4615.56
+Hyderabad,1452.83,Home Decor,Shelly Pineda,0.11,Wholesale,1293.02,159.81,01-06-2023,,Print,#DIV/0!
+Hyderabad,7624.45,Electronics,Kayla Nash,0.22,Wholesale,5947.07,1677.38,01-06-2023,,Print,#DIV/0!
+Hyderabad,1404.69,Apparel,Mary Marquez,0.2,Online,1123.75,280.94,01-06-2023,,Print,#DIV/0!
+Hyderabad,3152.49,Home Decor,Joshua Lopez,0.02,Wholesale,3089.44,63.05,01-06-2023,,Print,#DIV/0!
+Hyderabad,7683.61,Groceries,Karen Chan,0.21,Online,6070.05,1613.56,01-06-2023,,Print,#DIV/0!
+Hyderabad,5929.05,Home Decor,Dr. Tina Ramirez,0,Wholesale,5929.05,0,01-06-2023,,Print,#DIV/0!
+Hyderabad,7352.69,Electronics,Mrs. Veronica Lee DDS,0.12,Retail,6470.37,882.32,01-06-2023,,Print,#DIV/0!
+Hyderabad,4331.15,Home Decor,Christopher Moses,0.22,Online,3378.3,952.85,01-06-2023,,Print,#DIV/0!
+Hyderabad,974.7,Apparel,Ricardo Rogers,0.2,Online,779.76,194.94,01-06-2023,,Print,#DIV/0!
+Hyderabad,6497.53,Groceries,Stephanie Black,0.21,Retail,5133.05,1364.48,01-06-2023,,Print,#DIV/0!
+Hyderabad,4219.99,Electronics,Erica Clark,0.2,Retail,3375.99,844,01-06-2023,,Print,#DIV/0!
+Hyderabad,4283.64,Apparel,Erin Perry,0.23,Wholesale,3298.4,985.24,01-06-2023,,Print,#DIV/0!
+Hyderabad,4555.34,Electronics,Yolanda Smith,0.22,Online,3553.17,1002.17,01-06-2023,,Print,#DIV/0!
+Hyderabad,2380.61,Home Decor,Jennifer Green,0.23,Online,1833.07,547.54,01-06-2023,,Print,#DIV/0!
+Hyderabad,3206.29,Home Decor,Nina Vasquez,0.06,Wholesale,3013.91,192.38,01-06-2023,,Print,#DIV/0!
+Hyderabad,7464.1,Electronics,Miranda Olson,0.04,Online,7165.54,298.56,01-06-2023,,Print,#DIV/0!
+Hyderabad,6917.25,Apparel,Calvin Jacobs,0.01,Online,6848.08,69.17,01-06-2023,,Print,#DIV/0!
+Hyderabad,8088.92,Home Decor,Mrs. Tina Adams,0.18,Online,6632.91,1456.01,01-06-2023,,Print,#DIV/0!
+Hyderabad,4182.7,Groceries,Kyle Mckee,0.07,Wholesale,3889.91,292.79,01-06-2023,,Print,#DIV/0!
+Hyderabad,7646.02,Home Decor,Dylan Keith,0.16,Retail,6422.66,1223.36,01-06-2023,,Print,#DIV/0!
+Hyderabad,8117.41,Home Decor,Brittney Case,0.09,Wholesale,7386.84,730.57,01-06-2023,,Print,#DIV/0!
+Hyderabad,4996.38,Apparel,Jared Morris,0.19,Online,4047.07,949.31,01-06-2023,,Print,#DIV/0!
+Hyderabad,6868.7,Home Decor,Michael Friedman,0.1,Wholesale,6181.83,686.87,01-06-2023,,Print,#DIV/0!
+Hyderabad,9147.14,Apparel,Kathryn Holloway,0.07,Wholesale,8506.84,640.3,01-06-2023,,Print,#DIV/0!
+Hyderabad,4267.2,Home Decor,Jeffrey Miranda,0.21,Online,3371.09,896.11,01-06-2023,,Print,#DIV/0!
+Hyderabad,3559.99,Groceries,Bradley King,0.07,Wholesale,3310.79,249.2,01-06-2023,,Print,#DIV/0!
+Hyderabad,5850.13,Groceries,Bryan Nichols,0.01,Online,5791.63,58.5,01-06-2023,,Print,#DIV/0!
+Hyderabad,2069.63,Electronics,Brian Patel,0.1,Wholesale,1862.67,206.96,01-06-2023,,Print,#DIV/0!
+Hyderabad,7745.07,Apparel,Douglas Johnson,0.16,Retail,6505.86,1239.21,01-06-2023,,Print,#DIV/0!
+Hyderabad,1678.03,Home Decor,Courtney Jordan,0.06,Wholesale,1577.35,100.68,01-06-2023,,Print,#DIV/0!
+Hyderabad,8527.25,Electronics,Robert Wheeler,0.02,Wholesale,8356.71,170.55,01-06-2023,,Print,#DIV/0!
+Hyderabad,4910.44,Apparel,Erik Hahn,0.02,Wholesale,4812.23,98.21,01-06-2023,,Print,#DIV/0!
+Hyderabad,8082.56,Electronics,Peggy Thomas,0.01,Retail,8001.73,80.83,01-06-2023,,Print,#DIV/0!
+Hyderabad,6639.83,Apparel,Ms. Kristin Lee MD,0.23,Online,5112.67,1527.16,01-06-2023,,Print,#DIV/0!
+Hyderabad,1268.27,Groceries,Matthew Spencer,0.05,Retail,1204.86,63.41,01-06-2023,,Print,#DIV/0!
+Hyderabad,9324.47,Electronics,Michael Jones,0.2,Wholesale,7459.58,1864.89,01-06-2023,,Print,#DIV/0!
+Hyderabad,6435.45,Electronics,Ross Mata,0.11,Retail,5727.55,707.9,01-06-2023,,Print,#DIV/0!
+Hyderabad,2478.31,Home Decor,Ashley Robles MD,0.16,Online,2081.78,396.53,01-07-2023,10784.27,Digital,2080.78
+Hyderabad,7115.68,Apparel,Eugene Hood,0.06,Wholesale,6688.74,426.94,01-07-2023,,Digital,#DIV/0!
+Hyderabad,6469.14,Apparel,Christopher Richard,0.12,Retail,5692.84,776.3,01-07-2023,,Digital,#DIV/0!
+Hyderabad,3785.66,Groceries,Mark Fields,0.09,Retail,3444.95,340.71,01-07-2023,,Digital,#DIV/0!
+Hyderabad,3261.49,Home Decor,Sharon Munoz,0.19,Online,2641.81,619.68,01-07-2023,,Digital,#DIV/0!
+Hyderabad,7908.13,Groceries,Eric Braun,0.17,Retail,6563.75,1344.38,01-07-2023,,Digital,#DIV/0!
+Hyderabad,889.93,Apparel,Nicole Gibson,0.1,Online,800.94,88.99,01-07-2023,,Digital,#DIV/0!
+Hyderabad,6043.18,Electronics,Scott Turner,0.22,Online,4713.68,1329.5,01-07-2023,,Digital,#DIV/0!
+Hyderabad,1881.73,Electronics,Jordan Wilson,0.1,Retail,1693.56,188.17,01-07-2023,,Digital,#DIV/0!
+Hyderabad,7357.16,Electronics,Jeffrey Wilson,0.24,Retail,5591.44,1765.72,01-07-2023,,Digital,#DIV/0!
+Hyderabad,3233.73,Electronics,Lindsay Sanders,0.22,Online,2522.31,711.42,01-07-2023,,Digital,#DIV/0!
+Hyderabad,3337.46,Electronics,Jennifer Hughes,0.18,Wholesale,2736.72,600.74,01-07-2023,,Digital,#DIV/0!
+Hyderabad,6823.97,Home Decor,Elizabeth Morton,0.19,Retail,5527.42,1296.55,01-07-2023,,Digital,#DIV/0!
+Hyderabad,5481.7,Groceries,Colton Cook,0.02,Online,5372.07,109.63,01-07-2023,,Digital,#DIV/0!
+Hyderabad,3866.35,Home Decor,Ashley Reese,0.09,Wholesale,3518.38,347.97,01-07-2023,,Digital,#DIV/0!
+Hyderabad,5322.74,Apparel,Debra Costa,0.12,Wholesale,4684.01,638.73,01-07-2023,,Digital,#DIV/0!
+Hyderabad,5419.2,Electronics,Thomas Skinner,0.2,Online,4335.36,1083.84,01-07-2023,,Digital,#DIV/0!
+Hyderabad,9850.12,Apparel,Matthew Ferguson,0.22,Online,7683.09,2167.03,01-07-2023,,Digital,#DIV/0!
+Hyderabad,6355.13,Home Decor,David Shannon,0.14,Online,5465.41,889.72,01-07-2023,,Digital,#DIV/0!
+Hyderabad,8283.01,Groceries,Darrell Mejia,0.22,Online,6460.75,1822.26,01-07-2023,,Digital,#DIV/0!
+Hyderabad,3927.93,Groceries,Susan Meyers,0,Retail,3927.93,0,01-07-2023,,Digital,#DIV/0!
+Hyderabad,2310.65,Apparel,Christopher Miller,0.21,Online,1825.41,485.24,01-07-2023,,Digital,#DIV/0!
+Hyderabad,2022.66,Apparel,Laura King,0.22,Retail,1577.67,444.99,01-07-2023,,Digital,#DIV/0!
+Hyderabad,6224.3,Apparel,Chad Cunningham,0.23,Retail,4792.71,1431.59,01-08-2023,1479.48,Digital,4791.71
+Hyderabad,1981.54,Electronics,Brian Moore,0.22,Online,1545.6,435.94,01-08-2023,,Digital,#DIV/0!
+Hyderabad,570.04,Apparel,Madeline Ruiz,0.01,Wholesale,564.34,5.7,01-08-2023,,Digital,#DIV/0!
+Hyderabad,8044.49,Groceries,Priscilla Santiago,0.11,Wholesale,7159.6,884.89,01-08-2023,,Digital,#DIV/0!
+Hyderabad,3914.56,Home Decor,James Collier,0.1,Retail,3523.1,391.46,01-08-2023,,Digital,#DIV/0!
+Hyderabad,5714.14,Apparel,Stephen Salazar,0.09,Online,5199.87,514.27,01-08-2023,,Digital,#DIV/0!
+Hyderabad,6138.64,Electronics,Angela Hicks,0.2,Wholesale,4910.91,1227.73,01-08-2023,,Digital,#DIV/0!
+Hyderabad,4492.02,Groceries,Michael Gutierrez,0.15,Wholesale,3818.22,673.8,01-08-2023,,Digital,#DIV/0!
+Hyderabad,4215.11,Groceries,Julie Whitehead,0.03,Retail,4088.66,126.45,01-08-2023,,Digital,#DIV/0!
+Hyderabad,7304.25,Apparel,Beverly Juarez,0.09,Retail,6646.87,657.38,01-08-2023,,Digital,#DIV/0!
+Hyderabad,2647.32,Groceries,Jamie Forbes,0.05,Wholesale,2514.95,132.37,01-08-2023,,Digital,#DIV/0!
+Hyderabad,7437.05,Apparel,Jason Fisher,0.07,Wholesale,6916.46,520.59,01-08-2023,,Digital,#DIV/0!
+Hyderabad,5476.26,Electronics,Erin Duncan,0.1,Retail,4928.63,547.63,01-08-2023,,Digital,#DIV/0!
+Hyderabad,1150.45,Apparel,Susan Lin,0.22,Wholesale,897.35,253.1,01-08-2023,,Digital,#DIV/0!
+Hyderabad,4667.89,Electronics,Ashley Mercado,0.15,Retail,3967.71,700.18,01-08-2023,,Digital,#DIV/0!
+Hyderabad,1235.79,Home Decor,Jason Hernandez,0.11,Online,1099.85,135.94,01-08-2023,,Digital,#DIV/0!
+Hyderabad,9642.74,Apparel,Ronnie Russo,0.16,Wholesale,8099.9,1542.84,01-08-2023,,Digital,#DIV/0!
+Hyderabad,8064.07,Home Decor,Jeff Brown,0.06,Wholesale,7580.23,483.84,01-08-2023,,Digital,#DIV/0!
+Hyderabad,8626.42,Home Decor,Corey Larson,0.06,Retail,8108.83,517.59,01-08-2023,,Digital,#DIV/0!
+Hyderabad,7064.94,Apparel,Gail Bradley,0.23,Retail,5440,1624.94,01-08-2023,,Digital,#DIV/0!
+Hyderabad,4678.56,Groceries,Michael Reed,0.19,Retail,3789.63,888.93,01-09-2023,2889.74,Digital,3788.63
+Hyderabad,8706.87,Apparel,Antonio Frost,0.22,Wholesale,6791.36,1915.51,01-09-2023,,Digital,#DIV/0!
+Hyderabad,4376.95,Home Decor,Kenneth Rodriguez,0.12,Retail,3851.72,525.23,01-09-2023,,Digital,#DIV/0!
+Hyderabad,6218.15,Home Decor,Michael Carr,0.25,Wholesale,4663.61,1554.54,01-09-2023,,Digital,#DIV/0!
+Hyderabad,4279.8,Apparel,Mrs. Diana Peterson DVM,0.16,Wholesale,3595.03,684.77,01-09-2023,,Digital,#DIV/0!
+Hyderabad,8373.66,Apparel,William Levy,0.13,Retail,7285.08,1088.58,01-09-2023,,Digital,#DIV/0!
+Hyderabad,5389.88,Apparel,Robin Kelley,0.05,Retail,5120.39,269.49,01-09-2023,,Digital,#DIV/0!
+Hyderabad,999.38,Electronics,Richard Howard,0.03,Wholesale,969.4,29.98,01-09-2023,,Digital,#DIV/0!
+Hyderabad,2141.26,Groceries,Julie Byrd,0.04,Wholesale,2055.61,85.65,01-09-2023,,Digital,#DIV/0!
+Hyderabad,5180.18,Home Decor,Kevin Reeves,0.07,Retail,4817.57,362.61,01-09-2023,,Digital,#DIV/0!
+Hyderabad,3422.32,Apparel,Renee Thompson,0.06,Online,3216.98,205.34,01-09-2023,,Digital,#DIV/0!
+Hyderabad,7940,Home Decor,Brandon Russell,0.18,Online,6510.8,1429.2,01-09-2023,,Digital,#DIV/0!
+Hyderabad,5100.13,Groceries,Amy Smith,0.19,Wholesale,4131.11,969.02,01-09-2023,,Digital,#DIV/0!
+Hyderabad,9912.15,Groceries,Mrs. Natalie Murphy,0.18,Wholesale,8127.96,1784.19,01-09-2023,,Digital,#DIV/0!
+Hyderabad,6243.43,Apparel,Hunter Martinez,0.17,Wholesale,5182.05,1061.38,01-09-2023,,Digital,#DIV/0!
+Hyderabad,2076.17,Apparel,Jared Nguyen,0.12,Retail,1827.03,249.14,01-09-2023,,Digital,#DIV/0!
+Hyderabad,3317.45,Home Decor,Brittany Oneal,0.13,Wholesale,2886.18,431.27,01-09-2023,,Digital,#DIV/0!
+Hyderabad,8747.05,Apparel,Walter Thompson,0.18,Wholesale,7172.58,1574.47,01-09-2023,,Digital,#DIV/0!
+Hyderabad,2528.36,Electronics,Taylor Ware,0.09,Wholesale,2300.81,227.55,01-09-2023,,Digital,#DIV/0!
+Hyderabad,6904.92,Apparel,Charles Andrews,0.21,Online,5454.89,1450.03,01-09-2023,,Digital,#DIV/0!
+Hyderabad,9295.33,Groceries,Jerry Webb,0.17,Retail,7715.12,1580.21,01-09-2023,,Digital,#DIV/0!
+Hyderabad,5271.78,Electronics,Nancy Stout,0.07,Wholesale,4902.76,369.02,01-09-2023,,Digital,#DIV/0!
+Hyderabad,8598.15,Electronics,Ashley Miller,0.18,Retail,7050.48,1547.67,01-09-2023,,Digital,#DIV/0!
+Hyderabad,7556.17,Home Decor,Elizabeth Hicks,0,Retail,7556.17,0,01-09-2023,,Digital,#DIV/0!
+Hyderabad,5772.04,Home Decor,Amy Lopez,0.23,Online,4444.47,1327.57,01-10-2023,11261.5,Outdoor,4443.47
+Hyderabad,8144.37,Apparel,Gerald Love,0.12,Wholesale,7167.05,977.32,01-10-2023,,Outdoor,#DIV/0!
+Hyderabad,7711.14,Home Decor,Dawn Cisneros,0.25,Online,5783.36,1927.79,01-10-2023,,Outdoor,#DIV/0!
+Hyderabad,545.33,Apparel,Mikayla Gonzales,0.15,Wholesale,463.53,81.8,01-10-2023,,Outdoor,#DIV/0!
+Hyderabad,4884.23,Apparel,Andrew Robbins,0.15,Online,4151.6,732.63,01-10-2023,,Outdoor,#DIV/0!
+Hyderabad,5385.72,Apparel,Amy Garcia,0.16,Wholesale,4524,861.72,01-10-2023,,Outdoor,#DIV/0!
+Hyderabad,1773.94,Electronics,Robin Powers,0.07,Retail,1649.76,124.18,01-10-2023,,Outdoor,#DIV/0!
+Hyderabad,6859.6,Electronics,Jeffrey Bass,0.14,Wholesale,5899.26,960.34,01-10-2023,,Outdoor,#DIV/0!
+Hyderabad,4654.21,Electronics,Gabrielle Hernandez,0.08,Online,4281.87,372.34,01-10-2023,,Outdoor,#DIV/0!
+Hyderabad,7462.67,Home Decor,Jennifer Bush,0.14,Retail,6417.9,1044.77,01-10-2023,,Outdoor,#DIV/0!
+Hyderabad,7638.15,Apparel,Andrew Thompson,0.1,Retail,6874.34,763.82,01-10-2023,,Outdoor,#DIV/0!
+Hyderabad,9301.05,Groceries,Nicole Crosby,0.12,Online,8184.92,1116.13,01-10-2023,,Outdoor,#DIV/0!
+Hyderabad,7432.65,Apparel,Mason Martinez,0.04,Wholesale,7135.34,297.31,01-10-2023,,Outdoor,#DIV/0!
+Hyderabad,2644.24,Apparel,Steven Nelson,0.24,Wholesale,2009.62,634.62,01-10-2023,,Outdoor,#DIV/0!
+Hyderabad,8892.8,Electronics,Daniel White,0.01,Online,8803.87,88.93,01-10-2023,,Outdoor,#DIV/0!
+Hyderabad,6427.23,Groceries,Dustin Collins,0.22,Online,5013.24,1413.99,01-10-2023,,Outdoor,#DIV/0!
+Hyderabad,5076.99,Groceries,Krystal Medina,0.09,Wholesale,4620.06,456.93,01-10-2023,,Outdoor,#DIV/0!
+Hyderabad,3090.97,Groceries,Hannah Ward,0.13,Online,2689.14,401.83,01-10-2023,,Outdoor,#DIV/0!
+Hyderabad,6129.19,Apparel,Diana Brooks,0.16,Retail,5148.52,980.67,01-10-2023,,Outdoor,#DIV/0!
+Hyderabad,3288.97,Electronics,Victoria Smith,0.23,Wholesale,2532.51,756.46,01-10-2023,,Outdoor,#DIV/0!
+Hyderabad,5609.64,Electronics,Justin Paul,0.24,Online,4263.33,1346.31,01-11-2023,15194.25,TV,4262.33
+Hyderabad,6719.1,Apparel,Ronald Jones,0.02,Retail,6584.72,134.38,01-11-2023,,TV,#DIV/0!
+Hyderabad,8012.44,Home Decor,Scott Garcia,0.24,Online,6089.45,1922.99,01-11-2023,,TV,#DIV/0!
+Hyderabad,6954.84,Groceries,James Evans,0.05,Online,6607.1,347.74,01-11-2023,,TV,#DIV/0!
+Hyderabad,6372.18,Apparel,Robert Hughes,0.02,Wholesale,6244.74,127.44,01-11-2023,,TV,#DIV/0!
+Hyderabad,9798.27,Home Decor,David Lewis,0.08,Online,9014.41,783.86,01-11-2023,,TV,#DIV/0!
+Hyderabad,3708.04,Electronics,Theresa James,0.13,Online,3225.99,482.05,01-11-2023,,TV,#DIV/0!
+Hyderabad,4362.1,Apparel,Andre Navarro,0.07,Online,4056.75,305.35,01-11-2023,,TV,#DIV/0!
+Hyderabad,5226.78,Groceries,Harold Rodriguez,0.01,Online,5174.51,52.27,01-11-2023,,TV,#DIV/0!
+Hyderabad,741.96,Groceries,Mary Fernandez,0.09,Retail,675.18,66.78,01-11-2023,,TV,#DIV/0!
+Hyderabad,5644.46,Groceries,Steven Petty,0.15,Wholesale,4797.79,846.67,01-11-2023,,TV,#DIV/0!
+Hyderabad,6625.48,Home Decor,Angela Chavez,0.08,Retail,6095.44,530.04,01-11-2023,,TV,#DIV/0!
+Hyderabad,9486.44,Home Decor,George Williams,0.22,Wholesale,7399.42,2087.02,01-11-2023,,TV,#DIV/0!
+Hyderabad,8526.14,Apparel,Jillian Mason,0.25,Online,6394.61,2131.54,01-11-2023,,TV,#DIV/0!
+Hyderabad,2159.52,Home Decor,Raymond Taylor,0.22,Online,1684.43,475.09,01-11-2023,,TV,#DIV/0!
+Hyderabad,5956.65,Electronics,Daniel May,0.07,Retail,5539.68,416.97,01-11-2023,,TV,#DIV/0!
+Hyderabad,9767.13,Home Decor,Adam Martin,0.25,Online,7325.35,2441.78,01-11-2023,,TV,#DIV/0!
+Hyderabad,581.12,Groceries,Patricia Liu,0.09,Retail,528.82,52.3,01-11-2023,,TV,#DIV/0!
+Hyderabad,1800.37,Apparel,Andrew Padilla,0,Online,1800.37,0,01-11-2023,,TV,#DIV/0!
+Hyderabad,4505.53,Apparel,James Jones,0.04,Retail,4325.31,180.22,01-11-2023,,TV,#DIV/0!
+Hyderabad,586.23,Home Decor,Nathan Golden,0.16,Wholesale,492.43,93.8,01-11-2023,,TV,#DIV/0!
+Hyderabad,2787.11,Apparel,James Fernandez,0.05,Online,2647.75,139.36,01-11-2023,,TV,#DIV/0!
+Hyderabad,9854.99,Electronics,Jake Smith,0.24,Wholesale,7489.79,2365.2,01-11-2023,,TV,#DIV/0!
+Hyderabad,3109.4,Groceries,Arthur Gilbert,0.05,Wholesale,2953.93,155.47,01-11-2023,,TV,#DIV/0!
+Hyderabad,1501.73,Groceries,Jonathan Melendez,0.01,Wholesale,1486.71,15.02,01-11-2023,,TV,#DIV/0!
+Hyderabad,8920.34,Electronics,Thomas Soto,0.13,Retail,7760.7,1159.64,01-12-2023,14781.81,Digital,7759.7
+Hyderabad,2598.63,Home Decor,Glenda Owens,0.18,Online,2130.88,467.75,01-12-2023,,Digital,#DIV/0!
+Hyderabad,3474.76,Groceries,Frank Cardenas,0.16,Retail,2918.8,555.96,01-12-2023,,Digital,#DIV/0!
+Hyderabad,6215,Home Decor,Randy Chang,0.2,Retail,4972,1243,01-12-2023,,Digital,#DIV/0!
+Hyderabad,6330.88,Home Decor,Nicole White,0.05,Retail,6014.34,316.54,01-12-2023,,Digital,#DIV/0!
+Hyderabad,3836.53,Electronics,Steven Delgado,0.06,Wholesale,3606.34,230.19,01-12-2023,,Digital,#DIV/0!
+Hyderabad,7273.44,Electronics,James Terry,0.01,Retail,7200.71,72.73,01-12-2023,,Digital,#DIV/0!
+Hyderabad,4367.76,Apparel,Anthony Collier,0.23,Wholesale,3363.18,1004.58,01-12-2023,,Digital,#DIV/0!
+Hyderabad,7853.36,Home Decor,Jacob Nielsen,0.02,Online,7696.29,157.07,01-12-2023,,Digital,#DIV/0!
+Hyderabad,9342.42,Electronics,Matthew David,0.23,Wholesale,7193.66,2148.76,01-12-2023,,Digital,#DIV/0!
+Hyderabad,2871.47,Home Decor,Jennifer Randolph,0.15,Wholesale,2440.75,430.72,01-12-2023,,Digital,#DIV/0!
+Hyderabad,4362.59,Apparel,Kyle Wilson,0.03,Wholesale,4231.71,130.88,01-12-2023,,Digital,#DIV/0!
+Hyderabad,6759.28,Electronics,Lisa Johnson,0.01,Retail,6691.69,67.59,01-12-2023,,Digital,#DIV/0!
+Hyderabad,1069.92,Apparel,Jennifer Baxter,0.01,Wholesale,1059.22,10.7,01-12-2023,,Digital,#DIV/0!
+Hyderabad,3757.34,Apparel,Lisa Gonzalez,0.03,Online,3644.62,112.72,01-12-2023,,Digital,#DIV/0!
+Hyderabad,9238.71,Home Decor,Richard Hernandez,0.17,Retail,7668.13,1570.58,01-12-2023,,Digital,#DIV/0!
+Hyderabad,5371.35,Apparel,Shannon Horn,0.22,Wholesale,4189.65,1181.7,01-12-2023,,Digital,#DIV/0!
+Hyderabad,2218.04,Electronics,Rita Coffey,0.05,Retail,2107.14,110.9,01-12-2023,,Digital,#DIV/0!
+Hyderabad,7297.89,Apparel,Rebekah Manning,0.22,Retail,5692.35,1605.54,01-12-2023,,Digital,#DIV/0!
+Hyderabad,624.6,Apparel,Ian Villa,0.03,Online,605.86,18.74,01-12-2023,,Digital,#DIV/0!
+Hyderabad,8648.32,Home Decor,Emily Anderson,0.12,Retail,7610.52,1037.8,01-12-2023,,Digital,#DIV/0!
+Hyderabad,7658.6,Home Decor,Melissa Fleming,0.19,Online,6203.47,1455.13,01-12-2023,,Digital,#DIV/0!
+Hyderabad,4818.28,Home Decor,Krystal Wells,0.15,Wholesale,4095.54,722.74,01-12-2023,,Digital,#DIV/0!

@@ -1,0 +1,1201 @@
+City,Amount,Product_Category,Sales_Rep,Discount,Customer_segmentation,After_dicouont,Loss,Month_Formatted,Spend,Channel
+Bangalore,4036.49,Groceries,Renee Tran,0.02,Online,3955.76,80.73,01-01-2023,18986.02,Digital
+Bangalore,4223.1,Home Decor,Craig Huff,0.21,Retail,3336.25,886.85,01-01-2023,,Digital
+Bangalore,1416.97,Electronics,Joseph Cantrell,0.22,Wholesale,1105.24,311.73,01-01-2023,,Digital
+Bangalore,6684.37,home Décor,Tracy House,0.14,Online,5748.56,935.81,01-01-2023,,Digital
+Bangalore,1062.76,Apparel,Jason Fernandez MD,0.04,Wholesale,1020.25,42.51,01-01-2023,,Digital
+Bangalore,7813.79,Groceries,Jose Luna,0.14,Wholesale,6719.86,1093.93,01-01-2023,,Digital
+Bangalore,1631.45,Groceries,William Flores,0.11,Retail,1451.99,179.46,01-01-2023,,Digital
+Bangalore,9057.03,Apparel,Kayla Garcia,0.05,Online,8604.18,452.85,01-01-2023,,Digital
+Bangalore,9211.83,Apparel,Andrew Reed,0.02,Online,9027.59,184.24,01-01-2023,,Digital
+Bangalore,1579.25,Home Decor,Katie Adams,0.09,Wholesale,1437.12,142.13,01-01-2023,,Digital
+Bangalore,1923.03,Home Decor,Jennifer Daniel,0.12,Retail,1692.27,230.76,01-01-2023,,Digital
+Bangalore,7670.97,Electronics,Steven Harris,0.07,Wholesale,7134,536.97,01-01-2023,,Digital
+Bangalore,2410.95,Electronics,Lindsay Allen,0.02,Wholesale,2362.73,48.22,01-01-2023,,Digital
+Bangalore,6929.59,Groceries,Jeffery Lee,0.13,Online,6028.74,900.85,01-01-2023,,Digital
+Bangalore,888.59,Electronics,Michael Wiggins,0.08,Online,817.5,71.09,01-01-2023,,Digital
+Bangalore,6156.54,Electronics,Troy Martin,0.21,Wholesale,4863.67,1292.87,01-01-2023,,Digital
+Bangalore,3472.08,Groceries,Jose Robinson,0.15,Retail,2951.27,520.81,01-01-2023,,Digital
+Bangalore,6963.57,Home Decor,Dr. Joseph Franklin MD,0.17,Online,5779.76,1183.81,01-01-2023,,Digital
+Bangalore,3553.79,Electronics,Anthony Hubbard,0.11,Wholesale,3162.87,390.92,01-01-2023,,Digital
+Bangalore,4609.43,Groceries,Frederick Rivers,0.1,Retail,4148.49,460.94,01-01-2023,,Digital
+Bangalore,540.45,Groceries,Shelby Martinez,0.18,Online,443.17,97.28,01-01-2023,,Digital
+Bangalore,4920.62,Electronics,Cathy Hanson,0,Wholesale,4920.62,0,01-01-2023,,Digital
+Bangalore,3796.45,Electronics,John Mcdonald,0.02,Online,3720.52,75.93,01-01-2023,,Digital
+Bangalore,5091.28,Apparel,John Johnson,0.05,Wholesale,4836.72,254.56,01-01-2023,,Digital
+Bangalore,8542.85,Apparel,David Wilson,0.02,Retail,8371.99,170.86,01-01-2023,,Digital
+Bangalore,5398.33,Groceries,Crystal Cook,0.09,Retail,4912.48,485.85,01-01-2023,,Digital
+Bangalore,4472.29,Groceries,Cynthia Wallace,0.04,Retail,4293.4,178.89,01-01-2023,,Digital
+Bangalore,9472.48,Electronics,Kelsey Mendoza,0.08,Retail,8714.68,757.8,01-01-2023,,Digital
+Bangalore,738.3,Apparel,Mr. Matthew Lopez Jr.,0.03,Online,716.15,22.15,01-01-2023,,Digital
+Chennai,6440.23,Home Decor,Heather Richards,0.24,Online,4894.57,1545.66,01-01-2023,16475.43,Print
+Chennai,2429.35,Apparel,Natasha Foster,0.19,Online,1967.77,461.58,01-01-2023,,Print
+Chennai,4464.6,Home Decor,Anthony Berry,0.01,Online,4419.95,44.65,01-01-2023,,Print
+Chennai,3079.62,Electronics,Debra Davidson,0.08,Wholesale,2833.25,246.37,01-01-2023,,Print
+Chennai,2761.49,Groceries,Michael Moore,0.2,Online,2209.19,552.3,01-01-2023,,Print
+Chennai,7077.86,Apparel,David Robertson,0.25,Retail,5308.4,1769.47,01-01-2023,,Print
+Chennai,3171.48,Electronics,Anthony Diaz,0.18,Retail,2600.61,570.87,01-01-2023,,Print
+Chennai,3695.63,Electronics,Kristin Hart,0.19,Retail,2993.46,702.17,01-01-2023,,Print
+Chennai,2062.53,Home Decor,Nicholas Thompson,0.01,Online,2041.9,20.63,01-01-2023,,Print
+Chennai,2995.41,Electronics,Angela Myers,0.12,Retail,2635.96,359.45,01-01-2023,,Print
+Chennai,3625.34,Electronics,Veronica Mccoy,0.05,Online,3444.07,181.27,01-01-2023,,Print
+Chennai,1456.25,Groceries,Dawn Grimes,0.04,Wholesale,1398,58.25,01-01-2023,,Print
+Chennai,5547.54,Apparel,Larry Silva,0.16,Wholesale,4659.93,887.61,01-01-2023,,Print
+Chennai,9438.27,Apparel,Latasha Mata,0.05,Online,8966.36,471.91,01-01-2023,,Print
+Chennai,4412.8,Apparel,Rodney Lutz,0.22,Online,3441.98,970.82,01-01-2023,,Print
+Chennai,5087.83,Electronics,Karen Johnson,0.18,Online,4172.02,915.81,01-01-2023,,Print
+Chennai,7096.48,Apparel,Sarah Johnson,0.21,Online,5606.22,1490.26,01-01-2023,,Print
+Chennai,8218.32,Apparel,Nichole Marshall,0.06,Online,7725.22,493.1,01-01-2023,,Print
+Chennai,6091.65,Apparel,Michael Ewing,0.17,Retail,5056.07,1035.58,01-01-2023,,Print
+Chennai,9201.73,Electronics,Angela Wilson,0.2,Wholesale,7361.38,1840.35,01-01-2023,,Print
+Chennai,1826.88,Home Decor,Kelsey Willis,0.04,Retail,1753.8,73.08,01-01-2023,,Print
+Chennai,3405.16,Groceries,Angela Lewis,0.01,Online,3371.11,34.05,01-01-2023,,Print
+Chennai,8757.7,Electronics,Mark Turner,0.05,Retail,8319.82,437.89,01-01-2023,,Print
+Chennai,1421.83,Apparel,Neil Hart,0.13,Wholesale,1236.99,184.84,01-01-2023,,Print
+Chennai,5372.32,Apparel,Gregory Morales,0.02,Online,5264.87,107.45,01-01-2023,,Print
+Chennai,5497.8,Apparel,Sharon Yoder,0.1,Online,4948.02,549.78,01-01-2023,,Print
+Chennai,6064.88,Home Decor,John Alvarado,0.11,Retail,5397.74,667.14,01-01-2023,,Print
+Chennai,1217.75,Home Decor,Sabrina Campbell,0.03,Online,1181.22,36.53,01-01-2023,,Print
+Chennai,6887.88,Groceries,Mark Kennedy,0.04,Retail,6612.36,275.52,01-01-2023,,Print
+Chennai,4915.85,Home Decor,Rebecca Dawson,0.17,Retail,4080.16,835.69,01-01-2023,,Print
+Chennai,6118.89,Electronics,Aaron Dixon,0.11,Online,5445.81,673.08,01-01-2023,,Print
+Chennai,4900.08,Home Decor,Evan Romero,0.04,Wholesale,4704.08,196,01-01-2023,,Print
+Hyderabad,1771.71,Electronics,Jason Taylor,0.19,Online,1435.09,336.62,01-01-2023,5436.4,TV
+Hyderabad,3426.32,Home Decor,Heather Lowe,0.1,Wholesale,3083.69,342.63,01-01-2023,,TV
+Hyderabad,6995.21,Home Decor,Derrick Washington,0.04,Online,6715.4,279.81,01-01-2023,,TV
+Hyderabad,1050.86,Apparel,Mr. John Mathews,0.15,Wholesale,893.23,157.63,01-01-2023,,TV
+Hyderabad,6734.2,Groceries,Kyle Jones,0.11,Retail,5993.44,740.76,01-01-2023,,TV
+Hyderabad,3904.63,Apparel,Sarah Frank,0.14,Retail,3357.98,546.65,01-01-2023,,TV
+Hyderabad,8057.19,Home Decor,Samantha Davis,0.04,Online,7734.9,322.29,01-01-2023,,TV
+Hyderabad,5339.36,Home Decor,Wendy Weaver,0.13,Retail,4645.24,694.12,01-01-2023,,TV
+Hyderabad,7837.74,Groceries,Zachary Livingston,0.03,Online,7602.61,235.13,01-01-2023,,TV
+Hyderabad,785.35,Electronics,Scott Murphy,0.12,Retail,691.11,94.24,01-01-2023,,TV
+Hyderabad,4513,Home Decor,Brent Lopez,0.07,Online,4197.09,315.91,01-01-2023,,TV
+Hyderabad,3324.98,Electronics,Sabrina Thomas,0.04,Online,3191.98,133,01-01-2023,,TV
+Hyderabad,3487.8,Apparel,Brandy Gomez,0.06,Retail,3278.53,209.27,01-01-2023,,TV
+Hyderabad,9217.91,Electronics,Stephen Whitney,0.04,Wholesale,8849.19,368.72,01-01-2023,,TV
+Hyderabad,8585.88,Apparel,Michael Harmon,0.02,Retail,8414.16,171.72,01-01-2023,,TV
+Hyderabad,1344.7,Electronics,Mary Pierce,0.23,Online,1035.42,309.28,01-01-2023,,TV
+Hyderabad,4746.14,Electronics,Sara Williams,0.11,Wholesale,4224.06,522.08,01-01-2023,,TV
+Hyderabad,6628.1,Apparel,Daniel Soto MD,0.22,Retail,5169.92,1458.18,01-01-2023,,TV
+Hyderabad,849.07,Groceries,Darryl Rivas,0.02,Online,832.09,16.98,01-01-2023,,TV
+Hyderabad,4869.91,Home Decor,Crystal Miller,0.12,Wholesale,4285.52,584.39,01-01-2023,,TV
+Hyderabad,7845.63,Home Decor,Jamie Scott,0.09,Wholesale,7139.52,706.11,01-01-2023,,TV
+Hyderabad,945.85,Groceries,Francisco Oliver,0.12,Retail,832.35,113.5,01-01-2023,,TV
+Hyderabad,2194.36,Electronics,James Nguyen,0.18,Retail,1799.38,394.98,01-01-2023,,TV
+Hyderabad,5720.7,Home Decor,Sara Brooks,0.04,Online,5491.87,228.83,01-01-2023,,TV
+Hyderabad,5204.57,Apparel,Lisa Newman,0.15,Wholesale,4423.88,780.69,01-01-2023,,TV
+Hyderabad,6346.33,Groceries,Amy Martinez,0.08,Retail,5838.62,507.71,01-01-2023,,TV
+Hyderabad,8789.58,Home Decor,Anne Compton,0.12,Online,7734.83,1054.75,01-01-2023,,TV
+Kochi,1123.41,Home Decor,Caleb Acevedo,0.02,Retail,1100.94,22.47,01-01-2023,1615.66,Print
+Kochi,4357.57,Home Decor,Tanya Williams,0.2,Online,3486.06,871.51,01-01-2023,,Print
+Kochi,1465.35,Electronics,Michael White,0.25,Retail,1099.01,366.34,01-01-2023,,Print
+Kochi,2816.64,Groceries,Stephen Tyler,0.23,Wholesale,2168.81,647.83,01-01-2023,,Print
+Kochi,7041.52,Groceries,Margaret Hull,0.15,Wholesale,5985.29,1056.23,01-01-2023,,Print
+Kochi,5653.97,Apparel,Randy Church,0.18,Retail,4636.26,1017.71,01-01-2023,,Print
+Kochi,8063.58,Groceries,Ronald Reese,0.01,Wholesale,7982.94,80.64,01-01-2023,,Print
+Kochi,4219.39,Apparel,Jeanne Mclaughlin,0.15,Retail,3586.48,632.91,01-01-2023,,Print
+Kochi,7369.68,Home Decor,Ryan Baird,0.21,Wholesale,5822.05,1547.63,01-01-2023,,Print
+Kochi,8628.17,Electronics,Anthony Gamble,0.22,Wholesale,6729.97,1898.2,01-01-2023,,Print
+Kochi,6667,Electronics,Steven Paul,0.14,Online,5733.62,933.38,01-01-2023,,Print
+Kochi,3849.21,Groceries,Courtney Perry,0.08,Retail,3541.27,307.94,01-01-2023,,Print
+Kochi,4708.28,Electronics,Eric Henry,0.01,Retail,4661.2,47.08,01-01-2023,,Print
+Kochi,9026.7,Electronics,Jose Bowen,0.08,Online,8304.56,722.14,01-01-2023,,Print
+Kochi,2052.14,Apparel,Anthony Delgado,0.17,Online,1703.28,348.86,01-01-2023,,Print
+Kochi,1489.94,Groceries,Edward Snyder,0.25,Wholesale,1117.46,372.49,01-01-2023,,Print
+Kochi,5542.47,Home Decor,Timothy Bennett,0.17,Retail,4600.25,942.22,01-01-2023,,Print
+Kochi,4996.62,Electronics,Jessica Webster,0.22,Wholesale,3897.36,1099.26,01-01-2023,,Print
+Kochi,602.76,Groceries,Thomas Castro,0.08,Online,554.54,48.22,01-01-2023,,Print
+Kochi,6991.74,Apparel,Steve Velez,0.1,Online,6292.57,699.17,01-01-2023,,Print
+Bangalore,8195.57,Electronics,Kevin Ross,0.14,Retail,7048.19,1147.38,01-02-2023,16451.27,Outdoor
+Bangalore,1718.78,Home Decor,Taylor Hunter,0.01,Retail,1701.59,17.19,01-02-2023,,Outdoor
+Bangalore,3636.47,Electronics,Emily Gonzalez,0.05,Retail,3454.65,181.82,01-02-2023,,Outdoor
+Bangalore,2586.52,Groceries,Nicholas Perez,0.05,Wholesale,2457.19,129.33,01-02-2023,,Outdoor
+Bangalore,8038.54,Home Decor,Bruce West,0.06,Wholesale,7556.23,482.31,01-02-2023,,Outdoor
+Bangalore,8724.42,Home Decor,Michelle Warren,0.16,Online,7328.51,1395.91,01-02-2023,,Outdoor
+Bangalore,8103.74,Apparel,Dave Warren,0.15,Wholesale,6888.18,1215.56,01-02-2023,,Outdoor
+Bangalore,2811.36,Electronics,Michelle Bennett,0.15,Online,2389.66,421.7,01-02-2023,,Outdoor
+Bangalore,3701.5,Electronics,Richard Dominguez,0.04,Wholesale,3553.44,148.06,01-02-2023,,Outdoor
+Bangalore,7238.3,Electronics,Ryan Burke,0.09,Wholesale,6586.85,651.45,01-02-2023,,Outdoor
+Bangalore,8888.35,Electronics,Michael Carr,0.05,Retail,8443.93,444.42,01-02-2023,,Outdoor
+Bangalore,4623.22,Electronics,Steven Silva,0.07,Wholesale,4299.59,323.63,01-02-2023,,Outdoor
+Bangalore,5558.66,Apparel,Brady Nelson,0.01,Online,5503.07,55.59,01-02-2023,,Outdoor
+Bangalore,8513.45,Home Decor,Dr. Grant Velez,0.11,Online,7576.97,936.48,01-02-2023,,Outdoor
+Bangalore,4007.43,Apparel,Brian Hoffman,0.15,Wholesale,3406.32,601.11,01-02-2023,,Outdoor
+Bangalore,5006.63,Electronics,Tiffany Brooks,0.03,Wholesale,4856.43,150.2,01-02-2023,,Outdoor
+Bangalore,4629.81,Home Decor,Janet Nelson,0.16,Retail,3889.04,740.77,01-02-2023,,Outdoor
+Bangalore,2194.22,Home Decor,Anthony Grant,0.01,Online,2172.28,21.94,01-02-2023,,Outdoor
+Bangalore,7377.79,Groceries,Corey Miller,0.19,Online,5976.01,1401.78,01-02-2023,,Outdoor
+Bangalore,1193.92,Groceries,Mr. Christopher Powell,0.14,Retail,1026.77,167.15,01-02-2023,,Outdoor
+Chennai,3175.21,Electronics,Kevin Walton,0.16,Online,2667.18,508.03,01-02-2023,7983.62,TV
+Chennai,4480.06,Groceries,Janet Gomez,0.22,Retail,3494.45,985.61,01-02-2023,,TV
+Chennai,7660.09,Apparel,Christopher Lam,0.2,Retail,6128.07,1532.02,01-02-2023,,TV
+Chennai,3331,Groceries,Travis Morales,0.03,Retail,3231.07,99.93,01-02-2023,,TV
+Chennai,930.42,Electronics,Rachel Collins,0,Online,930.42,0,01-02-2023,,TV
+Chennai,7113.52,Apparel,Jeffery Peterson,0.09,Wholesale,6473.3,640.22,01-02-2023,,TV
+Chennai,6022.93,Home Decor,Steven Sutton,0.21,Retail,4758.11,1264.82,01-02-2023,,TV
+Chennai,5428.3,Groceries,Charles Hayes,0.24,Retail,4125.51,1302.79,01-02-2023,,TV
+Chennai,6595.19,Groceries,Matthew Hensley,0.03,Retail,6397.33,197.86,01-02-2023,,TV
+Chennai,6417.58,Apparel,Chad Olson,0.13,Wholesale,5583.29,834.29,01-02-2023,,TV
+Chennai,9370.64,Electronics,Todd Foster MD,0.21,Online,7402.81,1967.83,01-02-2023,,TV
+Chennai,1421.06,Apparel,Anthony Kirk,0.23,Retail,1094.22,326.84,01-02-2023,,TV
+Chennai,1853.86,Home Decor,Anna George,0.08,Wholesale,1705.55,148.31,01-02-2023,,TV
+Chennai,1068.02,Apparel,Jack Frye,0.06,Wholesale,1003.94,64.08,01-02-2023,,TV
+Hyderabad,1760.34,Electronics,Lauren Owens,0.1,Retail,1584.31,176.03,01-02-2023,8685.88,TV
+Hyderabad,2394.79,Home Decor,Jeffery Cooper,0.15,Online,2035.57,359.22,01-02-2023,,TV
+Hyderabad,7332.57,Groceries,Sarah Harris MD,0.09,Wholesale,6672.64,659.93,01-02-2023,,TV
+Hyderabad,4190.4,Apparel,Ashley Valdez,0.02,Retail,4106.59,83.81,01-02-2023,,TV
+Hyderabad,9090.73,Groceries,Steven Palmer,0.24,Retail,6908.95,2181.78,01-02-2023,,TV
+Hyderabad,8983.36,Groceries,Kristina Ford,0.1,Retail,8085.02,898.34,01-02-2023,,TV
+Hyderabad,7496.88,Groceries,Melissa Pena,0.05,Online,7122.04,374.84,01-02-2023,,TV
+Hyderabad,6606.96,Electronics,Melanie Anderson,0.02,Retail,6474.82,132.14,01-02-2023,,TV
+Hyderabad,4176.18,Electronics,Ryan Conley,0.25,Online,3132.14,1044.05,01-02-2023,,TV
+Hyderabad,3843.89,Apparel,Patrick Walker,0.21,Wholesale,3036.67,807.22,01-02-2023,,TV
+Hyderabad,6897.9,Electronics,Cynthia Newton,0.17,Online,5725.26,1172.64,01-02-2023,,TV
+Hyderabad,7069.15,Electronics,Kyle Rush,0.03,Retail,6857.08,212.07,01-02-2023,,TV
+Hyderabad,8142.35,Apparel,Lisa Phillips,0,Retail,8142.35,0,01-02-2023,,TV
+Hyderabad,1693.84,Groceries,Angela Beltran,0.18,Wholesale,1388.95,304.89,01-02-2023,,TV
+Hyderabad,7505.13,Apparel,Carolyn Blanchard,0.09,Online,6829.67,675.46,01-02-2023,,TV
+Hyderabad,2188.09,Apparel,Matthew Dominguez,0.15,Online,1859.88,328.21,01-02-2023,,TV
+Hyderabad,6665.24,Groceries,David Hansen,0.14,Wholesale,5732.11,933.13,01-02-2023,,TV
+Hyderabad,9565.33,Electronics,Albert Hart,0.15,Wholesale,8130.53,1434.8,01-02-2023,,TV
+Hyderabad,5689.7,Home Decor,Benjamin Holmes,0.05,Wholesale,5405.22,284.49,01-02-2023,,TV
+Hyderabad,4893.7,Apparel,John Kent,0.2,Online,3914.96,978.74,01-02-2023,,TV
+Hyderabad,2254.38,Home Decor,Alyssa Walker,0.17,Wholesale,1871.14,383.24,01-02-2023,,TV
+Hyderabad,4157.88,Electronics,Rebecca Patterson,0.19,Retail,3367.88,790,01-02-2023,,TV
+Hyderabad,8308.91,Groceries,Michael Miranda,0.14,Online,7145.66,1163.25,01-02-2023,,TV
+Hyderabad,555.02,Home Decor,Kyle Wilson,0.14,Retail,477.32,77.7,01-02-2023,,TV
+Hyderabad,6449.41,Electronics,Ryan Burke,0.07,Retail,5997.95,451.46,01-02-2023,,TV
+Hyderabad,8970.98,Groceries,Sara Brown,0.01,Online,8881.27,89.71,01-02-2023,,TV
+Hyderabad,7235.42,Apparel,Melissa Munoz,0.21,Online,5715.98,1519.44,01-02-2023,,TV
+Kochi,4297.55,Home Decor,Sergio Johnson,0.21,Retail,3395.06,902.49,01-02-2023,4136.48,Digital
+Kochi,8752.33,Groceries,Robert Graham,0.04,Retail,8402.24,350.09,01-02-2023,,Digital
+Kochi,9786.34,Home Decor,Angela Stanley,0.19,Online,7926.94,1859.4,01-02-2023,,Digital
+Kochi,6876.14,Apparel,Sara Anderson,0.11,Wholesale,6119.76,756.38,01-02-2023,,Digital
+Kochi,4476.58,Electronics,Amanda Williams,0.14,Online,3849.86,626.72,01-02-2023,,Digital
+Kochi,4671.43,Groceries,Dr. David Farmer DDS,0.15,Retail,3970.72,700.71,01-02-2023,,Digital
+Kochi,2820.96,Groceries,Jennifer Smith,0.2,Retail,2256.77,564.19,01-02-2023,,Digital
+Kochi,7294.6,Home Decor,Darren Duncan,0.19,Wholesale,5908.63,1385.97,01-02-2023,,Digital
+Kochi,9626.75,Apparel,Michael Barry,0.17,Retail,7990.2,1636.55,01-02-2023,,Digital
+Kochi,8234.7,Electronics,Tyler Hill,0.2,Online,6587.76,1646.94,01-02-2023,,Digital
+Kochi,5000.02,Electronics,Marcia Jenkins,0.13,Retail,4350.02,650,01-02-2023,,Digital
+Kochi,1422.04,Electronics,Megan Perry,0.13,Retail,1237.17,184.87,01-02-2023,,Digital
+Kochi,9974.67,Apparel,Jay James,0.04,Wholesale,9575.68,398.99,01-02-2023,,Digital
+Kochi,5605.57,Home Decor,Kimberly Gray,0.17,Wholesale,4652.62,952.95,01-02-2023,,Digital
+Kochi,9647.25,Home Decor,Megan Fuller,0.16,Online,8103.69,1543.56,01-02-2023,,Digital
+Kochi,2111.51,Groceries,Theresa Robinson,0.12,Wholesale,1858.13,253.38,01-02-2023,,Digital
+Kochi,3899.59,Home Decor,Patricia Howard,0.03,Online,3782.6,116.99,01-02-2023,,Digital
+Kochi,8383.66,Apparel,Gregory Lewis,0.18,Wholesale,6874.6,1509.06,01-02-2023,,Digital
+Kochi,9100.25,Home Decor,Dr. Kelsey Moore,0.24,Wholesale,6916.19,2184.06,01-02-2023,,Digital
+Kochi,5676.61,Home Decor,Stephanie Oliver,0.16,Retail,4768.35,908.26,01-02-2023,,Digital
+Kochi,8260.84,Apparel,Anna Kerr,0.22,Online,6443.46,1817.38,01-02-2023,,Digital
+Kochi,7024.58,Groceries,Shawn Harrison,0.24,Wholesale,5338.68,1685.9,01-02-2023,,Digital
+Kochi,2635.16,Groceries,Dana Yang,0.07,Online,2450.7,184.46,01-02-2023,,Digital
+Kochi,9939.58,Electronics,Todd Ortega,0.06,Online,9343.21,596.37,01-02-2023,,Digital
+Kochi,627.77,Home Decor,Christina Fletcher,0.17,Retail,521.05,106.72,01-02-2023,,Digital
+Kochi,9911.76,Groceries,Barbara White,0.24,Wholesale,7532.94,2378.82,01-02-2023,,Digital
+Kochi,6481.47,Groceries,Pedro Henry,0.11,Wholesale,5768.51,712.96,01-02-2023,,Digital
+Kochi,2836.38,Electronics,Crystal Sanchez,0.15,Online,2410.92,425.46,01-02-2023,,Digital
+Kochi,1481.19,Home Decor,Nicole Waters,0.01,Retail,1466.38,14.81,01-02-2023,,Digital
+Bangalore,2571.71,Groceries,Tracy Schultz,0.21,Online,2031.65,540.06,01-03-2023,18472.7,Print
+Bangalore,2905.51,Groceries,Erin Martinez,0.17,Online,2411.57,493.94,01-03-2023,,Print
+Bangalore,8943.92,Groceries,Tyler Hodges,0.03,Wholesale,8675.6,268.32,01-03-2023,,Print
+Bangalore,6608.01,Home Decor,Megan King,0,Online,6608.01,0,01-03-2023,,Print
+Bangalore,2713.8,Apparel,Gregory Tran,0.18,Retail,2225.32,488.48,01-03-2023,,Print
+Bangalore,9116.68,Electronics,Lisa Poole,0.16,Retail,7658.01,1458.67,01-03-2023,,Print
+Bangalore,5738.73,Apparel,Jason Davis,0.16,Retail,4820.53,918.2,01-03-2023,,Print
+Bangalore,1009.55,Home Decor,Daniel Martin,0.05,Retail,959.07,50.48,01-03-2023,,Print
+Bangalore,1438.16,Electronics,Manuel Santos,0.05,Wholesale,1366.25,71.91,01-03-2023,,Print
+Bangalore,4487.53,Home Decor,Matthew Clark,0.06,Online,4218.28,269.25,01-03-2023,,Print
+Bangalore,9453.68,Apparel,Tracy Hall,0.12,Retail,8319.24,1134.44,01-03-2023,,Print
+Bangalore,2116.41,Apparel,Suzanne Banks,0,Retail,2116.41,0,01-03-2023,,Print
+Bangalore,1445.07,Groceries,David Edwards,0.1,Online,1300.56,144.51,01-03-2023,,Print
+Bangalore,8405.33,Home Decor,Kelly David,0.16,Retail,7060.48,1344.85,01-03-2023,,Print
+Bangalore,9612.73,Electronics,Kevin Jordan,0.15,Wholesale,8170.82,1441.91,01-03-2023,,Print
+Bangalore,2260.51,Electronics,Luis Clark,0.04,Wholesale,2170.09,90.42,01-03-2023,,Print
+Bangalore,5366.31,Electronics,Whitney White,0,Wholesale,5366.31,0,01-03-2023,,Print
+Bangalore,2000.94,Groceries,Mathew Gomez,0.15,Wholesale,1700.8,300.14,01-03-2023,,Print
+Bangalore,9118.68,Groceries,Christian Williams,0.22,Wholesale,7112.57,2006.11,01-03-2023,,Print
+Bangalore,4458.99,Groceries,Sarah Perez,0.19,Wholesale,3611.78,847.21,01-03-2023,,Print
+Bangalore,1990.17,Home Decor,Ashley Powers MD,0.23,Online,1532.43,457.74,01-03-2023,,Print
+Bangalore,8850.67,Home Decor,Mrs. Jacqueline Carr,0.2,Retail,7080.54,1770.13,01-03-2023,,Print
+Chennai,7453.86,Home Decor,Anthony Robinson,0.19,Retail,6037.63,1416.23,01-03-2023,10057.98,Print
+Chennai,9087.74,Apparel,Michelle Mason,0.21,Retail,7179.31,1908.43,01-03-2023,,Print
+Chennai,6392.42,Electronics,Elizabeth Tapia,0.25,Retail,4794.32,1598.11,01-03-2023,,Print
+Chennai,1263.92,Groceries,Shawn Reyes,0.21,Wholesale,998.5,265.42,01-03-2023,,Print
+Chennai,8993.94,Home Decor,Tyler Garcia,0.05,Online,8544.24,449.7,01-03-2023,,Print
+Chennai,4440.34,Apparel,Katrina Nixon,0.14,Wholesale,3818.69,621.65,01-03-2023,,Print
+Chennai,4870.54,Electronics,Miss Beth Cuevas DDS,0.1,Online,4383.49,487.05,01-03-2023,,Print
+Chennai,2867.66,Home Decor,Bryan Wall,0.13,Online,2494.86,372.8,01-03-2023,,Print
+Chennai,8811.74,Home Decor,Joseph Jackson,0.11,Wholesale,7842.45,969.29,01-03-2023,,Print
+Chennai,2574.51,Electronics,Raymond Miller,0.21,Online,2033.86,540.65,01-03-2023,,Print
+Chennai,4340.85,Apparel,Katherine Gallagher,0.05,Online,4123.81,217.04,01-03-2023,,Print
+Chennai,540.92,Apparel,Jason Vang,0.16,Online,454.37,86.55,01-03-2023,,Print
+Chennai,6985.95,Groceries,Annette Gonzalez,0.06,Retail,6566.79,419.16,01-03-2023,,Print
+Chennai,9483.3,Electronics,Christina Caldwell,0.02,Online,9293.63,189.67,01-03-2023,,Print
+Chennai,680.21,Groceries,Matthew Ortiz,0.11,Online,605.39,74.82,01-03-2023,,Print
+Chennai,6790.19,Electronics,Jessica Brown,0.17,Retail,5635.86,1154.33,01-03-2023,,Print
+Chennai,4212.39,Electronics,Alexis Scott,0.12,Online,3706.9,505.49,01-03-2023,,Print
+Chennai,9570.22,Apparel,Lisa Farley,0.11,Online,8517.5,1052.72,01-03-2023,,Print
+Chennai,6408.44,Groceries,Cynthia Rose,0.04,Wholesale,6152.1,256.34,01-03-2023,,Print
+Chennai,8168.87,Groceries,Seth Gutierrez,0.21,Retail,6453.41,1715.46,01-03-2023,,Print
+Chennai,3599.46,Groceries,Debra Martinez,0.13,Wholesale,3131.53,467.93,01-03-2023,,Print
+Chennai,3824.6,Home Decor,Jennifer Bailey,0,Online,3824.6,0,01-03-2023,,Print
+Chennai,1666.46,Groceries,Zachary Jackson,0.21,Retail,1316.5,349.96,01-03-2023,,Print
+Chennai,7807.59,Groceries,Michael Kelly,0,Retail,7807.59,0,01-03-2023,,Print
+Chennai,1786.72,Groceries,Troy Cook,0.2,Online,1429.38,357.34,01-03-2023,,Print
+Chennai,2656.97,Groceries,Amanda Alexander,0.15,Online,2258.42,398.55,01-03-2023,,Print
+Hyderabad,8872.85,Home Decor,Diana Blankenship,0.13,Online,7719.38,1153.47,01-03-2023,4875.01,TV
+Hyderabad,8165.55,Electronics,Lauren Kelley,0.12,Retail,7185.68,979.87,01-03-2023,,TV
+Hyderabad,6728.82,Apparel,Edward Boyd,0.19,Retail,5450.34,1278.48,01-03-2023,,TV
+Hyderabad,4742.15,Apparel,Stephanie Davis,0.17,Retail,3935.98,806.17,01-03-2023,,TV
+Hyderabad,4375.52,Groceries,Elizabeth Brown,0.04,Wholesale,4200.5,175.02,01-03-2023,,TV
+Hyderabad,5740.87,Home Decor,Shari Watson DDS,0.05,Retail,5453.83,287.04,01-03-2023,,TV
+Hyderabad,9065.27,Groceries,Andrew Allison,0.13,Wholesale,7886.78,1178.49,01-03-2023,,TV
+Hyderabad,2042.91,Groceries,Eric Mann,0.01,Retail,2022.48,20.43,01-03-2023,,TV
+Hyderabad,9338.45,Groceries,Anthony Perez,0.01,Wholesale,9245.07,93.38,01-03-2023,,TV
+Hyderabad,4262.48,Groceries,Brandon Simon Jr.,0.16,Retail,3580.48,682,01-03-2023,,TV
+Hyderabad,1998.68,Apparel,Leon King,0,Retail,1998.68,0,01-03-2023,,TV
+Hyderabad,2581.45,Home Decor,Kimberly Bradley,0.18,Wholesale,2116.79,464.66,01-03-2023,,TV
+Hyderabad,1727.92,Apparel,Travis Burke,0.11,Online,1537.85,190.07,01-03-2023,,TV
+Hyderabad,4519.39,Electronics,Deborah Salinas,0.24,Wholesale,3434.74,1084.65,01-03-2023,,TV
+Hyderabad,1103.1,Electronics,Christian Lynch,0.04,Wholesale,1058.98,44.12,01-03-2023,,TV
+Hyderabad,696.28,Home Decor,Patty Ward,0.25,Online,522.21,174.07,01-03-2023,,TV
+Hyderabad,5380.76,Electronics,Robert Mcpherson,0.08,Online,4950.3,430.46,01-03-2023,,TV
+Hyderabad,6655.09,Groceries,Amy Turner,0.15,Wholesale,5656.83,998.26,01-03-2023,,TV
+Hyderabad,3544.46,Electronics,Donald Mcmillan,0.22,Wholesale,2764.68,779.78,01-03-2023,,TV
+Kochi,1811.51,Groceries,Judith Oconnell,0.14,Online,1557.9,253.61,01-03-2023,3015.11,Digital
+Kochi,9232.39,Apparel,Nicholas Taylor,0.06,Online,8678.45,553.94,01-03-2023,,Digital
+Kochi,5810.31,Home Decor,Thomas Young,0.08,Wholesale,5345.49,464.82,01-03-2023,,Digital
+Kochi,3364.52,Electronics,Karen Maldonado,0.09,Retail,3061.71,302.81,01-03-2023,,Digital
+Kochi,5013.59,Apparel,Albert Parker,0.01,Online,4963.45,50.14,01-03-2023,,Digital
+Kochi,9167.19,Groceries,Rebecca Waters,0.06,Online,8617.16,550.03,01-03-2023,,Digital
+Kochi,8838.36,Electronics,Paul Rogers,0.14,Online,7600.99,1237.37,01-03-2023,,Digital
+Kochi,2961.2,Home Decor,Virginia Jordan,0.17,Wholesale,2457.8,503.4,01-03-2023,,Digital
+Kochi,7479.56,Electronics,Erin Fisher,0.08,Retail,6881.2,598.36,01-03-2023,,Digital
+Kochi,4924.12,Apparel,Jessica Hendricks,0.18,Online,4037.78,886.34,01-03-2023,,Digital
+Kochi,2028.69,Home Decor,Steven Bautista,0.05,Wholesale,1927.26,101.43,01-03-2023,,Digital
+Kochi,8874.97,Apparel,Miranda Frank,0.18,Retail,7277.48,1597.49,01-03-2023,,Digital
+Kochi,4306.7,Home Decor,Wanda Harris,0.16,Wholesale,3617.63,689.07,01-03-2023,,Digital
+Kochi,541.87,Groceries,Michelle Hart,0.02,Online,531.03,10.84,01-03-2023,,Digital
+Kochi,3150.6,Groceries,John Lewis,0.22,Retail,2457.47,693.13,01-03-2023,,Digital
+Kochi,2234.19,Groceries,Luis Davidson,0.1,Retail,2010.77,223.42,01-03-2023,,Digital
+Kochi,2730.72,Apparel,Vanessa Foley,0.11,Online,2430.34,300.38,01-03-2023,,Digital
+Kochi,9432.22,Electronics,Rachel Cooper,0.18,Online,7734.42,1697.8,01-03-2023,,Digital
+Kochi,6659.36,Electronics,Melissa Hernandez,0.09,Online,6060.02,599.34,01-03-2023,,Digital
+Kochi,8171.38,Apparel,Tara Braun,0.04,Wholesale,7844.52,326.86,01-03-2023,,Digital
+Kochi,9969.59,Electronics,Stephanie Kennedy,0.04,Retail,9570.81,398.78,01-03-2023,,Digital
+Bangalore,3964.85,Apparel,Kristin Herrera,0.09,Retail,3608.01,356.84,01-04-2023,15746.99,Digital
+Bangalore,3658.1,Groceries,Ronald Lee,0.09,Online,3328.87,329.23,01-04-2023,,Digital
+Bangalore,6167.98,Home Decor,Christopher Gonzales,0.21,Online,4872.7,1295.28,01-04-2023,,Digital
+Bangalore,1700.97,Home Decor,Lindsay Dalton,0.04,Online,1632.93,68.04,01-04-2023,,Digital
+Bangalore,1165.27,Home Decor,Juan Buckley,0.02,Wholesale,1141.96,23.31,01-04-2023,,Digital
+Bangalore,7684.72,Apparel,Tonya Kim,0.09,Online,6993.1,691.62,01-04-2023,,Digital
+Bangalore,9564.14,Electronics,Troy Young,0.22,Retail,7460.03,2104.11,01-04-2023,,Digital
+Bangalore,8068.99,Apparel,Christine Brown,0.13,Online,7020.02,1048.97,01-04-2023,,Digital
+Bangalore,9755.54,Groceries,Matthew Sims,0.2,Online,7804.43,1951.11,01-04-2023,,Digital
+Bangalore,933.9,Home Decor,Catherine Navarro,0.16,Wholesale,784.48,149.42,01-04-2023,,Digital
+Bangalore,5345.53,Apparel,Jason Clark,0.01,Online,5292.07,53.46,01-04-2023,,Digital
+Bangalore,8983.71,Electronics,Jason Oliver,0.11,Online,7995.5,988.21,01-04-2023,,Digital
+Bangalore,5038.03,Home Decor,Ashlee Martinez,0.18,Retail,4131.18,906.85,01-04-2023,,Digital
+Bangalore,7066.76,Apparel,Kelly Brown,0.13,Wholesale,6148.08,918.68,01-04-2023,,Digital
+Bangalore,6577.38,Home Decor,Robert Vasquez,0.15,Wholesale,5590.77,986.61,01-04-2023,,Digital
+Bangalore,7081.52,Electronics,Derrick Shaffer,0.12,Wholesale,6231.74,849.78,01-04-2023,,Digital
+Bangalore,7360.81,Groceries,Robin Cameron,0.01,Online,7287.2,73.61,01-04-2023,,Digital
+Bangalore,7233.83,Apparel,Kristopher Melendez,0.1,Retail,6510.45,723.38,01-04-2023,,Digital
+Bangalore,2764.54,Apparel,Brianna Garcia,0.08,Retail,2543.38,221.16,01-04-2023,,Digital
+Bangalore,4150.74,Electronics,Mackenzie Jones,0.17,Online,3445.11,705.63,01-04-2023,,Digital
+Bangalore,7072.1,Apparel,Mark David Jr.,0.22,Wholesale,5516.24,1555.86,01-04-2023,,Digital
+Bangalore,1174.35,Groceries,Michael Torres,0.23,Online,904.25,270.1,01-04-2023,,Digital
+Bangalore,7790.15,Home Decor,Kimberly Moreno,0.14,Wholesale,6699.53,1090.62,01-04-2023,,Digital
+Bangalore,3869.81,Groceries,Jennifer Jones,0.07,Online,3598.92,270.89,01-04-2023,,Digital
+Bangalore,4183.77,Home Decor,Benjamin Bush,0,Retail,4183.77,0,01-04-2023,,Digital
+Bangalore,6663.84,Electronics,Michael Chapman,0.04,Online,6397.29,266.55,01-04-2023,,Digital
+Bangalore,2218.68,Electronics,Cheryl Garrison,0.1,Retail,1996.81,221.87,01-04-2023,,Digital
+Bangalore,5587.6,Groceries,John Moore,0.04,Retail,5364.1,223.5,01-04-2023,,Digital
+Bangalore,5306.13,Home Decor,Samantha Newman,0.13,Wholesale,4616.33,689.8,01-04-2023,,Digital
+Chennai,6768.46,Electronics,Lauren Perez,0.12,Online,5956.24,812.22,01-04-2023,4825.77,Outdoor
+Chennai,3318.99,Groceries,Jessica Lambert,0.05,Retail,3153.04,165.95,01-04-2023,,Outdoor
+Chennai,9590.59,Electronics,Vanessa Graves,0.11,Online,8535.63,1054.96,01-04-2023,,Outdoor
+Chennai,7022.09,Home Decor,Kristin Wright,0.23,Online,5407.01,1615.08,01-04-2023,,Outdoor
+Chennai,3546.93,Home Decor,Ethan Green,0.02,Retail,3475.99,70.94,01-04-2023,,Outdoor
+Chennai,1544.49,Groceries,Vincent Griffin,0.23,Online,1189.26,355.23,01-04-2023,,Outdoor
+Chennai,1827.68,Home Decor,Robert Howe,0.22,Retail,1425.59,402.09,01-04-2023,,Outdoor
+Chennai,4612.64,Groceries,Anthony Fletcher,0.09,Wholesale,4197.5,415.14,01-04-2023,,Outdoor
+Chennai,6566.53,Apparel,Alexis Simmons,0.25,Online,4924.9,1641.63,01-04-2023,,Outdoor
+Chennai,8914.38,Home Decor,Pamela Norton,0.12,Retail,7844.65,1069.73,01-04-2023,,Outdoor
+Chennai,2942.93,Apparel,Jessica Anderson,0.06,Retail,2766.35,176.58,01-04-2023,,Outdoor
+Chennai,7261.42,Electronics,Shannon Mendez,0.25,Wholesale,5446.07,1815.36,01-04-2023,,Outdoor
+Chennai,5851.42,Electronics,Emily Robertson,0.12,Online,5149.25,702.17,01-04-2023,,Outdoor
+Chennai,2012.53,Groceries,Jessica Ross,0,Retail,2012.53,0,01-04-2023,,Outdoor
+Chennai,1802.32,Groceries,Jill Jackson,0.18,Retail,1477.9,324.42,01-04-2023,,Outdoor
+Chennai,1589.42,Groceries,Natasha Murphy,0.13,Retail,1382.8,206.62,01-04-2023,,Outdoor
+Chennai,4194.89,Groceries,Brittney White,0.2,Online,3355.91,838.98,01-04-2023,,Outdoor
+Chennai,2372.21,Groceries,Mark Hoover,0.11,Retail,2111.27,260.94,01-04-2023,,Outdoor
+Chennai,3054.8,Apparel,Joseph Barber,0.05,Retail,2902.06,152.74,01-04-2023,,Outdoor
+Chennai,8488.88,Home Decor,Tammy Mann,0.17,Wholesale,7045.77,1443.11,01-04-2023,,Outdoor
+Chennai,2282.12,Apparel,Joseph Nelson,0.09,Wholesale,2076.73,205.39,01-04-2023,,Outdoor
+Chennai,5607.78,Groceries,Jennifer Garcia,0.02,Wholesale,5495.62,112.16,01-04-2023,,Outdoor
+Chennai,4915.97,Electronics,Erika Rogers,0.15,Retail,4178.57,737.4,01-04-2023,,Outdoor
+Chennai,9183.58,Groceries,Jacqueline Shaw,0.1,Wholesale,8265.22,918.36,01-04-2023,,Outdoor
+Chennai,8904.45,Electronics,Debra Jacobson,0.19,Retail,7212.6,1691.85,01-04-2023,,Outdoor
+Chennai,1071.43,Groceries,Julia Moore,0.19,Wholesale,867.86,203.57,01-04-2023,,Outdoor
+Chennai,3705.38,Home Decor,Jennifer Hoffman,0.02,Retail,3631.27,74.11,01-04-2023,,Outdoor
+Chennai,8669.57,Home Decor,Michael Guerrero,0.12,Online,7629.22,1040.35,01-04-2023,,Outdoor
+Chennai,8746.42,Groceries,Jared Underwood,0.17,Online,7259.53,1486.89,01-04-2023,,Outdoor
+Chennai,5134.28,Apparel,Cheryl Taylor,0.11,Wholesale,4569.51,564.77,01-04-2023,,Outdoor
+Chennai,6764.99,Electronics,Craig Patton,0.11,Online,6020.84,744.15,01-04-2023,,Outdoor
+Chennai,6308.41,Home Decor,Allison Casey,0.04,Retail,6056.07,252.34,01-04-2023,,Outdoor
+Hyderabad,2247.24,Electronics,Chelsea Vargas,0.21,Online,1775.32,471.92,01-04-2023,12621.51,Outdoor
+Hyderabad,9241.13,Electronics,Amy Davidson,0.14,Online,7947.37,1293.76,01-04-2023,,Outdoor
+Hyderabad,4873.61,Home Decor,Charles Caldwell,0.07,Retail,4532.46,341.15,01-04-2023,,Outdoor
+Hyderabad,6621.46,Groceries,Tyler Baker,0.04,Retail,6356.6,264.86,01-04-2023,,Outdoor
+Hyderabad,624.05,Electronics,David Walker,0.17,Retail,517.96,106.09,01-04-2023,,Outdoor
+Hyderabad,8481.54,Apparel,Michael White,0.07,Wholesale,7887.83,593.71,01-04-2023,,Outdoor
+Hyderabad,9203.79,Home Decor,Gregory Anderson,0.01,Retail,9111.75,92.04,01-04-2023,,Outdoor
+Hyderabad,9591.78,Electronics,Jamie Jones,0.23,Online,7385.67,2206.11,01-04-2023,,Outdoor
+Hyderabad,2092,Apparel,Tamara Cain,0.24,Wholesale,1589.92,502.08,01-04-2023,,Outdoor
+Hyderabad,2981.52,Groceries,Chelsea Ortiz,0.21,Online,2355.4,626.12,01-04-2023,,Outdoor
+Hyderabad,7935.53,Apparel,Julia Diaz,0.1,Online,7141.98,793.55,01-04-2023,,Outdoor
+Hyderabad,1375.23,Electronics,Amanda Gomez,0.23,Wholesale,1058.93,316.3,01-04-2023,,Outdoor
+Hyderabad,9295.93,Groceries,Kyle Hanson,0.21,Retail,7343.78,1952.15,01-04-2023,,Outdoor
+Hyderabad,7779.82,Groceries,Michelle Ortiz,0.21,Wholesale,6146.06,1633.76,01-04-2023,,Outdoor
+Hyderabad,9221.4,Electronics,Joseph Quinn,0.17,Wholesale,7653.76,1567.64,01-04-2023,,Outdoor
+Hyderabad,6569.82,Apparel,Ralph Ryan,0.15,Retail,5584.35,985.47,01-04-2023,,Outdoor
+Hyderabad,3476.2,Apparel,Lorraine Franklin,0.16,Retail,2920.01,556.19,01-04-2023,,Outdoor
+Hyderabad,1665.95,Home Decor,Thomas Moore,0.12,Online,1466.04,199.91,01-04-2023,,Outdoor
+Hyderabad,4071.92,Home Decor,Ashley Hill,0.11,Wholesale,3624.01,447.91,01-04-2023,,Outdoor
+Hyderabad,3520.17,Electronics,Dennis Wheeler,0.1,Wholesale,3168.15,352.02,01-04-2023,,Outdoor
+Hyderabad,9628.11,Apparel,Daniel Brewer,0.16,Wholesale,8087.61,1540.5,01-04-2023,,Outdoor
+Hyderabad,6659.15,Apparel,Jasmine Lopez,0.15,Online,5660.28,998.87,01-04-2023,,Outdoor
+Hyderabad,6757.18,Apparel,Jamie Pierce,0.16,Retail,5676.03,1081.15,01-04-2023,,Outdoor
+Hyderabad,4057.04,Apparel,Eric Walsh,0.01,Online,4016.47,40.57,01-04-2023,,Outdoor
+Hyderabad,8922.5,Apparel,Adam Smith,0.14,Wholesale,7673.35,1249.15,01-04-2023,,Outdoor
+Hyderabad,7958.06,Electronics,Brandy Brown,0.22,Online,6207.29,1750.77,01-04-2023,,Outdoor
+Kochi,3012.67,Electronics,Amanda Ayala,0.02,Wholesale,2952.42,60.25,01-04-2023,11200.31,Digital
+Kochi,9349.57,Home Decor,Jacqueline Bowen,0.21,Wholesale,7386.16,1963.41,01-04-2023,,Digital
+Kochi,9263.74,Home Decor,Danielle Price,0,Wholesale,9263.74,0,01-04-2023,,Digital
+Kochi,6783.47,Electronics,James Pena,0.06,Online,6376.46,407.01,01-04-2023,,Digital
+Kochi,4816.52,Electronics,Victoria Thomas,0.14,Retail,4142.21,674.31,01-04-2023,,Digital
+Kochi,7084.87,Home Decor,Jessica Berry,0.23,Retail,5455.35,1629.52,01-04-2023,,Digital
+Kochi,4175.76,Electronics,Patrick Perry,0.16,Wholesale,3507.64,668.12,01-04-2023,,Digital
+Kochi,1949.61,Home Decor,Jeremiah Smith,0.04,Wholesale,1871.63,77.98,01-04-2023,,Digital
+Kochi,5716.47,Home Decor,Carla Vasquez,0.06,Wholesale,5373.48,342.99,01-04-2023,,Digital
+Kochi,2988.41,Home Decor,Melinda Horton,0.09,Wholesale,2719.45,268.96,01-04-2023,,Digital
+Kochi,894.34,Apparel,Jason Carrillo,0.15,Online,760.19,134.15,01-04-2023,,Digital
+Kochi,3800.12,Groceries,Alan Suarez,0.01,Wholesale,3762.12,38,01-04-2023,,Digital
+Kochi,6470.21,Apparel,Taylor Porter,0.23,Online,4982.06,1488.15,01-04-2023,,Digital
+Kochi,3093.76,Home Decor,Lisa Jones,0.18,Online,2536.88,556.88,01-04-2023,,Digital
+Kochi,5875.57,Groceries,Karen Reeves,0.1,Wholesale,5288.01,587.56,01-04-2023,,Digital
+Kochi,4976.82,Apparel,Randy Porter,0.12,Retail,4379.6,597.22,01-04-2023,,Digital
+Kochi,4148.81,Apparel,Tamara Leach,0.22,Wholesale,3236.07,912.74,01-04-2023,,Digital
+Kochi,5177.94,Home Decor,Jason Barnes,0.15,Online,4401.25,776.69,01-04-2023,,Digital
+Kochi,3481.01,Electronics,Christina Taylor,0.12,Retail,3063.29,417.72,01-04-2023,,Digital
+Kochi,8555.03,Groceries,Michelle Campbell,0.01,Retail,8469.48,85.55,01-04-2023,,Digital
+Bangalore,4067.31,Electronics,James Lucas,0.01,Online,4026.64,40.67,01-05-2023,11438.08,Print
+Bangalore,2697.24,Groceries,Kevin Gray,0.11,Online,2400.54,296.7,01-05-2023,,Print
+Bangalore,2561.13,Home Decor,Marilyn Ho,0.14,Wholesale,2202.57,358.56,01-05-2023,,Print
+Bangalore,3154.28,Home Decor,Jesse Marsh,0.21,Retail,2491.88,662.4,01-05-2023,,Print
+Bangalore,2854.66,Groceries,George Orozco,0.08,Online,2626.29,228.37,01-05-2023,,Print
+Bangalore,7880.54,Electronics,Denise Wallace,0.23,Online,6068.02,1812.52,01-05-2023,,Print
+Bangalore,4715.85,Home Decor,John Sherman,0.09,Wholesale,4291.42,424.43,01-05-2023,,Print
+Bangalore,7531.91,Groceries,Dominique Jimenez,0.01,Retail,7456.59,75.32,01-05-2023,,Print
+Bangalore,4331.9,Apparel,Lee Brown,0.2,Online,3465.52,866.38,01-05-2023,,Print
+Bangalore,1669.04,Electronics,Donald Castaneda,0.01,Wholesale,1652.35,16.69,01-05-2023,,Print
+Bangalore,5905.47,Electronics,James Brown,0.01,Online,5846.42,59.05,01-05-2023,,Print
+Bangalore,6085.77,Electronics,Yolanda Beck,0.23,Retail,4686.04,1399.73,01-05-2023,,Print
+Bangalore,6159.81,Home Decor,Angela Carter,0.03,Wholesale,5975.02,184.79,01-05-2023,,Print
+Bangalore,7554.53,Apparel,Tabitha Cardenas,0.19,Wholesale,6119.17,1435.36,01-05-2023,,Print
+Bangalore,2416.71,Apparel,Brittany Hood,0.01,Wholesale,2392.54,24.17,01-05-2023,,Print
+Bangalore,7419.69,Home Decor,Wayne Dixon,0.14,Retail,6380.93,1038.76,01-05-2023,,Print
+Bangalore,6812.74,Home Decor,Martha Hoffman,0.13,Retail,5927.08,885.66,01-05-2023,,Print
+Bangalore,8113.23,Groceries,Stephanie Flowers,0.04,Retail,7788.7,324.53,01-05-2023,,Print
+Bangalore,620.84,Groceries,Michelle Oliver MD,0.09,Wholesale,564.96,55.88,01-05-2023,,Print
+Bangalore,882.26,Groceries,April Jones,0.15,Wholesale,749.92,132.34,01-05-2023,,Print
+Bangalore,9387.23,Apparel,Gary Scott,0.15,Wholesale,7979.15,1408.08,01-05-2023,,Print
+Bangalore,8623.94,Home Decor,Aaron Moon,0.17,Retail,7157.87,1466.07,01-05-2023,,Print
+Bangalore,5906.93,Groceries,Lori Berry,0.19,Online,4784.61,1122.32,01-05-2023,,Print
+Bangalore,6537.59,Electronics,Jenny Kemp,0.07,Retail,6079.96,457.63,01-05-2023,,Print
+Bangalore,3666.55,Apparel,Christopher Sullivan,0.06,Wholesale,3446.56,219.99,01-05-2023,,Print
+Bangalore,5699.47,Home Decor,Courtney Moore,0.23,Wholesale,4388.59,1310.88,01-05-2023,,Print
+Chennai,8196.44,Electronics,Robin Roman,0.12,Online,7212.87,983.57,01-05-2023,10372.95,Digital
+Chennai,6688.51,Electronics,Elizabeth Smith,0.23,Online,5150.15,1538.36,01-05-2023,,Digital
+Chennai,8379.42,Apparel,Joseph Taylor,0.15,Online,7122.51,1256.91,01-05-2023,,Digital
+Chennai,2557.84,Groceries,Daniel Robinson,0.13,Retail,2225.32,332.52,01-05-2023,,Digital
+Chennai,4506.62,Home Decor,Jose Braun,0.04,Wholesale,4326.36,180.26,01-05-2023,,Digital
+Chennai,1855.88,Electronics,Jeffrey Gilbert,0.2,Online,1484.7,371.18,01-05-2023,,Digital
+Chennai,8888.75,Groceries,Gwendolyn Martinez,0.19,Retail,7199.89,1688.86,01-05-2023,,Digital
+Chennai,4909.95,Home Decor,Adam Thomas,0.18,Online,4026.16,883.79,01-05-2023,,Digital
+Chennai,1475.63,Groceries,Brian Dixon,0.19,Wholesale,1195.26,280.37,01-05-2023,,Digital
+Chennai,1353.64,Home Decor,Kelly Conner,0.17,Wholesale,1123.52,230.12,01-05-2023,,Digital
+Chennai,8989.07,Groceries,Brooke Andrews,0.09,Wholesale,8180.05,809.02,01-05-2023,,Digital
+Chennai,5955.84,Home Decor,Charles Cameron,0.01,Wholesale,5896.28,59.56,01-05-2023,,Digital
+Chennai,7002.12,Home Decor,Laurie May,0.19,Wholesale,5671.72,1330.4,01-05-2023,,Digital
+Chennai,5837.93,Apparel,Melissa Francis,0.06,Online,5487.65,350.28,01-05-2023,,Digital
+Chennai,9983.75,Groceries,Crystal Herrera,0.24,Online,7587.65,2396.1,01-05-2023,,Digital
+Chennai,7890.83,Apparel,Kristi Clark,0.17,Retail,6549.39,1341.44,01-05-2023,,Digital
+Chennai,8943.78,Home Decor,Johnny Cannon,0.22,Retail,6976.15,1967.63,01-05-2023,,Digital
+Chennai,1108.62,Home Decor,Kayla Gould,0.1,Online,997.76,110.86,01-05-2023,,Digital
+Chennai,5312.11,Groceries,Suzanne Bishop,0.03,Retail,5152.75,159.36,01-05-2023,,Digital
+Chennai,3295.75,Groceries,Pamela Solis,0.16,Online,2768.43,527.32,01-05-2023,,Digital
+Chennai,5628.77,Groceries,Brandon Collins,0.23,Wholesale,4334.15,1294.62,01-05-2023,,Digital
+Chennai,3377.24,Home Decor,Michelle Stanley,0.16,Retail,2836.88,540.36,01-05-2023,,Digital
+Chennai,3033.51,Home Decor,Ashley Jackson,0.04,Retail,2912.17,121.34,01-05-2023,,Digital
+Chennai,3317.23,Home Decor,Keith Sutton,0.22,Online,2587.44,729.79,01-05-2023,,Digital
+Chennai,2418.69,Electronics,Timothy Chavez,0.03,Wholesale,2346.13,72.56,01-05-2023,,Digital
+Hyderabad,8238.59,Home Decor,David Gonzalez,0.2,Wholesale,6590.87,1647.72,01-05-2023,9038.77,TV
+Hyderabad,9920.14,Electronics,Thomas Sloan,0.22,Wholesale,7737.71,2182.43,01-05-2023,,TV
+Hyderabad,8889.59,Electronics,Laura Hickman,0.11,Wholesale,7911.74,977.85,01-05-2023,,TV
+Hyderabad,948.47,Apparel,Melissa Miller,0.18,Retail,777.75,170.72,01-05-2023,,TV
+Hyderabad,5497.42,Home Decor,Terri Lee,0.16,Wholesale,4617.83,879.59,01-05-2023,,TV
+Hyderabad,4084.7,Electronics,Chelsea Grant,0.21,Online,3226.91,857.79,01-05-2023,,TV
+Hyderabad,2696.28,Groceries,Robert Gutierrez,0.21,Retail,2130.06,566.22,01-05-2023,,TV
+Hyderabad,5084.93,Groceries,Maria Bishop,0.09,Wholesale,4627.29,457.64,01-05-2023,,TV
+Hyderabad,5179.35,Apparel,Sara Lowe,0.17,Online,4298.86,880.49,01-05-2023,,TV
+Hyderabad,1356.39,Apparel,Gabriel Marshall,0.18,Retail,1112.24,244.15,01-05-2023,,TV
+Hyderabad,5191.81,Groceries,Selena King,0.05,Online,4932.22,259.59,01-05-2023,,TV
+Hyderabad,1245.3,Electronics,Jorge Diaz,0.1,Online,1120.77,124.53,01-05-2023,,TV
+Hyderabad,1219.8,Apparel,John Morris,0.05,Wholesale,1158.81,60.99,01-05-2023,,TV
+Hyderabad,626.91,Groceries,Shelley Sutton,0.16,Online,526.6,100.31,01-05-2023,,TV
+Hyderabad,4685.44,Electronics,Bryan Robinson,0.09,Retail,4263.75,421.69,01-05-2023,,TV
+Hyderabad,4245.29,Electronics,Antonio Boone,0.12,Retail,3735.86,509.43,01-05-2023,,TV
+Hyderabad,9158.81,Home Decor,Christina Hayes,0.02,Online,8975.63,183.18,01-05-2023,,TV
+Hyderabad,6597.61,Electronics,Mikayla Gallegos,0.01,Wholesale,6531.63,65.98,01-05-2023,,TV
+Hyderabad,1890.5,Home Decor,Wayne Wilson,0.08,Wholesale,1739.26,151.24,01-05-2023,,TV
+Hyderabad,8457.67,Home Decor,Leslie Sherman,0.05,Retail,8034.79,422.88,01-05-2023,,TV
+Hyderabad,688.8,Home Decor,Laura Sampson,0.18,Online,564.82,123.98,01-05-2023,,TV
+Hyderabad,4808.03,Groceries,Dustin Lopez,0.14,Retail,4134.91,673.12,01-05-2023,,TV
+Hyderabad,1728.26,Electronics,Roger Byrd,0.13,Wholesale,1503.59,224.67,01-05-2023,,TV
+Hyderabad,2191.64,Electronics,Melissa Carrillo,0.05,Wholesale,2082.06,109.58,01-05-2023,,TV
+Kochi,7737.05,Home Decor,Megan Perez,0.2,Wholesale,6189.64,1547.41,01-05-2023,9244.28,TV
+Kochi,1817.24,Electronics,Curtis Cole,0.23,Wholesale,1399.27,417.97,01-05-2023,,TV
+Kochi,5564.92,Home Decor,Jennifer Molina,0.1,Retail,5008.43,556.49,01-05-2023,,TV
+Kochi,1310.39,Apparel,John Yoder,0.14,Retail,1126.94,183.45,01-05-2023,,TV
+Kochi,7079.78,Apparel,Tracy Tran,0.2,Retail,5663.82,1415.96,01-05-2023,,TV
+Kochi,3484.42,Groceries,Miguel Henson,0.24,Online,2648.16,836.26,01-05-2023,,TV
+Kochi,9814.27,Home Decor,Katherine Morales,0.02,Online,9617.98,196.29,01-05-2023,,TV
+Kochi,9087.14,Electronics,Teresa Acevedo,0.18,Online,7451.45,1635.69,01-05-2023,,TV
+Kochi,9790.06,Groceries,Phillip Peters,0.02,Wholesale,9594.26,195.8,01-05-2023,,TV
+Kochi,2741.91,Groceries,Gregory Mills,0.05,Wholesale,2604.81,137.1,01-05-2023,,TV
+Kochi,5880.65,Home Decor,Shannon Hill,0.08,Retail,5410.2,470.45,01-05-2023,,TV
+Kochi,9216.54,Home Decor,Mrs. Jessica Baker,0.1,Retail,8294.89,921.65,01-05-2023,,TV
+Kochi,3409.76,Groceries,Susan Bean,0.07,Wholesale,3171.08,238.68,01-05-2023,,TV
+Kochi,2366.65,Groceries,Penny King,0.15,Wholesale,2011.65,355,01-05-2023,,TV
+Kochi,1443.68,Electronics,Terry Holden,0.08,Online,1328.19,115.49,01-05-2023,,TV
+Kochi,1973.12,Home Decor,Megan Taylor,0.05,Online,1874.46,98.66,01-05-2023,,TV
+Kochi,8393.03,Groceries,Scott Jones,0.09,Retail,7637.66,755.37,01-05-2023,,TV
+Kochi,1132.37,Electronics,Mitchell Jones,0.2,Retail,905.9,226.47,01-05-2023,,TV
+Kochi,795.26,Apparel,Trevor Sawyer,0.15,Wholesale,675.97,119.29,01-05-2023,,TV
+Kochi,8126.6,Groceries,Jill Harris,0.08,Online,7476.47,650.13,01-05-2023,,TV
+Kochi,8382.41,Electronics,Aaron Edwards,0.06,Retail,7879.47,502.94,01-05-2023,,TV
+Kochi,6353.9,Home Decor,Jennifer Lewis,0.22,Wholesale,4956.04,1397.86,01-05-2023,,TV
+Kochi,4803.57,Groceries,Louis Coffey,0.11,Online,4275.18,528.39,01-05-2023,,TV
+Bangalore,7135.23,Electronics,Mark Anderson,0.01,Wholesale,7063.88,71.35,01-06-2023,19336.63,TV
+Bangalore,5863.56,Groceries,Christie Hampton,0.24,Wholesale,4456.31,1407.25,01-06-2023,,TV
+Bangalore,5824.26,Home Decor,Andrew Johnson,0.15,Retail,4950.62,873.64,01-06-2023,,TV
+Bangalore,5040.84,Home Decor,Susan Brown,0.03,Retail,4889.61,151.23,01-06-2023,,TV
+Bangalore,3405.37,Apparel,Connie Foster,0.11,Retail,3030.78,374.59,01-06-2023,,TV
+Bangalore,3424.68,Groceries,Sierra Jenkins,0.05,Retail,3253.45,171.23,01-06-2023,,TV
+Bangalore,3218.06,Groceries,Eddie Turner,0.1,Online,2896.25,321.81,01-06-2023,,TV
+Bangalore,9739.64,Electronics,Carmen Crawford,0.15,Wholesale,8278.69,1460.95,01-06-2023,,TV
+Bangalore,7737.3,Apparel,Matthew Tucker,0.03,Retail,7505.18,232.12,01-06-2023,,TV
+Bangalore,4957.5,Electronics,Franklin Randolph,0.04,Wholesale,4759.2,198.3,01-06-2023,,TV
+Bangalore,8934.96,Electronics,Terry Fischer PhD,0.21,Online,7058.62,1876.34,01-06-2023,,TV
+Bangalore,936.77,Apparel,Kimberly Daniels,0,Retail,936.77,0,01-06-2023,,TV
+Bangalore,5226.98,Home Decor,Morgan Collins,0.01,Wholesale,5174.71,52.27,01-06-2023,,TV
+Bangalore,7069.68,Electronics,David Mendoza,0.12,Retail,6221.32,848.36,01-06-2023,,TV
+Bangalore,8084.95,Home Decor,Patrick Cannon,0.23,Online,6225.41,1859.54,01-06-2023,,TV
+Bangalore,7618.33,Home Decor,Brandon Gomez,0.24,Online,5789.93,1828.4,01-06-2023,,TV
+Chennai,7302.04,Groceries,Mr. Jeffrey Erickson,0.18,Retail,5987.67,1314.37,01-06-2023,11900.98,TV
+Chennai,9896.53,Groceries,Erika Williams,0.07,Retail,9203.77,692.76,01-06-2023,,TV
+Chennai,2885.46,Apparel,Kenneth Smith,0.02,Retail,2827.75,57.71,01-06-2023,,TV
+Chennai,7178.36,Electronics,Nicole Martinez,0.21,Wholesale,5670.9,1507.46,01-06-2023,,TV
+Chennai,7211.62,Apparel,Dawn Baker,0.19,Wholesale,5841.41,1370.21,01-06-2023,,TV
+Chennai,9681.75,Electronics,Crystal Garcia,0.03,Retail,9391.3,290.45,01-06-2023,,TV
+Chennai,623.78,Electronics,Tony Garcia,0.19,Online,505.26,118.52,01-06-2023,,TV
+Chennai,2650,Electronics,Mandy Chambers,0.19,Wholesale,2146.5,503.5,01-06-2023,,TV
+Chennai,6416.06,Electronics,Benjamin Green,0.02,Online,6287.74,128.32,01-06-2023,,TV
+Chennai,6077.64,Apparel,Lauren Simon,0.02,Online,5956.09,121.55,01-06-2023,,TV
+Chennai,9549.42,Home Decor,Deborah Castro,0.05,Wholesale,9071.95,477.47,01-06-2023,,TV
+Chennai,7907.08,Groceries,Savannah Huffman,0.16,Retail,6641.95,1265.13,01-06-2023,,TV
+Chennai,2450.65,Groceries,Jose Fitzpatrick,0.02,Wholesale,2401.64,49.01,01-06-2023,,TV
+Chennai,2412.44,Electronics,Johnny Brooks,0.05,Retail,2291.82,120.62,01-06-2023,,TV
+Chennai,2282.51,Home Decor,Brooke Frank,0.07,Online,2122.73,159.78,01-06-2023,,TV
+Chennai,628.48,Apparel,Johnny Smith,0.09,Online,571.92,56.56,01-06-2023,,TV
+Chennai,5085.99,Electronics,John Harris,0.14,Retail,4373.95,712.04,01-06-2023,,TV
+Chennai,9817.07,Groceries,Matthew Santana,0.25,Retail,7362.8,2454.27,01-06-2023,,TV
+Chennai,3962.55,Home Decor,Megan Fernandez,0.19,Retail,3209.67,752.88,01-06-2023,,TV
+Chennai,2651.94,Groceries,James Williams,0.16,Online,2227.63,424.31,01-06-2023,,TV
+Chennai,8133.01,Apparel,Steven Collins,0.23,Retail,6262.42,1870.59,01-06-2023,,TV
+Hyderabad,4663.19,Groceries,Christina Ward,0.01,Retail,4616.56,46.63,01-06-2023,7251.61,Print
+Hyderabad,1452.83,Home Decor,Shelly Pineda,0.11,Wholesale,1293.02,159.81,01-06-2023,,Print
+Hyderabad,7624.45,Electronics,Kayla Nash,0.22,Wholesale,5947.07,1677.38,01-06-2023,,Print
+Hyderabad,1404.69,Apparel,Mary Marquez,0.2,Online,1123.75,280.94,01-06-2023,,Print
+Hyderabad,3152.49,Home Decor,Joshua Lopez,0.02,Wholesale,3089.44,63.05,01-06-2023,,Print
+Hyderabad,7683.61,Groceries,Karen Chan,0.21,Online,6070.05,1613.56,01-06-2023,,Print
+Hyderabad,5929.05,Home Decor,Dr. Tina Ramirez,0,Wholesale,5929.05,0,01-06-2023,,Print
+Hyderabad,7352.69,Electronics,Mrs. Veronica Lee DDS,0.12,Retail,6470.37,882.32,01-06-2023,,Print
+Hyderabad,4331.15,Home Decor,Christopher Moses,0.22,Online,3378.3,952.85,01-06-2023,,Print
+Hyderabad,974.7,Apparel,Ricardo Rogers,0.2,Online,779.76,194.94,01-06-2023,,Print
+Hyderabad,6497.53,Groceries,Stephanie Black,0.21,Retail,5133.05,1364.48,01-06-2023,,Print
+Hyderabad,4219.99,Electronics,Erica Clark,0.2,Retail,3375.99,844,01-06-2023,,Print
+Hyderabad,4283.64,Apparel,Erin Perry,0.23,Wholesale,3298.4,985.24,01-06-2023,,Print
+Hyderabad,4555.34,Electronics,Yolanda Smith,0.22,Online,3553.17,1002.17,01-06-2023,,Print
+Hyderabad,2380.61,Home Decor,Jennifer Green,0.23,Online,1833.07,547.54,01-06-2023,,Print
+Hyderabad,3206.29,Home Decor,Nina Vasquez,0.06,Wholesale,3013.91,192.38,01-06-2023,,Print
+Hyderabad,7464.1,Electronics,Miranda Olson,0.04,Online,7165.54,298.56,01-06-2023,,Print
+Hyderabad,6917.25,Apparel,Calvin Jacobs,0.01,Online,6848.08,69.17,01-06-2023,,Print
+Hyderabad,8088.92,Home Decor,Mrs. Tina Adams,0.18,Online,6632.91,1456.01,01-06-2023,,Print
+Hyderabad,4182.7,Groceries,Kyle Mckee,0.07,Wholesale,3889.91,292.79,01-06-2023,,Print
+Hyderabad,7646.02,Home Decor,Dylan Keith,0.16,Retail,6422.66,1223.36,01-06-2023,,Print
+Hyderabad,8117.41,Home Decor,Brittney Case,0.09,Wholesale,7386.84,730.57,01-06-2023,,Print
+Hyderabad,4996.38,Apparel,Jared Morris,0.19,Online,4047.07,949.31,01-06-2023,,Print
+Hyderabad,6868.7,Home Decor,Michael Friedman,0.1,Wholesale,6181.83,686.87,01-06-2023,,Print
+Hyderabad,9147.14,Apparel,Kathryn Holloway,0.07,Wholesale,8506.84,640.3,01-06-2023,,Print
+Hyderabad,4267.2,Home Decor,Jeffrey Miranda,0.21,Online,3371.09,896.11,01-06-2023,,Print
+Hyderabad,3559.99,Groceries,Bradley King,0.07,Wholesale,3310.79,249.2,01-06-2023,,Print
+Hyderabad,5850.13,Groceries,Bryan Nichols,0.01,Online,5791.63,58.5,01-06-2023,,Print
+Hyderabad,2069.63,Electronics,Brian Patel,0.1,Wholesale,1862.67,206.96,01-06-2023,,Print
+Hyderabad,7745.07,Apparel,Douglas Johnson,0.16,Retail,6505.86,1239.21,01-06-2023,,Print
+Hyderabad,1678.03,Home Decor,Courtney Jordan,0.06,Wholesale,1577.35,100.68,01-06-2023,,Print
+Hyderabad,8527.25,Electronics,Robert Wheeler,0.02,Wholesale,8356.71,170.55,01-06-2023,,Print
+Hyderabad,4910.44,Apparel,Erik Hahn,0.02,Wholesale,4812.23,98.21,01-06-2023,,Print
+Hyderabad,8082.56,Electronics,Peggy Thomas,0.01,Retail,8001.73,80.83,01-06-2023,,Print
+Hyderabad,6639.83,Apparel,Ms. Kristin Lee MD,0.23,Online,5112.67,1527.16,01-06-2023,,Print
+Hyderabad,1268.27,Groceries,Matthew Spencer,0.05,Retail,1204.86,63.41,01-06-2023,,Print
+Hyderabad,9324.47,Electronics,Michael Jones,0.2,Wholesale,7459.58,1864.89,01-06-2023,,Print
+Hyderabad,6435.45,Electronics,Ross Mata,0.11,Retail,5727.55,707.9,01-06-2023,,Print
+Kochi,9636.82,Home Decor,Cory Harrington,0.25,Retail,7227.62,2409.21,01-06-2023,6950.95,Print
+Kochi,9162.07,Apparel,Wayne Martinez,0.07,Retail,8520.73,641.34,01-06-2023,,Print
+Kochi,3985.53,Electronics,John Wilson,0.03,Wholesale,3865.96,119.57,01-06-2023,,Print
+Kochi,3387.01,Home Decor,Matthew Jackson,0.18,Retail,2777.35,609.66,01-06-2023,,Print
+Kochi,9975.12,Apparel,Anthony Garza,0.13,Online,8678.35,1296.77,01-06-2023,,Print
+Kochi,1508.48,Home Decor,William Patterson,0.24,Retail,1146.44,362.04,01-06-2023,,Print
+Kochi,2520,Groceries,Robin Nash,0.02,Retail,2469.6,50.4,01-06-2023,,Print
+Kochi,5165.65,Electronics,Bonnie Moreno,0.11,Wholesale,4597.43,568.22,01-06-2023,,Print
+Kochi,3001.81,Home Decor,Randy Nelson,0.09,Retail,2731.65,270.16,01-06-2023,,Print
+Kochi,8335.32,Groceries,Michael Mann,0.02,Retail,8168.61,166.71,01-06-2023,,Print
+Kochi,7675.24,Home Decor,Sylvia Madden,0.23,Online,5909.93,1765.31,01-06-2023,,Print
+Kochi,3792.02,Home Decor,Angela Diaz,0.23,Retail,2919.86,872.16,01-06-2023,,Print
+Kochi,5935.93,Apparel,Laura Fowler,0.21,Online,4689.38,1246.55,01-06-2023,,Print
+Kochi,4707.52,Electronics,Devin Hatfield,0.02,Wholesale,4613.37,94.15,01-06-2023,,Print
+Kochi,1656.51,Apparel,Chad Juarez,0.16,Online,1391.47,265.04,01-06-2023,,Print
+Kochi,2083.65,Electronics,Shane Weeks,0.22,Retail,1625.25,458.4,01-06-2023,,Print
+Kochi,3406.13,Home Decor,Crystal Hernandez,0.18,Wholesale,2793.03,613.1,01-06-2023,,Print
+Kochi,7142.33,Groceries,David Lloyd,0.06,Retail,6713.79,428.54,01-06-2023,,Print
+Kochi,4478.9,Groceries,Dale Rojas,0.05,Online,4254.96,223.95,01-06-2023,,Print
+Kochi,4597.7,Apparel,Joseph Martin,0.13,Wholesale,4000,597.7,01-06-2023,,Print
+Kochi,3768.88,Apparel,Kathryn Kaiser,0.11,Retail,3354.3,414.58,01-06-2023,,Print
+Kochi,2879.49,Electronics,Christopher Watkins,0.16,Wholesale,2418.77,460.72,01-06-2023,,Print
+Kochi,5358.57,Apparel,Cameron Gray,0.04,Retail,5144.23,214.34,01-06-2023,,Print
+Kochi,6054.63,Home Decor,Reginald Bishop,0.07,Online,5630.81,423.82,01-06-2023,,Print
+Kochi,7937.51,Electronics,Rodney Dillon,0.02,Online,7778.76,158.75,01-06-2023,,Print
+Kochi,518.34,Home Decor,Daniel Williams,0.11,Online,461.32,57.02,01-06-2023,,Print
+Kochi,1116.53,Apparel,Kyle Jones,0.23,Wholesale,859.73,256.8,01-06-2023,,Print
+Kochi,5871.92,Apparel,Dr. Kristen Sawyer,0.16,Wholesale,4932.41,939.51,01-06-2023,,Print
+Kochi,7782.58,Home Decor,David Baker,0.16,Wholesale,6537.37,1245.21,01-06-2023,,Print
+Kochi,9070.9,Home Decor,Matthew Collins,0.15,Wholesale,7710.27,1360.64,01-06-2023,,Print
+Kochi,3911.58,Groceries,Eddie Davis,0.06,Wholesale,3676.89,234.69,01-06-2023,,Print
+Bangalore,2478.49,Electronics,Sarah Ford,0.17,Retail,2057.15,421.34,01-07-2023,8279.14,Digital
+Bangalore,9434.46,Electronics,Jennifer Calhoun,0.15,Wholesale,8019.29,1415.17,01-07-2023,,Digital
+Bangalore,8851.04,Apparel,Eileen Lawson,0.12,Wholesale,7788.92,1062.12,01-07-2023,,Digital
+Bangalore,8286.74,Electronics,Amanda Cooper,0.02,Wholesale,8121.01,165.73,01-07-2023,,Digital
+Bangalore,747.56,Electronics,Frederick Petersen,0.08,Wholesale,687.76,59.8,01-07-2023,,Digital
+Bangalore,3574.69,Apparel,Maria Wright,0.11,Wholesale,3181.47,393.22,01-07-2023,,Digital
+Bangalore,6155,Apparel,Beth Moore,0.04,Retail,5908.8,246.2,01-07-2023,,Digital
+Bangalore,2961.01,Home Decor,Janice Rice,0.14,Retail,2546.47,414.54,01-07-2023,,Digital
+Bangalore,7234.33,Electronics,Cathy Ayala,0.1,Online,6510.9,723.43,01-07-2023,,Digital
+Bangalore,9122.64,Apparel,Christopher Cunningham,0.2,Retail,7298.11,1824.53,01-07-2023,,Digital
+Bangalore,7074.94,Home Decor,Madeline Barton,0.02,Online,6933.44,141.5,01-07-2023,,Digital
+Bangalore,3718.51,Home Decor,Heather Frost,0.09,Online,3383.84,334.67,01-07-2023,,Digital
+Bangalore,3840.95,Groceries,James Miller,0.12,Online,3380.04,460.91,01-07-2023,,Digital
+Bangalore,3462.41,Groceries,John Odonnell,0.09,Retail,3150.79,311.62,01-07-2023,,Digital
+Bangalore,6786.5,Groceries,Crystal Jackson,0.15,Online,5768.53,1017.98,01-07-2023,,Digital
+Bangalore,1894.6,Electronics,Ashley Turner,0.2,Online,1515.68,378.92,01-07-2023,,Digital
+Bangalore,8397.03,Home Decor,Glenn Johnson,0.23,Online,6465.71,1931.32,01-07-2023,,Digital
+Bangalore,1346.81,Apparel,Ana Berry,0.24,Online,1023.58,323.23,01-07-2023,,Digital
+Bangalore,6617.3,Home Decor,Cynthia King,0.17,Wholesale,5492.36,1124.94,01-07-2023,,Digital
+Bangalore,5359.45,Apparel,Jerry Coleman,0.15,Retail,4555.53,803.92,01-07-2023,,Digital
+Bangalore,7218.32,Electronics,Victoria Roach,0.13,Retail,6279.94,938.38,01-07-2023,,Digital
+Bangalore,1421.27,Groceries,Wayne Brooks DVM,0.19,Online,1151.23,270.04,01-07-2023,,Digital
+Bangalore,5162.43,Home Decor,Jenna Hawkins,0.02,Wholesale,5059.18,103.25,01-07-2023,,Digital
+Bangalore,5692.49,Home Decor,Corey Phillips,0.2,Retail,4553.99,1138.5,01-07-2023,,Digital
+Bangalore,9040.92,Apparel,Christopher Holland,0.04,Retail,8679.28,361.64,01-07-2023,,Digital
+Bangalore,1672.98,Home Decor,Brandy Lee,0.24,Wholesale,1271.46,401.52,01-07-2023,,Digital
+Bangalore,2149.75,Groceries,Erica Perez,0.09,Wholesale,1956.27,193.48,01-07-2023,,Digital
+Bangalore,5126.68,Home Decor,Theresa Turner,0.2,Wholesale,4101.34,1025.34,01-07-2023,,Digital
+Bangalore,2160.95,Electronics,Ms. Stacy Patel DDS,0,Retail,2160.95,0,01-07-2023,,Digital
+Bangalore,2076.41,Electronics,Jessica Edwards,0.2,Wholesale,1661.13,415.28,01-07-2023,,Digital
+Bangalore,875.8,Home Decor,Alexander Hayes,0.24,Wholesale,665.61,210.19,01-07-2023,,Digital
+Bangalore,8738.52,Electronics,Michael Palmer PhD,0.17,Retail,7252.97,1485.55,01-07-2023,,Digital
+Bangalore,538.23,Home Decor,David Williams,0,Online,538.23,0,01-07-2023,,Digital
+Bangalore,2882.95,Home Decor,Angela Arnold,0.25,Online,2162.21,720.74,01-07-2023,,Digital
+Chennai,5523.5,Groceries,Amanda Thomas,0.14,Online,4750.21,773.29,01-07-2023,12714.98,Digital
+Chennai,8336.02,Groceries,Erin Gutierrez,0.14,Wholesale,7168.98,1167.04,01-07-2023,,Digital
+Chennai,1884.07,Electronics,Crystal Herrera,0.2,Wholesale,1507.26,376.81,01-07-2023,,Digital
+Chennai,9511.7,Electronics,Alicia King,0.1,Retail,8560.53,951.17,01-07-2023,,Digital
+Chennai,774.74,Apparel,Tonya Mitchell,0.15,Wholesale,658.53,116.21,01-07-2023,,Digital
+Chennai,4376.3,Apparel,Austin Fisher,0.2,Online,3501.04,875.26,01-07-2023,,Digital
+Chennai,5003.89,Apparel,Denise Strong,0.08,Wholesale,4603.58,400.31,01-07-2023,,Digital
+Chennai,3644.22,Groceries,Cheryl Black,0.18,Retail,2988.26,655.96,01-07-2023,,Digital
+Chennai,1065.47,Home Decor,David Barber,0.17,Retail,884.34,181.13,01-07-2023,,Digital
+Chennai,6485.76,Apparel,Wendy Mueller,0.14,Retail,5577.75,908.01,01-07-2023,,Digital
+Chennai,599.75,Apparel,Gloria Diaz,0.16,Wholesale,503.79,95.96,01-07-2023,,Digital
+Chennai,3835.75,Groceries,Pamela Gonzalez,0.22,Wholesale,2991.89,843.87,01-07-2023,,Digital
+Chennai,9891.73,Home Decor,Linda Hester,0.09,Wholesale,9001.47,890.26,01-07-2023,,Digital
+Chennai,5249.55,Groceries,Megan Hernandez,0,Wholesale,5249.55,0,01-07-2023,,Digital
+Chennai,6292.85,Apparel,Andrew Goodwin,0.04,Retail,6041.14,251.71,01-07-2023,,Digital
+Chennai,4280.53,Apparel,William Gomez,0.13,Wholesale,3724.06,556.47,01-07-2023,,Digital
+Chennai,1869.46,Apparel,Adam Beck,0.04,Wholesale,1794.68,74.78,01-07-2023,,Digital
+Chennai,4431.66,Electronics,Kenneth Allen,0.01,Online,4387.34,44.32,01-07-2023,,Digital
+Chennai,7607.32,Groceries,Diane Luna,0.09,Wholesale,6922.66,684.66,01-07-2023,,Digital
+Chennai,662.21,Apparel,Courtney Freeman,0.06,Retail,622.48,39.73,01-07-2023,,Digital
+Chennai,8277.97,Apparel,Joel Edwards,0.22,Online,6456.82,1821.15,01-07-2023,,Digital
+Chennai,500.1,Home Decor,Vanessa Smith,0.1,Online,450.09,50.01,01-07-2023,,Digital
+Chennai,4565.25,Electronics,Gregory Olson,0.1,Wholesale,4108.73,456.53,01-07-2023,,Digital
+Chennai,8183.28,Electronics,Robert Collier,0.16,Retail,6873.96,1309.32,01-07-2023,,Digital
+Chennai,4849.76,Groceries,Jonathan Mccoy,0.03,Retail,4704.27,145.49,01-07-2023,,Digital
+Chennai,3354.15,Home Decor,Mr. James Harper,0.14,Online,2884.57,469.58,01-07-2023,,Digital
+Chennai,9042.59,Groceries,Eric Moore,0.18,Online,7414.92,1627.67,01-07-2023,,Digital
+Chennai,8341.76,Home Decor,Sarah Dawson,0.05,Wholesale,7924.67,417.09,01-07-2023,,Digital
+Hyderabad,2478.31,Home Decor,Ashley Robles MD,0.16,Online,2081.78,396.53,01-07-2023,10784.27,Digital
+Hyderabad,7115.68,Apparel,Eugene Hood,0.06,Wholesale,6688.74,426.94,01-07-2023,,Digital
+Hyderabad,6469.14,Apparel,Christopher Richard,0.12,Retail,5692.84,776.3,01-07-2023,,Digital
+Hyderabad,3785.66,Groceries,Mark Fields,0.09,Retail,3444.95,340.71,01-07-2023,,Digital
+Hyderabad,3261.49,Home Decor,Sharon Munoz,0.19,Online,2641.81,619.68,01-07-2023,,Digital
+Hyderabad,7908.13,Groceries,Eric Braun,0.17,Retail,6563.75,1344.38,01-07-2023,,Digital
+Hyderabad,889.93,Apparel,Nicole Gibson,0.1,Online,800.94,88.99,01-07-2023,,Digital
+Hyderabad,6043.18,Electronics,Scott Turner,0.22,Online,4713.68,1329.5,01-07-2023,,Digital
+Hyderabad,1881.73,Electronics,Jordan Wilson,0.1,Retail,1693.56,188.17,01-07-2023,,Digital
+Hyderabad,7357.16,Electronics,Jeffrey Wilson,0.24,Retail,5591.44,1765.72,01-07-2023,,Digital
+Hyderabad,3233.73,Electronics,Lindsay Sanders,0.22,Online,2522.31,711.42,01-07-2023,,Digital
+Hyderabad,3337.46,Electronics,Jennifer Hughes,0.18,Wholesale,2736.72,600.74,01-07-2023,,Digital
+Hyderabad,6823.97,Home Decor,Elizabeth Morton,0.19,Retail,5527.42,1296.55,01-07-2023,,Digital
+Hyderabad,5481.7,Groceries,Colton Cook,0.02,Online,5372.07,109.63,01-07-2023,,Digital
+Hyderabad,3866.35,Home Decor,Ashley Reese,0.09,Wholesale,3518.38,347.97,01-07-2023,,Digital
+Hyderabad,5322.74,Apparel,Debra Costa,0.12,Wholesale,4684.01,638.73,01-07-2023,,Digital
+Hyderabad,5419.2,Electronics,Thomas Skinner,0.2,Online,4335.36,1083.84,01-07-2023,,Digital
+Hyderabad,9850.12,Apparel,Matthew Ferguson,0.22,Online,7683.09,2167.03,01-07-2023,,Digital
+Hyderabad,6355.13,Home Decor,David Shannon,0.14,Online,5465.41,889.72,01-07-2023,,Digital
+Hyderabad,8283.01,Groceries,Darrell Mejia,0.22,Online,6460.75,1822.26,01-07-2023,,Digital
+Hyderabad,3927.93,Groceries,Susan Meyers,0,Retail,3927.93,0,01-07-2023,,Digital
+Hyderabad,2310.65,Apparel,Christopher Miller,0.21,Online,1825.41,485.24,01-07-2023,,Digital
+Hyderabad,2022.66,Apparel,Laura King,0.22,Retail,1577.67,444.99,01-07-2023,,Digital
+Kochi,7480.68,Electronics,Dr. Christopher Gutierrez,0.01,Retail,7405.87,74.81,01-07-2023,18502.83,TV
+Kochi,2732.41,Home Decor,Emily Jensen,0.19,Online,2213.25,519.16,01-07-2023,,TV
+Kochi,7388.29,Apparel,Robert Jackson,0.17,Online,6132.28,1256.01,01-07-2023,,TV
+Kochi,3906.26,Home Decor,Casey Johnson,0.07,Retail,3632.82,273.44,01-07-2023,,TV
+Kochi,8929.07,Home Decor,Benjamin Davis,0.02,Wholesale,8750.49,178.58,01-07-2023,,TV
+Kochi,5270.19,Apparel,David Rose,0.03,Wholesale,5112.08,158.11,01-07-2023,,TV
+Kochi,1180.98,Electronics,Mark Smith,0.07,Retail,1098.31,82.67,01-07-2023,,TV
+Kochi,4389.29,Electronics,Whitney Bolton,0.13,Wholesale,3818.68,570.61,01-07-2023,,TV
+Kochi,5498.69,Groceries,David Smith,0,Online,5498.69,0,01-07-2023,,TV
+Kochi,9600.61,Groceries,Sarah Conner,0.03,Online,9312.59,288.02,01-07-2023,,TV
+Kochi,9433.56,Groceries,Corey Hall,0.23,Online,7263.84,2169.72,01-07-2023,,TV
+Kochi,2966.91,Electronics,Cassandra Boyd,0.02,Online,2907.57,59.34,01-07-2023,,TV
+Kochi,9522.38,Groceries,James Rodgers,0.15,Retail,8094.02,1428.36,01-07-2023,,TV
+Kochi,696.82,Electronics,Brian Hendricks,0.22,Wholesale,543.52,153.3,01-07-2023,,TV
+Kochi,9238,Groceries,Pamela Martinez,0.22,Wholesale,7205.64,2032.36,01-07-2023,,TV
+Kochi,1338.95,Groceries,Ashley Harris,0.19,Retail,1084.55,254.4,01-07-2023,,TV
+Kochi,4530.27,Groceries,Lisa Hughes,0.22,Online,3533.61,996.66,01-07-2023,,TV
+Kochi,7301.81,Apparel,Brian Garcia,0.17,Retail,6060.5,1241.31,01-07-2023,,TV
+Kochi,9158.51,Electronics,Teresa Patterson DVM,0.09,Retail,8334.24,824.27,01-07-2023,,TV
+Kochi,4105.03,Apparel,Justin Gomez,0.14,Online,3530.33,574.7,01-07-2023,,TV
+Kochi,7027.43,Groceries,Paula Barton,0,Online,7027.43,0,01-07-2023,,TV
+Kochi,890.21,Electronics,Angela Gardner,0.09,Online,810.09,80.12,01-07-2023,,TV
+Kochi,2179.03,Groceries,Grace Morales,0.18,Online,1786.8,392.23,01-07-2023,,TV
+Kochi,9330.69,Apparel,Mark Boone,0.03,Wholesale,9050.77,279.92,01-07-2023,,TV
+Kochi,9462.6,Apparel,Michael Vasquez,0.18,Online,7759.33,1703.27,01-07-2023,,TV
+Kochi,3639.45,Apparel,Sydney Anderson,0.25,Online,2729.59,909.86,01-07-2023,,TV
+Bangalore,8903.55,Home Decor,Joel Anderson,0.08,Online,8191.27,712.28,01-08-2023,8041.84,Print
+Bangalore,6623.38,Electronics,Katherine Ochoa,0.07,Online,6159.74,463.64,01-08-2023,,Print
+Bangalore,8422.51,Electronics,Joshua Ruiz,0.21,Wholesale,6653.78,1768.73,01-08-2023,,Print
+Bangalore,1863.61,Home Decor,Victor Hernandez,0.01,Online,1844.97,18.64,01-08-2023,,Print
+Bangalore,3580.29,Home Decor,Elizabeth Robertson,0.07,Online,3329.67,250.62,01-08-2023,,Print
+Bangalore,8805.6,Home Decor,Michael Hill,0.06,Retail,8277.26,528.34,01-08-2023,,Print
+Bangalore,1352.02,Apparel,Michelle Bell,0.12,Online,1189.78,162.24,01-08-2023,,Print
+Bangalore,7386.65,Electronics,Jacob Cruz,0.09,Wholesale,6721.85,664.8,01-08-2023,,Print
+Bangalore,7915.08,Home Decor,Ryan Smith,0.24,Retail,6015.46,1899.62,01-08-2023,,Print
+Bangalore,8894.07,Electronics,Carolyn Ramirez,0.1,Online,8004.66,889.41,01-08-2023,,Print
+Bangalore,951.43,Apparel,Emily Alvarez,0.04,Retail,913.37,38.06,01-08-2023,,Print
+Bangalore,9317.52,Groceries,Justin Rivera,0.13,Retail,8106.24,1211.28,01-08-2023,,Print
+Bangalore,4915.57,Groceries,David Green,0.2,Wholesale,3932.46,983.11,01-08-2023,,Print
+Bangalore,7605.81,Groceries,Katie Santana,0.17,Wholesale,6312.82,1292.99,01-08-2023,,Print
+Bangalore,5474.36,Electronics,Kyle Rodriguez,0.21,Wholesale,4324.74,1149.62,01-08-2023,,Print
+Bangalore,9480.46,Home Decor,Adam Campbell,0.22,Wholesale,7394.76,2085.7,01-08-2023,,Print
+Bangalore,5361.16,Electronics,Patrick Wells,0.12,Wholesale,4717.82,643.34,01-08-2023,,Print
+Bangalore,1883.93,Electronics,Taylor Mccall,0.18,Online,1544.82,339.11,01-08-2023,,Print
+Bangalore,6223.02,Home Decor,Clarence Cantrell,0.01,Retail,6160.79,62.23,01-08-2023,,Print
+Bangalore,3279.59,Groceries,Mallory George,0.07,Wholesale,3050.02,229.57,01-08-2023,,Print
+Bangalore,4399.15,Groceries,Shannon Adams,0.06,Retail,4135.2,263.95,01-08-2023,,Print
+Bangalore,8359.17,Groceries,Jennifer Young,0.09,Online,7606.84,752.33,01-08-2023,,Print
+Bangalore,9082.12,Home Decor,John Conley,0.06,Wholesale,8537.19,544.93,01-08-2023,,Print
+Bangalore,3098.49,Groceries,Marissa Armstrong,0.09,Wholesale,2819.63,278.86,01-08-2023,,Print
+Bangalore,9720.95,Home Decor,Meredith Keller,0.22,Online,7582.34,2138.61,01-08-2023,,Print
+Bangalore,2513.4,Apparel,Kelly Parker,0.23,Wholesale,1935.32,578.08,01-08-2023,,Print
+Chennai,1899.16,Apparel,Katherine Martinez,0.02,Online,1861.18,37.98,01-08-2023,5679.35,TV
+Chennai,4011.04,Apparel,Carol Mitchell,0.22,Online,3128.61,882.43,01-08-2023,,TV
+Chennai,1140.52,Home Decor,James Wright,0.1,Online,1026.47,114.05,01-08-2023,,TV
+Chennai,4907.35,Apparel,Stephanie Carter,0.16,Online,4122.17,785.18,01-08-2023,,TV
+Chennai,1710.17,Home Decor,Bruce Shah,0.21,Wholesale,1351.03,359.14,01-08-2023,,TV
+Chennai,6862.57,Electronics,David Ray,0.06,Wholesale,6450.82,411.75,01-08-2023,,TV
+Chennai,5119.26,Electronics,Julie Savage,0.16,Retail,4300.18,819.08,01-08-2023,,TV
+Chennai,4316.03,Electronics,Damon Johnson,0.2,Retail,3452.82,863.21,01-08-2023,,TV
+Chennai,2331.86,Apparel,Timothy Howard,0.03,Wholesale,2261.9,69.96,01-08-2023,,TV
+Chennai,691.14,Groceries,Jeremy Allen,0.17,Online,573.65,117.49,01-08-2023,,TV
+Chennai,7601.78,Electronics,Tanner Ruiz,0.16,Wholesale,6385.5,1216.28,01-08-2023,,TV
+Chennai,597.2,Apparel,Courtney Ford,0.11,Retail,531.51,65.69,01-08-2023,,TV
+Chennai,1254.43,Apparel,Jason Smith,0.08,Online,1154.08,100.35,01-08-2023,,TV
+Chennai,8570.26,Groceries,Paula West,0.2,Retail,6856.21,1714.05,01-08-2023,,TV
+Chennai,8991.73,Home Decor,Anthony Davis,0.21,Online,7103.47,1888.26,01-08-2023,,TV
+Chennai,7171.24,Home Decor,Jay Bond,0.21,Retail,5665.28,1505.96,01-08-2023,,TV
+Chennai,5639.72,Electronics,James Burgess,0.05,Online,5357.73,281.99,01-08-2023,,TV
+Chennai,2599.02,Groceries,Jeffery Cox,0.08,Retail,2391.1,207.92,01-08-2023,,TV
+Chennai,7244.36,Groceries,Charlene Rodriguez,0.21,Wholesale,5723.04,1521.32,01-08-2023,,TV
+Chennai,3933.21,Apparel,Christopher Cobb,0.16,Wholesale,3303.9,629.31,01-08-2023,,TV
+Chennai,7885.45,Electronics,Shelly Phillips,0.1,Retail,7096.91,788.55,01-08-2023,,TV
+Chennai,9638.46,Electronics,Michael Peters,0.07,Wholesale,8963.77,674.69,01-08-2023,,TV
+Chennai,8167.26,Groceries,Catherine Massey,0.04,Online,7840.57,326.69,01-08-2023,,TV
+Chennai,5306.29,Electronics,Kathleen Campbell,0.22,Online,4138.91,1167.38,01-08-2023,,TV
+Chennai,8253.04,Electronics,Brandon Wood,0.07,Retail,7675.33,577.71,01-08-2023,,TV
+Chennai,4360.63,Apparel,Travis Jones,0.17,Retail,3619.32,741.31,01-08-2023,,TV
+Chennai,5283.45,Home Decor,Matthew Stone,0.04,Retail,5072.11,211.34,01-08-2023,,TV
+Chennai,4899.2,Apparel,Shawn Lee,0.12,Retail,4311.3,587.9,01-08-2023,,TV
+Chennai,8572.66,Home Decor,Thomas Rivera,0.01,Online,8486.93,85.73,01-08-2023,,TV
+Chennai,4585.97,Apparel,Morgan Stuart,0.23,Wholesale,3531.2,1054.77,01-08-2023,,TV
+Chennai,3957.99,Apparel,Stephen Schwartz,0.08,Retail,3641.35,316.64,01-08-2023,,TV
+Chennai,9335.44,Groceries,Kenneth Johnson,0.25,Wholesale,7001.58,2333.86,01-08-2023,,TV
+Chennai,3025.51,Home Decor,Darrell Rocha,0.16,Online,2541.43,484.08,01-08-2023,,TV
+Chennai,8892.29,Electronics,Shawna Sanchez,0.17,Retail,7380.6,1511.69,01-08-2023,,TV
+Chennai,5676.26,Electronics,Stephen Moore,0.08,Retail,5222.16,454.1,01-08-2023,,TV
+Chennai,1046.48,Electronics,Amanda Morris,0.08,Retail,962.76,83.72,01-08-2023,,TV
+Chennai,4634.59,Home Decor,John Ramirez,0.03,Online,4495.55,139.04,01-08-2023,,TV
+Chennai,1073.59,Home Decor,Stacey Oconnor,0.1,Wholesale,966.23,107.36,01-08-2023,,TV
+Hyderabad,6224.3,Apparel,Chad Cunningham,0.23,Retail,4792.71,1431.59,01-08-2023,1479.48,Digital
+Hyderabad,1981.54,Electronics,Brian Moore,0.22,Online,1545.6,435.94,01-08-2023,,Digital
+Hyderabad,570.04,Apparel,Madeline Ruiz,0.01,Wholesale,564.34,5.7,01-08-2023,,Digital
+Hyderabad,8044.49,Groceries,Priscilla Santiago,0.11,Wholesale,7159.6,884.89,01-08-2023,,Digital
+Hyderabad,3914.56,Home Decor,James Collier,0.1,Retail,3523.1,391.46,01-08-2023,,Digital
+Hyderabad,5714.14,Apparel,Stephen Salazar,0.09,Online,5199.87,514.27,01-08-2023,,Digital
+Hyderabad,6138.64,Electronics,Angela Hicks,0.2,Wholesale,4910.91,1227.73,01-08-2023,,Digital
+Hyderabad,4492.02,Groceries,Michael Gutierrez,0.15,Wholesale,3818.22,673.8,01-08-2023,,Digital
+Hyderabad,4215.11,Groceries,Julie Whitehead,0.03,Retail,4088.66,126.45,01-08-2023,,Digital
+Hyderabad,7304.25,Apparel,Beverly Juarez,0.09,Retail,6646.87,657.38,01-08-2023,,Digital
+Hyderabad,2647.32,Groceries,Jamie Forbes,0.05,Wholesale,2514.95,132.37,01-08-2023,,Digital
+Hyderabad,7437.05,Apparel,Jason Fisher,0.07,Wholesale,6916.46,520.59,01-08-2023,,Digital
+Hyderabad,5476.26,Electronics,Erin Duncan,0.1,Retail,4928.63,547.63,01-08-2023,,Digital
+Hyderabad,1150.45,Apparel,Susan Lin,0.22,Wholesale,897.35,253.1,01-08-2023,,Digital
+Hyderabad,4667.89,Electronics,Ashley Mercado,0.15,Retail,3967.71,700.18,01-08-2023,,Digital
+Hyderabad,1235.79,Home Decor,Jason Hernandez,0.11,Online,1099.85,135.94,01-08-2023,,Digital
+Hyderabad,9642.74,Apparel,Ronnie Russo,0.16,Wholesale,8099.9,1542.84,01-08-2023,,Digital
+Hyderabad,8064.07,Home Decor,Jeff Brown,0.06,Wholesale,7580.23,483.84,01-08-2023,,Digital
+Hyderabad,8626.42,Home Decor,Corey Larson,0.06,Retail,8108.83,517.59,01-08-2023,,Digital
+Hyderabad,7064.94,Apparel,Gail Bradley,0.23,Retail,5440,1624.94,01-08-2023,,Digital
+Kochi,4498.35,Groceries,Timothy Perry,0.14,Online,3868.58,629.77,01-08-2023,6177.78,Outdoor
+Kochi,6844.08,Apparel,Rebecca Thompson,0.16,Wholesale,5749.03,1095.05,01-08-2023,,Outdoor
+Kochi,9266.74,Electronics,David Meyer,0.19,Retail,7506.06,1760.68,01-08-2023,,Outdoor
+Kochi,3393.43,Groceries,Kenneth Bowen,0.09,Online,3088.02,305.41,01-08-2023,,Outdoor
+Kochi,2914.66,Apparel,Amanda Hill,0.16,Wholesale,2448.31,466.35,01-08-2023,,Outdoor
+Kochi,5070.65,Apparel,Jacob Berry,0.22,Online,3955.11,1115.54,01-08-2023,,Outdoor
+Kochi,8305.79,Apparel,Andrew Johnson,0.05,Wholesale,7890.5,415.29,01-08-2023,,Outdoor
+Kochi,7150.61,Home Decor,Alexis Robertson MD,0.25,Online,5362.96,1787.65,01-08-2023,,Outdoor
+Kochi,5108.37,Electronics,John Miles,0.1,Retail,4597.53,510.84,01-08-2023,,Outdoor
+Kochi,6564.87,Groceries,Cindy Brown,0.05,Online,6236.63,328.24,01-08-2023,,Outdoor
+Kochi,3136.78,Apparel,Noah Jones,0.17,Wholesale,2603.53,533.25,01-08-2023,,Outdoor
+Kochi,4909.45,Home Decor,Becky Marquez,0.01,Wholesale,4860.36,49.09,01-08-2023,,Outdoor
+Kochi,636.04,Groceries,Valerie White,0.15,Online,540.63,95.41,01-08-2023,,Outdoor
+Kochi,524.79,Home Decor,Ryan Phillips,0.11,Online,467.06,57.73,01-08-2023,,Outdoor
+Kochi,3798.52,Electronics,Timothy Sanchez,0.03,Retail,3684.56,113.96,01-08-2023,,Outdoor
+Kochi,682.72,Apparel,Robert Reid,0.14,Wholesale,587.14,95.58,01-08-2023,,Outdoor
+Kochi,7854.38,Electronics,Margaret Roberts MD,0.09,Retail,7147.49,706.89,01-08-2023,,Outdoor
+Kochi,5818.81,Electronics,Olivia Bradford,0.17,Wholesale,4829.61,989.2,01-08-2023,,Outdoor
+Kochi,934.82,Apparel,David Rodriguez,0.23,Wholesale,719.81,215.01,01-08-2023,,Outdoor
+Bangalore,8381.07,Home Decor,Alexander Anderson,0.01,Retail,8297.26,83.81,01-09-2023,11442.54,Outdoor
+Bangalore,9497.48,Apparel,Anna Hart,0.03,Retail,9212.56,284.92,01-09-2023,,Outdoor
+Bangalore,2938.28,Electronics,Timothy Owens,0.2,Online,2350.62,587.66,01-09-2023,,Outdoor
+Bangalore,6356.18,Electronics,Sharon West,0.09,Online,5784.12,572.06,01-09-2023,,Outdoor
+Bangalore,6844.52,Groceries,Brandon Garrett,0.05,Wholesale,6502.29,342.23,01-09-2023,,Outdoor
+Bangalore,5637.26,Apparel,Jason Olsen,0.05,Retail,5355.4,281.86,01-09-2023,,Outdoor
+Bangalore,2439.38,Groceries,Angel Sharp,0.06,Wholesale,2293.02,146.36,01-09-2023,,Outdoor
+Bangalore,4834.98,Electronics,Melissa Santiago,0.06,Retail,4544.88,290.1,01-09-2023,,Outdoor
+Bangalore,7535.92,Home Decor,Larry Tucker,0.1,Online,6782.33,753.59,01-09-2023,,Outdoor
+Bangalore,980.23,Groceries,Whitney Anderson,0.04,Retail,941.02,39.21,01-09-2023,,Outdoor
+Bangalore,1001.75,Electronics,Danielle Garner,0.09,Wholesale,911.59,90.16,01-09-2023,,Outdoor
+Bangalore,2027.67,Groceries,Jose Scott,0.19,Wholesale,1642.41,385.26,01-09-2023,,Outdoor
+Bangalore,1379.13,Apparel,Kimberly Jackson,0.22,Wholesale,1075.72,303.41,01-09-2023,,Outdoor
+Bangalore,535.12,Groceries,Kim Lowery,0.04,Online,513.72,21.4,01-09-2023,,Outdoor
+Bangalore,4112.02,Electronics,Desiree Wright,0.17,Wholesale,3412.98,699.04,01-09-2023,,Outdoor
+Bangalore,8380.3,Home Decor,Julia Wong,0.12,Wholesale,7374.66,1005.64,01-09-2023,,Outdoor
+Bangalore,5342.82,Groceries,Gerald West,0.09,Retail,4861.97,480.85,01-09-2023,,Outdoor
+Bangalore,9072.33,Apparel,John Wyatt,0.2,Online,7257.86,1814.47,01-09-2023,,Outdoor
+Bangalore,5548.03,Home Decor,Nathan Fuentes,0.02,Wholesale,5437.07,110.96,01-09-2023,,Outdoor
+Bangalore,3395.87,Groceries,Karen Flores,0.08,Wholesale,3124.2,271.67,01-09-2023,,Outdoor
+Bangalore,6754.63,Apparel,Jonathon Ortiz,0.03,Retail,6551.99,202.64,01-09-2023,,Outdoor
+Bangalore,5674.95,Home Decor,Lindsay Hall,0.15,Online,4823.71,851.24,01-09-2023,,Outdoor
+Bangalore,7548.6,Groceries,Frank Jones MD,0.05,Wholesale,7171.17,377.43,01-09-2023,,Outdoor
+Bangalore,807.94,Apparel,Donna Miller,0.17,Retail,670.59,137.35,01-09-2023,,Outdoor
+Bangalore,8690.56,Groceries,Edgar Parker,0.01,Online,8603.65,86.91,01-09-2023,,Outdoor
+Bangalore,5497.04,Groceries,Dennis Simmons,0.02,Wholesale,5387.1,109.94,01-09-2023,,Outdoor
+Bangalore,9567.88,Home Decor,Andrew Reed,0.22,Wholesale,7462.95,2104.93,01-09-2023,,Outdoor
+Bangalore,4772.56,Electronics,Juan Smith,0.01,Online,4724.83,47.73,01-09-2023,,Outdoor
+Bangalore,6791.55,Apparel,Mr. Adrian Nielsen,0.04,Retail,6519.89,271.66,01-09-2023,,Outdoor
+Chennai,8842.91,Groceries,Gregory Lozano,0.21,Online,6985.9,1857.01,01-09-2023,13138.25,Print
+Chennai,9475.7,Home Decor,Brian Gardner,0.05,Retail,9001.92,473.79,01-09-2023,,Print
+Chennai,8868.3,Groceries,Courtney Malone,0.18,Online,7272.01,1596.29,01-09-2023,,Print
+Chennai,7085.54,Groceries,Paul Joyce,0.01,Retail,7014.68,70.86,01-09-2023,,Print
+Chennai,3053.72,Apparel,Wendy Griffin,0.12,Online,2687.27,366.45,01-09-2023,,Print
+Chennai,5162.32,Groceries,Dawn Sanchez,0.01,Wholesale,5110.7,51.62,01-09-2023,,Print
+Chennai,3782.65,Groceries,Austin Fowler,0.1,Online,3404.39,378.27,01-09-2023,,Print
+Chennai,5484.81,Apparel,Charlene Rowe,0.16,Retail,4607.24,877.57,01-09-2023,,Print
+Chennai,7259.76,Home Decor,Richard Santiago,0.16,Online,6098.2,1161.56,01-09-2023,,Print
+Chennai,6263.8,Apparel,Bethany Schultz,0.24,Wholesale,4760.49,1503.31,01-09-2023,,Print
+Chennai,2428.71,Electronics,Meredith Smith,0,Wholesale,2428.71,0,01-09-2023,,Print
+Chennai,8041.48,Home Decor,Glenn Davis,0.15,Retail,6835.26,1206.22,01-09-2023,,Print
+Chennai,7588.42,Home Decor,Gloria Burgess,0.07,Wholesale,7057.23,531.19,01-09-2023,,Print
+Chennai,9150.2,Apparel,Benjamin Coleman,0.2,Wholesale,7320.16,1830.04,01-09-2023,,Print
+Chennai,5245.15,Groceries,Justin Andrews,0.07,Wholesale,4877.99,367.16,01-09-2023,,Print
+Chennai,4966.93,Groceries,Dr. Kathleen Rodriguez MD,0.03,Wholesale,4817.92,149.01,01-09-2023,,Print
+Chennai,912.32,Apparel,Todd Good,0.21,Retail,720.73,191.59,01-09-2023,,Print
+Chennai,7026.27,Apparel,Timothy Ferrell,0.14,Online,6042.59,983.68,01-09-2023,,Print
+Chennai,4605.98,Home Decor,Charles Smith,0.15,Online,3915.08,690.9,01-09-2023,,Print
+Chennai,965.8,Electronics,Brandon Perkins,0.23,Online,743.67,222.13,01-09-2023,,Print
+Chennai,2575.54,Apparel,Megan Thomas,0.18,Online,2111.94,463.6,01-09-2023,,Print
+Chennai,718.32,Apparel,Chad Bailey,0.1,Online,646.49,71.83,01-09-2023,,Print
+Chennai,6107.3,Apparel,Lori Padilla,0.18,Wholesale,5007.99,1099.31,01-09-2023,,Print
+Chennai,9959.98,Home Decor,Maria Smith,0.05,Wholesale,9461.98,498,01-09-2023,,Print
+Chennai,6239.59,Groceries,James Miles,0.11,Online,5553.24,686.35,01-09-2023,,Print
+Chennai,4074.65,Groceries,Stephen Hill,0.08,Online,3748.68,325.97,01-09-2023,,Print
+Chennai,5920.35,Electronics,Kim Martin,0.22,Wholesale,4617.87,1302.48,01-09-2023,,Print
+Chennai,1253.41,Electronics,Pamela Arellano,0.06,Online,1178.21,75.2,01-09-2023,,Print
+Chennai,5372.2,Electronics,Veronica Lindsey,0.06,Wholesale,5049.87,322.33,01-09-2023,,Print
+Chennai,3940.37,Electronics,Brooke Ferguson,0.24,Online,2994.68,945.69,01-09-2023,,Print
+Hyderabad,4678.56,Groceries,Michael Reed,0.19,Retail,3789.63,888.93,01-09-2023,2889.74,Digital
+Hyderabad,8706.87,Apparel,Antonio Frost,0.22,Wholesale,6791.36,1915.51,01-09-2023,,Digital
+Hyderabad,4376.95,Home Decor,Kenneth Rodriguez,0.12,Retail,3851.72,525.23,01-09-2023,,Digital
+Hyderabad,6218.15,Home Decor,Michael Carr,0.25,Wholesale,4663.61,1554.54,01-09-2023,,Digital
+Hyderabad,4279.8,Apparel,Mrs. Diana Peterson DVM,0.16,Wholesale,3595.03,684.77,01-09-2023,,Digital
+Hyderabad,8373.66,Apparel,William Levy,0.13,Retail,7285.08,1088.58,01-09-2023,,Digital
+Hyderabad,5389.88,Apparel,Robin Kelley,0.05,Retail,5120.39,269.49,01-09-2023,,Digital
+Hyderabad,999.38,Electronics,Richard Howard,0.03,Wholesale,969.4,29.98,01-09-2023,,Digital
+Hyderabad,2141.26,Groceries,Julie Byrd,0.04,Wholesale,2055.61,85.65,01-09-2023,,Digital
+Hyderabad,5180.18,Home Decor,Kevin Reeves,0.07,Retail,4817.57,362.61,01-09-2023,,Digital
+Hyderabad,3422.32,Apparel,Renee Thompson,0.06,Online,3216.98,205.34,01-09-2023,,Digital
+Hyderabad,7940,Home Decor,Brandon Russell,0.18,Online,6510.8,1429.2,01-09-2023,,Digital
+Hyderabad,5100.13,Groceries,Amy Smith,0.19,Wholesale,4131.11,969.02,01-09-2023,,Digital
+Hyderabad,9912.15,Groceries,Mrs. Natalie Murphy,0.18,Wholesale,8127.96,1784.19,01-09-2023,,Digital
+Hyderabad,6243.43,Apparel,Hunter Martinez,0.17,Wholesale,5182.05,1061.38,01-09-2023,,Digital
+Hyderabad,2076.17,Apparel,Jared Nguyen,0.12,Retail,1827.03,249.14,01-09-2023,,Digital
+Hyderabad,3317.45,Home Decor,Brittany Oneal,0.13,Wholesale,2886.18,431.27,01-09-2023,,Digital
+Hyderabad,8747.05,Apparel,Walter Thompson,0.18,Wholesale,7172.58,1574.47,01-09-2023,,Digital
+Hyderabad,2528.36,Electronics,Taylor Ware,0.09,Wholesale,2300.81,227.55,01-09-2023,,Digital
+Hyderabad,6904.92,Apparel,Charles Andrews,0.21,Online,5454.89,1450.03,01-09-2023,,Digital
+Hyderabad,9295.33,Groceries,Jerry Webb,0.17,Retail,7715.12,1580.21,01-09-2023,,Digital
+Hyderabad,5271.78,Electronics,Nancy Stout,0.07,Wholesale,4902.76,369.02,01-09-2023,,Digital
+Hyderabad,8598.15,Electronics,Ashley Miller,0.18,Retail,7050.48,1547.67,01-09-2023,,Digital
+Hyderabad,7556.17,Home Decor,Elizabeth Hicks,0,Retail,7556.17,0,01-09-2023,,Digital
+Kochi,7680.88,Apparel,Ryan Nicholson,0.1,Wholesale,6912.79,768.09,01-09-2023,18001.91,Digital
+Kochi,4816.41,Groceries,Lauren Hernandez,0.14,Retail,4142.11,674.3,01-09-2023,,Digital
+Kochi,3394.66,Home Decor,Denise Sanders,0.17,Wholesale,2817.57,577.09,01-09-2023,,Digital
+Kochi,6306.43,Groceries,Kristen Bennett,0.16,Online,5297.4,1009.03,01-09-2023,,Digital
+Kochi,3328.11,Groceries,Michelle Warren,0.21,Online,2629.21,698.9,01-09-2023,,Digital
+Kochi,981.62,Groceries,Roy Price,0.21,Wholesale,775.48,206.14,01-09-2023,,Digital
+Kochi,8719.25,Electronics,Lori Thomas,0.07,Online,8108.9,610.35,01-09-2023,,Digital
+Kochi,9901.88,Home Decor,Antonio Strong,0.11,Wholesale,8812.67,1089.21,01-09-2023,,Digital
+Kochi,2530.55,Electronics,Shannon Snyder,0.11,Retail,2252.19,278.36,01-09-2023,,Digital
+Kochi,5617.77,Electronics,Samantha Woods,0,Wholesale,5617.77,0,01-09-2023,,Digital
+Kochi,6370.16,Groceries,Brandi Jones,0.11,Wholesale,5669.44,700.72,01-09-2023,,Digital
+Kochi,1194.46,Groceries,Jesse Rodriguez,0.1,Online,1075.01,119.45,01-09-2023,,Digital
+Kochi,4009.27,Groceries,Ryan Roberson,0.16,Online,3367.79,641.48,01-09-2023,,Digital
+Kochi,1379,Electronics,Maria Harrison,0.08,Online,1268.68,110.32,01-09-2023,,Digital
+Kochi,1910.73,Home Decor,Frank Larson,0.03,Wholesale,1853.41,57.32,01-09-2023,,Digital
+Kochi,9312.42,Home Decor,Kelli Pope,0.15,Retail,7915.56,1396.86,01-09-2023,,Digital
+Kochi,4500.64,Groceries,Madison Villegas,0.14,Online,3870.55,630.09,01-09-2023,,Digital
+Kochi,1241.33,Electronics,Emily Sanchez,0.24,Retail,943.41,297.92,01-09-2023,,Digital
+Kochi,8787.61,Apparel,Larry Stout IV,0.13,Online,7645.22,1142.39,01-09-2023,,Digital
+Kochi,974.22,Groceries,Ariel Hanson,0.15,Online,828.09,146.13,01-09-2023,,Digital
+Kochi,2580.1,Electronics,Dominic Lucas,0.05,Wholesale,2451.1,129.01,01-09-2023,,Digital
+Kochi,6174.46,Groceries,Heather Hardy,0.1,Wholesale,5557.01,617.45,01-09-2023,,Digital
+Kochi,4891.75,Groceries,Melinda Williamson,0.1,Retail,4402.58,489.18,01-09-2023,,Digital
+Kochi,8902.36,Groceries,Patricia Rios,0.15,Online,7567.01,1335.35,01-09-2023,,Digital
+Kochi,6198.02,Electronics,Gregory Wilson,0.23,Online,4772.48,1425.54,01-09-2023,,Digital
+Kochi,8497.04,Apparel,Gina Stout,0.05,Wholesale,8072.19,424.85,01-09-2023,,Digital
+Kochi,5954.89,Apparel,Sheila Logan,0.05,Wholesale,5657.15,297.74,01-09-2023,,Digital
+Kochi,3731.86,Home Decor,Laura Good,0.25,Wholesale,2798.9,932.97,01-09-2023,,Digital
+Kochi,6360.37,Groceries,Lindsey Johnston,0.11,Online,5660.73,699.64,01-09-2023,,Digital
+Kochi,6916.17,Apparel,Nicole Torres,0.04,Wholesale,6639.52,276.65,01-09-2023,,Digital
+Kochi,7300.69,Groceries,Robert Roach,0.22,Wholesale,5694.54,1606.15,01-09-2023,,Digital
+Kochi,585.43,Groceries,Stephanie Ford,0.12,Online,515.18,70.25,01-09-2023,,Digital
+Kochi,2488.89,Groceries,Sarah White,0.07,Retail,2314.67,174.22,01-09-2023,,Digital
+Bangalore,5801.45,Apparel,James Flores,0.07,Wholesale,5395.35,406.1,01-10-2023,18827.09,Print
+Bangalore,8501.42,Groceries,Tyler Patel,0.22,Retail,6631.11,1870.31,01-10-2023,,Print
+Bangalore,1947.74,Apparel,Mia Perez,0.06,Online,1830.88,116.86,01-10-2023,,Print
+Bangalore,4575.14,Apparel,Robert Walker,0.15,Wholesale,3888.87,686.27,01-10-2023,,Print
+Bangalore,5327.56,Electronics,Anthony Kelley,0.18,Wholesale,4368.6,958.96,01-10-2023,,Print
+Bangalore,2999.99,Groceries,Dustin Smith Jr.,0.09,Wholesale,2729.99,270,01-10-2023,,Print
+Bangalore,6755.67,Groceries,Kevin Mcdonald,0.01,Online,6688.11,67.56,01-10-2023,,Print
+Bangalore,8679.11,Electronics,Thomas Schneider,0.21,Wholesale,6856.5,1822.61,01-10-2023,,Print
+Bangalore,7545.27,Electronics,Theresa Russell,0.21,Online,5960.76,1584.51,01-10-2023,,Print
+Bangalore,5447.74,Groceries,Rachael Johnson,0.2,Online,4358.19,1089.55,01-10-2023,,Print
+Bangalore,9762.43,Home Decor,John Leonard,0.15,Wholesale,8298.07,1464.36,01-10-2023,,Print
+Bangalore,2820.96,Apparel,Andrew Newman,0.12,Wholesale,2482.44,338.52,01-10-2023,,Print
+Bangalore,8810.14,Home Decor,Thomas Mcpherson,0.1,Retail,7929.13,881.01,01-10-2023,,Print
+Bangalore,3672.56,Groceries,Crystal Stone,0.12,Online,3231.85,440.71,01-10-2023,,Print
+Bangalore,8939.26,Electronics,Caroline Oneill,0.12,Retail,7866.55,1072.71,01-10-2023,,Print
+Bangalore,725.85,Apparel,Deborah Hodges,0.16,Retail,609.71,116.14,01-10-2023,,Print
+Chennai,5170.53,Electronics,Sean Burnett,0.2,Wholesale,4136.42,1034.11,01-10-2023,6259.02,TV
+Chennai,533.43,Electronics,Norman Cooper,0.1,Wholesale,480.09,53.34,01-10-2023,,TV
+Chennai,9227.9,Electronics,Eric Kirby,0.24,Online,7013.2,2214.7,01-10-2023,,TV
+Chennai,7220.18,Home Decor,Maureen Ellis,0.01,Wholesale,7147.98,72.2,01-10-2023,,TV
+Chennai,1560.99,Electronics,Patrick Walton,0.05,Wholesale,1482.94,78.05,01-10-2023,,TV
+Chennai,5984.4,Groceries,Anna Frank,0.08,Retail,5505.65,478.75,01-10-2023,,TV
+Chennai,2641.34,Apparel,Marie Gordon,0.23,Wholesale,2033.83,607.51,01-10-2023,,TV
+Chennai,1163.72,Electronics,Michael Bennett,0.01,Retail,1152.08,11.64,01-10-2023,,TV
+Chennai,8901.59,Apparel,Lisa Robertson,0.02,Wholesale,8723.56,178.03,01-10-2023,,TV
+Chennai,2805.25,Electronics,David Brooks,0.02,Wholesale,2749.15,56.11,01-10-2023,,TV
+Chennai,2593.23,Apparel,Susan Roach,0.23,Wholesale,1996.79,596.44,01-10-2023,,TV
+Chennai,2138.46,Groceries,Cody Harrington,0.08,Retail,1967.38,171.08,01-10-2023,,TV
+Chennai,4278.54,Apparel,Alexandra Brown,0.24,Wholesale,3251.69,1026.85,01-10-2023,,TV
+Chennai,2713.15,Groceries,Brittany Rosales,0.12,Online,2387.57,325.58,01-10-2023,,TV
+Chennai,1621.6,Groceries,John Smith,0.22,Online,1264.85,356.75,01-10-2023,,TV
+Chennai,6526.27,Groceries,Amy Harrell,0.02,Retail,6395.74,130.53,01-10-2023,,TV
+Chennai,4080.55,Groceries,Margaret Ross,0.08,Wholesale,3754.11,326.44,01-10-2023,,TV
+Chennai,5593.48,Electronics,Misty Frazier,0.18,Wholesale,4586.65,1006.83,01-10-2023,,TV
+Chennai,6999.74,Home Decor,Jamie Norton,0.21,Online,5529.79,1469.95,01-10-2023,,TV
+Chennai,5921.45,Home Decor,Edward Skinner,0.11,Retail,5270.09,651.36,01-10-2023,,TV
+Chennai,2062.65,Home Decor,Stephanie Lopez,0.25,Wholesale,1546.99,515.66,01-10-2023,,TV
+Chennai,9340.92,Groceries,Sara Murray,0.03,Retail,9060.69,280.23,01-10-2023,,TV
+Chennai,4888.41,Electronics,Jordan Morales,0.2,Online,3910.73,977.68,01-10-2023,,TV
+Chennai,6107.66,Electronics,Lauren Ward,0.05,Retail,5802.28,305.38,01-10-2023,,TV
+Hyderabad,5772.04,Home Decor,Amy Lopez,0.23,Online,4444.47,1327.57,01-10-2023,11261.5,Outdoor
+Hyderabad,8144.37,Apparel,Gerald Love,0.12,Wholesale,7167.05,977.32,01-10-2023,,Outdoor
+Hyderabad,7711.14,Home Decor,Dawn Cisneros,0.25,Online,5783.36,1927.79,01-10-2023,,Outdoor
+Hyderabad,545.33,Apparel,Mikayla Gonzales,0.15,Wholesale,463.53,81.8,01-10-2023,,Outdoor
+Hyderabad,4884.23,Apparel,Andrew Robbins,0.15,Online,4151.6,732.63,01-10-2023,,Outdoor
+Hyderabad,5385.72,Apparel,Amy Garcia,0.16,Wholesale,4524,861.72,01-10-2023,,Outdoor
+Hyderabad,1773.94,Electronics,Robin Powers,0.07,Retail,1649.76,124.18,01-10-2023,,Outdoor
+Hyderabad,6859.6,Electronics,Jeffrey Bass,0.14,Wholesale,5899.26,960.34,01-10-2023,,Outdoor
+Hyderabad,4654.21,Electronics,Gabrielle Hernandez,0.08,Online,4281.87,372.34,01-10-2023,,Outdoor
+Hyderabad,7462.67,Home Decor,Jennifer Bush,0.14,Retail,6417.9,1044.77,01-10-2023,,Outdoor
+Hyderabad,7638.15,Apparel,Andrew Thompson,0.1,Retail,6874.34,763.82,01-10-2023,,Outdoor
+Hyderabad,9301.05,Groceries,Nicole Crosby,0.12,Online,8184.92,1116.13,01-10-2023,,Outdoor
+Hyderabad,7432.65,Apparel,Mason Martinez,0.04,Wholesale,7135.34,297.31,01-10-2023,,Outdoor
+Hyderabad,2644.24,Apparel,Steven Nelson,0.24,Wholesale,2009.62,634.62,01-10-2023,,Outdoor
+Hyderabad,8892.8,Electronics,Daniel White,0.01,Online,8803.87,88.93,01-10-2023,,Outdoor
+Hyderabad,6427.23,Groceries,Dustin Collins,0.22,Online,5013.24,1413.99,01-10-2023,,Outdoor
+Hyderabad,5076.99,Groceries,Krystal Medina,0.09,Wholesale,4620.06,456.93,01-10-2023,,Outdoor
+Hyderabad,3090.97,Groceries,Hannah Ward,0.13,Online,2689.14,401.83,01-10-2023,,Outdoor
+Hyderabad,6129.19,Apparel,Diana Brooks,0.16,Retail,5148.52,980.67,01-10-2023,,Outdoor
+Hyderabad,3288.97,Electronics,Victoria Smith,0.23,Wholesale,2532.51,756.46,01-10-2023,,Outdoor
+Kochi,1630.98,Groceries,Melanie Holmes,0.08,Online,1500.5,130.48,01-10-2023,1245.7,Outdoor
+Kochi,1507.64,Home Decor,Edward Collins,0.11,Retail,1341.8,165.84,01-10-2023,,Outdoor
+Kochi,1648.52,Apparel,Ronald Ramos,0.18,Retail,1351.79,296.73,01-10-2023,,Outdoor
+Kochi,6189.29,Groceries,Dana Dixon,0.23,Retail,4765.75,1423.54,01-10-2023,,Outdoor
+Kochi,3994.21,Electronics,Timothy Beck,0.11,Retail,3554.85,439.36,01-10-2023,,Outdoor
+Kochi,1615.84,Groceries,Michelle Rose,0.09,Retail,1470.41,145.43,01-10-2023,,Outdoor
+Kochi,5797.96,Groceries,Christopher Evans,0.22,Online,4522.41,1275.55,01-10-2023,,Outdoor
+Kochi,8355.82,Electronics,Claudia Russell,0.12,Retail,7353.12,1002.7,01-10-2023,,Outdoor
+Kochi,8939.18,Apparel,Vickie Martin,0.01,Wholesale,8849.79,89.39,01-10-2023,,Outdoor
+Kochi,4046.01,Groceries,Eric Clay,0,Online,4046.01,0,01-10-2023,,Outdoor
+Kochi,2840.21,Apparel,Joseph Hernandez,0.05,Retail,2698.2,142.01,01-10-2023,,Outdoor
+Kochi,2954.09,Apparel,Robin Stevens,0.1,Wholesale,2658.68,295.41,01-10-2023,,Outdoor
+Kochi,6850.97,Home Decor,Ivan Brown,0.22,Online,5343.76,1507.21,01-10-2023,,Outdoor
+Kochi,7094.33,Apparel,Derek Taylor,0.19,Retail,5746.41,1347.92,01-10-2023,,Outdoor
+Kochi,5323.3,Groceries,Daniel Gonzales,0.09,Retail,4844.2,479.1,01-10-2023,,Outdoor
+Kochi,5847.48,Apparel,Sarah Taylor,0.25,Online,4385.61,1461.87,01-10-2023,,Outdoor
+Kochi,3614.74,Apparel,Charles Garcia,0.16,Online,3036.38,578.36,01-10-2023,,Outdoor
+Kochi,1909.47,Apparel,Alan Walters,0.21,Wholesale,1508.48,400.99,01-10-2023,,Outdoor
+Kochi,8754.37,Home Decor,Cody Thompson,0.07,Retail,8141.56,612.81,01-10-2023,,Outdoor
+Kochi,2870.98,Electronics,Ronald Moody,0.15,Retail,2440.33,430.65,01-10-2023,,Outdoor
+Bangalore,7362.2,Apparel,Denise Greene,0.05,Retail,6994.09,368.11,01-11-2023,8712.2,Outdoor
+Bangalore,5915.2,Groceries,James Martin,0.2,Online,4732.16,1183.04,01-11-2023,,Outdoor
+Bangalore,4899.09,Electronics,Dakota Mitchell,0.24,Wholesale,3723.31,1175.78,01-11-2023,,Outdoor
+Bangalore,8831.12,Apparel,Jared Ewing,0.21,Retail,6976.58,1854.54,01-11-2023,,Outdoor
+Bangalore,782.45,Groceries,Charles Davis,0.1,Online,704.21,78.25,01-11-2023,,Outdoor
+Bangalore,1562.13,Apparel,Mario Williams,0.23,Retail,1202.84,359.29,01-11-2023,,Outdoor
+Bangalore,5416.99,Groceries,Robert Smith,0.15,Wholesale,4604.44,812.55,01-11-2023,,Outdoor
+Bangalore,4757.21,Groceries,Sarah Ali,0.06,Online,4471.78,285.43,01-11-2023,,Outdoor
+Bangalore,8383.73,Apparel,Brent Brown,0.19,Online,6790.82,1592.91,01-11-2023,,Outdoor
+Bangalore,7558.57,Electronics,Jenny Carroll,0.19,Online,6122.44,1436.13,01-11-2023,,Outdoor
+Bangalore,524.3,Apparel,Laura Berger,0.2,Retail,419.44,104.86,01-11-2023,,Outdoor
+Bangalore,4737.95,Apparel,Mason Peterson,0.13,Online,4122.02,615.93,01-11-2023,,Outdoor
+Bangalore,3041.96,Electronics,David Harrison,0.05,Wholesale,2889.86,152.1,01-11-2023,,Outdoor
+Bangalore,8464.82,Groceries,Denise Oliver,0.11,Wholesale,7533.69,931.13,01-11-2023,,Outdoor
+Bangalore,620.69,Electronics,Jennifer Carlson,0.18,Online,508.97,111.72,01-11-2023,,Outdoor
+Bangalore,6383.5,Home Decor,Phyllis Hanson,0.19,Wholesale,5170.64,1212.87,01-11-2023,,Outdoor
+Bangalore,2115.58,Electronics,Justin Jones,0.1,Retail,1904.02,211.56,01-11-2023,,Outdoor
+Bangalore,2019.04,Electronics,John Wilson,0.05,Online,1918.09,100.95,01-11-2023,,Outdoor
+Bangalore,3694.36,Home Decor,Stephanie Hernandez,0.17,Retail,3066.32,628.04,01-11-2023,,Outdoor
+Bangalore,6070.01,Electronics,Jordan Rivera,0.22,Retail,4734.61,1335.4,01-11-2023,,Outdoor
+Bangalore,3526.48,Groceries,Philip Alexander,0.2,Wholesale,2821.18,705.3,01-11-2023,,Outdoor
+Bangalore,6667.79,Electronics,Sheila Wade,0.14,Wholesale,5734.3,933.49,01-11-2023,,Outdoor
+Bangalore,6467.53,Apparel,Stephen Roberts,0.15,Wholesale,5497.4,970.13,01-11-2023,,Outdoor
+Chennai,3400.99,Groceries,Daniel Singh,0.16,Retail,2856.83,544.16,01-11-2023,12009.62,TV
+Chennai,2877.09,Home Decor,William Russell,0.03,Online,2790.78,86.31,01-11-2023,,TV
+Chennai,2988.22,Apparel,Kathryn Charles,0.2,Retail,2390.58,597.64,01-11-2023,,TV
+Chennai,3942.38,Groceries,Mrs. Alexis Hudson MD,0.18,Wholesale,3232.75,709.63,01-11-2023,,TV
+Chennai,3273.39,Groceries,Sabrina Thompson,0.11,Wholesale,2913.32,360.07,01-11-2023,,TV
+Chennai,6501.01,Apparel,Dr. Tiffany Lawrence,0.22,Online,5070.79,1430.22,01-11-2023,,TV
+Chennai,4105.02,Electronics,Joseph Peters,0.12,Online,3612.42,492.6,01-11-2023,,TV
+Chennai,1176.96,Groceries,Rhonda Hansen,0.11,Online,1047.49,129.47,01-11-2023,,TV
+Chennai,5069.52,Electronics,Tommy Lester,0.16,Wholesale,4258.4,811.12,01-11-2023,,TV
+Chennai,2665.31,Electronics,Daniel Duncan,0.24,Wholesale,2025.64,639.67,01-11-2023,,TV
+Chennai,590.41,Home Decor,Courtney Mccall,0.1,Online,531.37,59.04,01-11-2023,,TV
+Chennai,1145.93,Home Decor,Anna Mason,0.19,Wholesale,928.2,217.73,01-11-2023,,TV
+Chennai,6151.89,Groceries,Dr. Victor Brown PhD,0.22,Retail,4798.47,1353.42,01-11-2023,,TV
+Chennai,5323.39,Electronics,Bobby Barnes,0.09,Wholesale,4844.28,479.11,01-11-2023,,TV
+Chennai,8513.36,Electronics,Morgan Thompson,0.09,Wholesale,7747.16,766.2,01-11-2023,,TV
+Chennai,8703.57,Home Decor,Richard Berry,0.05,Wholesale,8268.39,435.18,01-11-2023,,TV
+Chennai,1923.66,Electronics,Janet Williams,0.15,Online,1635.11,288.55,01-11-2023,,TV
+Chennai,9652.16,Groceries,Kevin Rodriguez,0.24,Wholesale,7335.64,2316.52,01-11-2023,,TV
+Chennai,6193.76,Groceries,Derek Walsh,0,Online,6193.76,0,01-11-2023,,TV
+Chennai,3692.73,Groceries,Kimberly Gibson,0.01,Online,3655.8,36.93,01-11-2023,,TV
+Chennai,1295.41,Home Decor,Brenda Roberson,0.11,Retail,1152.91,142.5,01-11-2023,,TV
+Chennai,7980.29,Home Decor,Amanda Castro,0.13,Retail,6942.85,1037.44,01-11-2023,,TV
+Hyderabad,5609.64,Electronics,Justin Paul,0.24,Online,4263.33,1346.31,01-11-2023,15194.25,TV
+Hyderabad,6719.1,Apparel,Ronald Jones,0.02,Retail,6584.72,134.38,01-11-2023,,TV
+Hyderabad,8012.44,Home Decor,Scott Garcia,0.24,Online,6089.45,1922.99,01-11-2023,,TV
+Hyderabad,6954.84,Groceries,James Evans,0.05,Online,6607.1,347.74,01-11-2023,,TV
+Hyderabad,6372.18,Apparel,Robert Hughes,0.02,Wholesale,6244.74,127.44,01-11-2023,,TV
+Hyderabad,9798.27,Home Decor,David Lewis,0.08,Online,9014.41,783.86,01-11-2023,,TV
+Hyderabad,3708.04,Electronics,Theresa James,0.13,Online,3225.99,482.05,01-11-2023,,TV
+Hyderabad,4362.1,Apparel,Andre Navarro,0.07,Online,4056.75,305.35,01-11-2023,,TV
+Hyderabad,5226.78,Groceries,Harold Rodriguez,0.01,Online,5174.51,52.27,01-11-2023,,TV
+Hyderabad,741.96,Groceries,Mary Fernandez,0.09,Retail,675.18,66.78,01-11-2023,,TV
+Hyderabad,5644.46,Groceries,Steven Petty,0.15,Wholesale,4797.79,846.67,01-11-2023,,TV
+Hyderabad,6625.48,Home Decor,Angela Chavez,0.08,Retail,6095.44,530.04,01-11-2023,,TV
+Hyderabad,9486.44,Home Decor,George Williams,0.22,Wholesale,7399.42,2087.02,01-11-2023,,TV
+Hyderabad,8526.14,Apparel,Jillian Mason,0.25,Online,6394.61,2131.54,01-11-2023,,TV
+Hyderabad,2159.52,Home Decor,Raymond Taylor,0.22,Online,1684.43,475.09,01-11-2023,,TV
+Hyderabad,5956.65,Electronics,Daniel May,0.07,Retail,5539.68,416.97,01-11-2023,,TV
+Hyderabad,9767.13,Home Decor,Adam Martin,0.25,Online,7325.35,2441.78,01-11-2023,,TV
+Hyderabad,581.12,Groceries,Patricia Liu,0.09,Retail,528.82,52.3,01-11-2023,,TV
+Hyderabad,1800.37,Apparel,Andrew Padilla,0,Online,1800.37,0,01-11-2023,,TV
+Hyderabad,4505.53,Apparel,James Jones,0.04,Retail,4325.31,180.22,01-11-2023,,TV
+Hyderabad,586.23,Home Decor,Nathan Golden,0.16,Wholesale,492.43,93.8,01-11-2023,,TV
+Hyderabad,2787.11,Apparel,James Fernandez,0.05,Online,2647.75,139.36,01-11-2023,,TV
+Hyderabad,9854.99,Electronics,Jake Smith,0.24,Wholesale,7489.79,2365.2,01-11-2023,,TV
+Hyderabad,3109.4,Groceries,Arthur Gilbert,0.05,Wholesale,2953.93,155.47,01-11-2023,,TV
+Hyderabad,1501.73,Groceries,Jonathan Melendez,0.01,Wholesale,1486.71,15.02,01-11-2023,,TV
+Kochi,8382.94,Groceries,Brent Wolfe,0.08,Wholesale,7712.3,670.64,01-11-2023,12619.24,Digital
+Kochi,1273.57,Electronics,Richard Gross,0.21,Retail,1006.12,267.45,01-11-2023,,Digital
+Kochi,2836.98,Groceries,Makayla Mosley,0.22,Retail,2212.84,624.14,01-11-2023,,Digital
+Kochi,1293.73,Apparel,Bradley Marshall,0.19,Retail,1047.92,245.81,01-11-2023,,Digital
+Kochi,4569.39,Groceries,Michael Frazier,0.02,Retail,4478,91.39,01-11-2023,,Digital
+Kochi,7001.48,Electronics,Gregory Mendoza,0.22,Online,5461.15,1540.33,01-11-2023,,Digital
+Kochi,8827.44,Apparel,Darren Wright,0.2,Online,7061.95,1765.49,01-11-2023,,Digital
+Kochi,9302.24,Apparel,Yvonne Torres,0.17,Online,7720.86,1581.38,01-11-2023,,Digital
+Kochi,4937.08,Home Decor,Daniel Coleman,0.22,Wholesale,3850.92,1086.16,01-11-2023,,Digital
+Kochi,8270.34,Groceries,Autumn Mckee,0.14,Wholesale,7112.49,1157.85,01-11-2023,,Digital
+Kochi,2681.17,Home Decor,Thomas Peterson,0.18,Retail,2198.56,482.61,01-11-2023,,Digital
+Kochi,3283.75,Electronics,Brittany Alexander,0.08,Wholesale,3021.05,262.7,01-11-2023,,Digital
+Kochi,5588.03,Apparel,Robert Crawford,0.1,Online,5029.23,558.8,01-11-2023,,Digital
+Kochi,1138.52,Home Decor,Daniel Moore,0.08,Online,1047.44,91.08,01-11-2023,,Digital
+Kochi,5772.4,Home Decor,Alex Butler,0,Online,5772.4,0,01-11-2023,,Digital
+Kochi,1979.91,Electronics,Stephen Hatfield,0.22,Online,1544.33,435.58,01-11-2023,,Digital
+Kochi,8969.92,Home Decor,Maurice Fox,0,Wholesale,8969.92,0,01-11-2023,,Digital
+Kochi,6309.85,Apparel,Emily Rodriguez,0.13,Retail,5489.57,820.28,01-11-2023,,Digital
+Kochi,2821.76,Electronics,Helen Adams,0.21,Retail,2229.19,592.57,01-11-2023,,Digital
+Kochi,3714.73,Apparel,Albert Moyer,0.1,Wholesale,3343.26,371.47,01-11-2023,,Digital
+Kochi,9303.4,Groceries,Glen Woodard,0.21,Retail,7349.69,1953.71,01-11-2023,,Digital
+Kochi,2144.4,Apparel,Carol Murillo,0.23,Online,1651.19,493.21,01-11-2023,,Digital
+Kochi,8442.67,Apparel,Bill Smith,0.02,Wholesale,8273.82,168.85,01-11-2023,,Digital
+Kochi,8528.12,Apparel,John Dunlap,0.11,Online,7590.03,938.09,01-11-2023,,Digital
+Kochi,8538.62,Groceries,Barry Gonzales,0.14,Retail,7343.21,1195.41,01-11-2023,,Digital
+Kochi,9839.83,Apparel,Christopher Schmidt,0.19,Online,7970.26,1869.57,01-11-2023,,Digital
+Kochi,8982.16,Electronics,Christopher Hickman,0.02,Retail,8802.52,179.64,01-11-2023,,Digital
+Kochi,4736.61,Apparel,Troy Thompson,0.15,Online,4026.12,710.49,01-11-2023,,Digital
+Bangalore,1205.85,Home Decor,Wendy Cantu,0.05,Online,1145.56,60.29,01-12-2023,9685.65,TV
+Bangalore,4217.04,Groceries,Rebecca Gomez,0.18,Online,3457.97,759.07,01-12-2023,,TV
+Bangalore,6259.5,Home Decor,Cory Livingston,0.14,Retail,5383.17,876.33,01-12-2023,,TV
+Bangalore,5925.23,Electronics,Angela Hester,0.13,Retail,5154.95,770.28,01-12-2023,,TV
+Bangalore,6865.46,Electronics,Kayla Lyons,0.15,Wholesale,5835.64,1029.82,01-12-2023,,TV
+Bangalore,2321.47,Groceries,Jenna Jones,0.15,Online,1973.25,348.22,01-12-2023,,TV
+Bangalore,6353,Apparel,Scott Schmitt,0.2,Online,5082.4,1270.6,01-12-2023,,TV
+Bangalore,8596.42,Groceries,Jason Lambert,0.24,Online,6533.28,2063.14,01-12-2023,,TV
+Bangalore,1857.69,Home Decor,Eric Williams,0.15,Retail,1579.04,278.65,01-12-2023,,TV
+Bangalore,941.86,Home Decor,Bruce Williams,0.01,Retail,932.44,9.42,01-12-2023,,TV
+Bangalore,8218.89,Electronics,Zachary Meyer,0.19,Retail,6657.3,1561.59,01-12-2023,,TV
+Bangalore,6593.29,Groceries,David Johnson,0.05,Wholesale,6263.63,329.66,01-12-2023,,TV
+Bangalore,4416.53,Apparel,Daniel Wilson,0,Online,4416.53,0,01-12-2023,,TV
+Bangalore,7501.25,Home Decor,Willie Ross,0.09,Online,6826.14,675.11,01-12-2023,,TV
+Bangalore,8697.64,Electronics,Jennifer Moreno,0.16,Wholesale,7306.02,1391.62,01-12-2023,,TV
+Bangalore,4945.95,Home Decor,David Rodriguez,0.07,Wholesale,4599.73,346.22,01-12-2023,,TV
+Bangalore,7510.56,Groceries,Jared Fuller,0.11,Wholesale,6684.4,826.16,01-12-2023,,TV
+Bangalore,4067.85,Apparel,Daniel Barber,0.06,Online,3823.78,244.07,01-12-2023,,TV
+Bangalore,8151.43,Groceries,Megan Bradley,0.21,Online,6439.63,1711.8,01-12-2023,,TV
+Bangalore,4297.87,Apparel,Nicholas Baker,0.25,Retail,3223.4,1074.47,01-12-2023,,TV
+Bangalore,2314.02,Groceries,Lisa Morrison,0.14,Retail,1990.06,323.96,01-12-2023,,TV
+Chennai,7583.5,Home Decor,Christine Rodriguez,0.13,Online,6597.65,985.86,01-12-2023,6664.2,Outdoor
+Chennai,2941.8,Electronics,Jessica Kirby,0.21,Wholesale,2324.02,617.78,01-12-2023,,Outdoor
+Chennai,1883.79,Electronics,George Mckinney,0.11,Wholesale,1676.57,207.22,01-12-2023,,Outdoor
+Chennai,8625.22,Electronics,Ronald Paul,0.07,Retail,8021.45,603.77,01-12-2023,,Outdoor
+Chennai,5396.17,Groceries,Margaret Harper,0.03,Wholesale,5234.28,161.89,01-12-2023,,Outdoor
+Chennai,2026.13,Electronics,Connor Hill,0.2,Online,1620.9,405.23,01-12-2023,,Outdoor
+Chennai,5421.96,Home Decor,Vanessa Ortiz,0.07,Online,5042.42,379.54,01-12-2023,,Outdoor
+Chennai,948.57,Apparel,Michael Jones,0.22,Online,739.88,208.69,01-12-2023,,Outdoor
+Chennai,7701.93,Apparel,Joshua Gardner,0.24,Wholesale,5853.47,1848.46,01-12-2023,,Outdoor
+Chennai,9250.02,Groceries,Thomas Vasquez,0.16,Online,7770.02,1480,01-12-2023,,Outdoor
+Chennai,7271.32,Groceries,Pamela Fields,0.13,Wholesale,6326.05,945.27,01-12-2023,,Outdoor
+Chennai,6372,Apparel,Kimberly Young,0.01,Retail,6308.28,63.72,01-12-2023,,Outdoor
+Chennai,8351.31,Apparel,Amanda Fernandez,0.04,Online,8017.26,334.05,01-12-2023,,Outdoor
+Chennai,3939.99,Home Decor,Linda Wilson,0.21,Online,3112.59,827.4,01-12-2023,,Outdoor
+Chennai,6940.95,Electronics,Deanna Price,0.23,Online,5344.53,1596.42,01-12-2023,,Outdoor
+Chennai,2599.82,Apparel,Caitlin Grimes,0.09,Online,2365.84,233.98,01-12-2023,,Outdoor
+Chennai,856.9,Electronics,Alfred Allison,0.18,Retail,702.66,154.24,01-12-2023,,Outdoor
+Chennai,9169.33,Groceries,Cynthia Schwartz,0.12,Wholesale,8069.01,1100.32,01-12-2023,,Outdoor
+Chennai,1724.34,Apparel,Donald Chavez,0.1,Retail,1551.91,172.43,01-12-2023,,Outdoor
+Chennai,9635.2,Apparel,Kevin Andrews,0.1,Wholesale,8671.68,963.52,01-12-2023,,Outdoor
+Chennai,7579.38,Home Decor,Justin Wilcox,0.1,Wholesale,6821.44,757.94,01-12-2023,,Outdoor
+Chennai,7465.19,Groceries,Lance Berry,0.08,Online,6867.97,597.22,01-12-2023,,Outdoor
+Chennai,4514.07,Groceries,Kim Ramirez,0.11,Wholesale,4017.52,496.55,01-12-2023,,Outdoor
+Chennai,9429.37,Home Decor,Amber Morrison,0.05,Retail,8957.9,471.47,01-12-2023,,Outdoor
+Chennai,9902.48,Electronics,Pamela Melendez,0.19,Online,8021.01,1881.47,01-12-2023,,Outdoor
+Hyderabad,8920.34,Electronics,Thomas Soto,0.13,Retail,7760.7,1159.64,01-12-2023,14781.81,Digital
+Hyderabad,2598.63,Home Decor,Glenda Owens,0.18,Online,2130.88,467.75,01-12-2023,,Digital
+Hyderabad,3474.76,Groceries,Frank Cardenas,0.16,Retail,2918.8,555.96,01-12-2023,,Digital
+Hyderabad,6215,Home Decor,Randy Chang,0.2,Retail,4972,1243,01-12-2023,,Digital
+Hyderabad,6330.88,Home Decor,Nicole White,0.05,Retail,6014.34,316.54,01-12-2023,,Digital
+Hyderabad,3836.53,Electronics,Steven Delgado,0.06,Wholesale,3606.34,230.19,01-12-2023,,Digital
+Hyderabad,7273.44,Electronics,James Terry,0.01,Retail,7200.71,72.73,01-12-2023,,Digital
+Hyderabad,4367.76,Apparel,Anthony Collier,0.23,Wholesale,3363.18,1004.58,01-12-2023,,Digital
+Hyderabad,7853.36,Home Decor,Jacob Nielsen,0.02,Online,7696.29,157.07,01-12-2023,,Digital
+Hyderabad,9342.42,Electronics,Matthew David,0.23,Wholesale,7193.66,2148.76,01-12-2023,,Digital
+Hyderabad,2871.47,Home Decor,Jennifer Randolph,0.15,Wholesale,2440.75,430.72,01-12-2023,,Digital
+Hyderabad,4362.59,Apparel,Kyle Wilson,0.03,Wholesale,4231.71,130.88,01-12-2023,,Digital
+Hyderabad,6759.28,Electronics,Lisa Johnson,0.01,Retail,6691.69,67.59,01-12-2023,,Digital
+Hyderabad,1069.92,Apparel,Jennifer Baxter,0.01,Wholesale,1059.22,10.7,01-12-2023,,Digital
+Hyderabad,3757.34,Apparel,Lisa Gonzalez,0.03,Online,3644.62,112.72,01-12-2023,,Digital
+Hyderabad,9238.71,Home Decor,Richard Hernandez,0.17,Retail,7668.13,1570.58,01-12-2023,,Digital
+Hyderabad,5371.35,Apparel,Shannon Horn,0.22,Wholesale,4189.65,1181.7,01-12-2023,,Digital
+Hyderabad,2218.04,Electronics,Rita Coffey,0.05,Retail,2107.14,110.9,01-12-2023,,Digital
+Hyderabad,7297.89,Apparel,Rebekah Manning,0.22,Retail,5692.35,1605.54,01-12-2023,,Digital
+Hyderabad,624.6,Apparel,Ian Villa,0.03,Online,605.86,18.74,01-12-2023,,Digital
+Hyderabad,8648.32,Home Decor,Emily Anderson,0.12,Retail,7610.52,1037.8,01-12-2023,,Digital
+Hyderabad,7658.6,Home Decor,Melissa Fleming,0.19,Online,6203.47,1455.13,01-12-2023,,Digital
+Hyderabad,4818.28,Home Decor,Krystal Wells,0.15,Wholesale,4095.54,722.74,01-12-2023,,Digital
+Kochi,8116.9,Groceries,Brandon Dalton,0.16,Wholesale,6818.2,1298.7,01-12-2023,12752.85,Outdoor
+Kochi,6518.51,Home Decor,Brian Schmitt,0.07,Online,6062.21,456.3,01-12-2023,,Outdoor
+Kochi,3644.81,Electronics,Gerald Wilson,0.13,Retail,3170.98,473.83,01-12-2023,,Outdoor
+Kochi,1559.65,Home Decor,Joseph Rowe,0.13,Wholesale,1356.9,202.75,01-12-2023,,Outdoor
+Kochi,3085.48,Groceries,William Hicks,0.17,Retail,2560.95,524.53,01-12-2023,,Outdoor
+Kochi,3160.57,Home Decor,Mark Phillips,0.09,Retail,2876.12,284.45,01-12-2023,,Outdoor
+Kochi,583.05,Groceries,Jennifer Perez,0.19,Retail,472.27,110.78,01-12-2023,,Outdoor
+Kochi,2315.63,Apparel,Alexis Moss,0.11,Online,2060.91,254.72,01-12-2023,,Outdoor
+Kochi,3751.32,Home Decor,Anna Schmidt,0.12,Retail,3301.16,450.16,01-12-2023,,Outdoor
+Kochi,1306.74,Home Decor,Douglas Moreno,0.08,Wholesale,1202.2,104.54,01-12-2023,,Outdoor
+Kochi,1368.51,Apparel,Michael Coleman,0.12,Retail,1204.29,164.22,01-12-2023,,Outdoor
+Kochi,6472.31,Electronics,Ashley Lamb,0.01,Wholesale,6407.59,64.72,01-12-2023,,Outdoor
+Kochi,8805.22,Apparel,Kelsey Marshall,0.14,Wholesale,7572.49,1232.73,01-12-2023,,Outdoor
+Kochi,3683.59,Groceries,Lori Knight DDS,0.23,Online,2836.36,847.23,01-12-2023,,Outdoor
+Kochi,5784.34,Home Decor,Joseph Mitchell Jr.,0.06,Online,5437.28,347.06,01-12-2023,,Outdoor
+Kochi,676.6,Electronics,Derek Watson,0.18,Online,554.81,121.79,01-12-2023,,Outdoor
+Kochi,7845.96,Home Decor,Donald Taylor,0.11,Online,6982.9,863.06,01-12-2023,,Outdoor
+Kochi,4228.62,Groceries,Robert Thomas,0.25,Wholesale,3171.47,1057.16,01-12-2023,,Outdoor
+Kochi,7445.56,Home Decor,Jordan Mora,0.03,Online,7222.19,223.37,01-12-2023,,Outdoor
+Kochi,2241.26,Home Decor,Michael Noble,0.03,Wholesale,2174.02,67.24,01-12-2023,,Outdoor
+Kochi,5389.94,Home Decor,Nicole Allen,0.13,Online,4689.25,700.69,01-12-2023,,Outdoor
+Kochi,4195,Electronics,Wesley Brown,0.07,Online,3901.35,293.65,01-12-2023,,Outdoor
+Kochi,6346.43,Apparel,Joshua Palmer,0.1,Online,5711.79,634.64,01-12-2023,,Outdoor
+Kochi,4136.91,Apparel,Edward Landry,0.24,Wholesale,3144.05,992.86,01-12-2023,,Outdoor
+Kochi,9860.93,Home Decor,Dawn Bowman,0.12,Wholesale,8677.62,1183.31,01-12-2023,,Outdoor
+Kochi,6729.33,Apparel,Yesenia Bentley,0.19,Retail,5450.76,1278.57,01-12-2023,,Outdoor

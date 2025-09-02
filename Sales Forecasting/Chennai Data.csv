@@ -1,0 +1,318 @@
+﻿City,Amount,Product_Category,Sales_Rep,Discount,Customer_segmentation,After_dicouont,Loss,Month_Formatted,Spend,Channel,ROI %
+Chennai,6440.23,Home Decor,Heather Richards,0.24,Online,4894.57,1545.66,01-01-2023,16475.43,Print,4893.57
+Chennai,2429.35,Apparel,Natasha Foster,0.19,Online,1967.77,461.58,01-01-2023,,Print,#DIV/0!
+Chennai,4464.6,Home Decor,Anthony Berry,0.01,Online,4419.95,44.65,01-01-2023,,Print,#DIV/0!
+Chennai,3079.62,Electronics,Debra Davidson,0.08,Wholesale,2833.25,246.37,01-01-2023,,Print,#DIV/0!
+Chennai,2761.49,Groceries,Michael Moore,0.2,Online,2209.19,552.3,01-01-2023,,Print,#DIV/0!
+Chennai,7077.86,Apparel,David Robertson,0.25,Retail,5308.4,1769.47,01-01-2023,,Print,#DIV/0!
+Chennai,3171.48,Electronics,Anthony Diaz,0.18,Retail,2600.61,570.87,01-01-2023,,Print,#DIV/0!
+Chennai,3695.63,Electronics,Kristin Hart,0.19,Retail,2993.46,702.17,01-01-2023,,Print,#DIV/0!
+Chennai,2062.53,Home Decor,Nicholas Thompson,0.01,Online,2041.9,20.63,01-01-2023,,Print,#DIV/0!
+Chennai,2995.41,Electronics,Angela Myers,0.12,Retail,2635.96,359.45,01-01-2023,,Print,#DIV/0!
+Chennai,3625.34,Electronics,Veronica Mccoy,0.05,Online,3444.07,181.27,01-01-2023,,Print,#DIV/0!
+Chennai,1456.25,Groceries,Dawn Grimes,0.04,Wholesale,1398,58.25,01-01-2023,,Print,#DIV/0!
+Chennai,5547.54,Apparel,Larry Silva,0.16,Wholesale,4659.93,887.61,01-01-2023,,Print,#DIV/0!
+Chennai,9438.27,Apparel,Latasha Mata,0.05,Online,8966.36,471.91,01-01-2023,,Print,#DIV/0!
+Chennai,4412.8,Apparel,Rodney Lutz,0.22,Online,3441.98,970.82,01-01-2023,,Print,#DIV/0!
+Chennai,5087.83,Electronics,Karen Johnson,0.18,Online,4172.02,915.81,01-01-2023,,Print,#DIV/0!
+Chennai,7096.48,Apparel,Sarah Johnson,0.21,Online,5606.22,1490.26,01-01-2023,,Print,#DIV/0!
+Chennai,8218.32,Apparel,Nichole Marshall,0.06,Online,7725.22,493.1,01-01-2023,,Print,#DIV/0!
+Chennai,6091.65,Apparel,Michael Ewing,0.17,Retail,5056.07,1035.58,01-01-2023,,Print,#DIV/0!
+Chennai,9201.73,Electronics,Angela Wilson,0.2,Wholesale,7361.38,1840.35,01-01-2023,,Print,#DIV/0!
+Chennai,1826.88,Home Decor,Kelsey Willis,0.04,Retail,1753.8,73.08,01-01-2023,,Print,#DIV/0!
+Chennai,3405.16,Groceries,Angela Lewis,0.01,Online,3371.11,34.05,01-01-2023,,Print,#DIV/0!
+Chennai,8757.7,Electronics,Mark Turner,0.05,Retail,8319.82,437.89,01-01-2023,,Print,#DIV/0!
+Chennai,1421.83,Apparel,Neil Hart,0.13,Wholesale,1236.99,184.84,01-01-2023,,Print,#DIV/0!
+Chennai,5372.32,Apparel,Gregory Morales,0.02,Online,5264.87,107.45,01-01-2023,,Print,#DIV/0!
+Chennai,5497.8,Apparel,Sharon Yoder,0.1,Online,4948.02,549.78,01-01-2023,,Print,#DIV/0!
+Chennai,6064.88,Home Decor,John Alvarado,0.11,Retail,5397.74,667.14,01-01-2023,,Print,#DIV/0!
+Chennai,1217.75,Home Decor,Sabrina Campbell,0.03,Online,1181.22,36.53,01-01-2023,,Print,#DIV/0!
+Chennai,6887.88,Groceries,Mark Kennedy,0.04,Retail,6612.36,275.52,01-01-2023,,Print,#DIV/0!
+Chennai,4915.85,Home Decor,Rebecca Dawson,0.17,Retail,4080.16,835.69,01-01-2023,,Print,#DIV/0!
+Chennai,6118.89,Electronics,Aaron Dixon,0.11,Online,5445.81,673.08,01-01-2023,,Print,#DIV/0!
+Chennai,4900.08,Home Decor,Evan Romero,0.04,Wholesale,4704.08,196,01-01-2023,,Print,#DIV/0!
+Chennai,3175.21,Electronics,Kevin Walton,0.16,Online,2667.18,508.03,01-02-2023,7983.62,TV,2666.18
+Chennai,4480.06,Groceries,Janet Gomez,0.22,Retail,3494.45,985.61,01-02-2023,,TV,#DIV/0!
+Chennai,7660.09,Apparel,Christopher Lam,0.2,Retail,6128.07,1532.02,01-02-2023,,TV,#DIV/0!
+Chennai,3331,Groceries,Travis Morales,0.03,Retail,3231.07,99.93,01-02-2023,,TV,#DIV/0!
+Chennai,930.42,Electronics,Rachel Collins,0,Online,930.42,0,01-02-2023,,TV,#DIV/0!
+Chennai,7113.52,Apparel,Jeffery Peterson,0.09,Wholesale,6473.3,640.22,01-02-2023,,TV,#DIV/0!
+Chennai,6022.93,Home Decor,Steven Sutton,0.21,Retail,4758.11,1264.82,01-02-2023,,TV,#DIV/0!
+Chennai,5428.3,Groceries,Charles Hayes,0.24,Retail,4125.51,1302.79,01-02-2023,,TV,#DIV/0!
+Chennai,6595.19,Groceries,Matthew Hensley,0.03,Retail,6397.33,197.86,01-02-2023,,TV,#DIV/0!
+Chennai,6417.58,Apparel,Chad Olson,0.13,Wholesale,5583.29,834.29,01-02-2023,,TV,#DIV/0!
+Chennai,9370.64,Electronics,Todd Foster MD,0.21,Online,7402.81,1967.83,01-02-2023,,TV,#DIV/0!
+Chennai,1421.06,Apparel,Anthony Kirk,0.23,Retail,1094.22,326.84,01-02-2023,,TV,#DIV/0!
+Chennai,1853.86,Home Decor,Anna George,0.08,Wholesale,1705.55,148.31,01-02-2023,,TV,#DIV/0!
+Chennai,1068.02,Apparel,Jack Frye,0.06,Wholesale,1003.94,64.08,01-02-2023,,TV,#DIV/0!
+Chennai,7453.86,Home Decor,Anthony Robinson,0.19,Retail,6037.63,1416.23,01-03-2023,10057.98,Print,6036.63
+Chennai,9087.74,Apparel,Michelle Mason,0.21,Retail,7179.31,1908.43,01-03-2023,,Print,#DIV/0!
+Chennai,6392.42,Electronics,Elizabeth Tapia,0.25,Retail,4794.32,1598.11,01-03-2023,,Print,#DIV/0!
+Chennai,1263.92,Groceries,Shawn Reyes,0.21,Wholesale,998.5,265.42,01-03-2023,,Print,#DIV/0!
+Chennai,8993.94,Home Decor,Tyler Garcia,0.05,Online,8544.24,449.7,01-03-2023,,Print,#DIV/0!
+Chennai,4440.34,Apparel,Katrina Nixon,0.14,Wholesale,3818.69,621.65,01-03-2023,,Print,#DIV/0!
+Chennai,4870.54,Electronics,Miss Beth Cuevas DDS,0.1,Online,4383.49,487.05,01-03-2023,,Print,#DIV/0!
+Chennai,2867.66,Home Decor,Bryan Wall,0.13,Online,2494.86,372.8,01-03-2023,,Print,#DIV/0!
+Chennai,8811.74,Home Decor,Joseph Jackson,0.11,Wholesale,7842.45,969.29,01-03-2023,,Print,#DIV/0!
+Chennai,2574.51,Electronics,Raymond Miller,0.21,Online,2033.86,540.65,01-03-2023,,Print,#DIV/0!
+Chennai,4340.85,Apparel,Katherine Gallagher,0.05,Online,4123.81,217.04,01-03-2023,,Print,#DIV/0!
+Chennai,540.92,Apparel,Jason Vang,0.16,Online,454.37,86.55,01-03-2023,,Print,#DIV/0!
+Chennai,6985.95,Groceries,Annette Gonzalez,0.06,Retail,6566.79,419.16,01-03-2023,,Print,#DIV/0!
+Chennai,9483.3,Electronics,Christina Caldwell,0.02,Online,9293.63,189.67,01-03-2023,,Print,#DIV/0!
+Chennai,680.21,Groceries,Matthew Ortiz,0.11,Online,605.39,74.82,01-03-2023,,Print,#DIV/0!
+Chennai,6790.19,Electronics,Jessica Brown,0.17,Retail,5635.86,1154.33,01-03-2023,,Print,#DIV/0!
+Chennai,4212.39,Electronics,Alexis Scott,0.12,Online,3706.9,505.49,01-03-2023,,Print,#DIV/0!
+Chennai,9570.22,Apparel,Lisa Farley,0.11,Online,8517.5,1052.72,01-03-2023,,Print,#DIV/0!
+Chennai,6408.44,Groceries,Cynthia Rose,0.04,Wholesale,6152.1,256.34,01-03-2023,,Print,#DIV/0!
+Chennai,8168.87,Groceries,Seth Gutierrez,0.21,Retail,6453.41,1715.46,01-03-2023,,Print,#DIV/0!
+Chennai,3599.46,Groceries,Debra Martinez,0.13,Wholesale,3131.53,467.93,01-03-2023,,Print,#DIV/0!
+Chennai,3824.6,Home Decor,Jennifer Bailey,0,Online,3824.6,0,01-03-2023,,Print,#DIV/0!
+Chennai,1666.46,Groceries,Zachary Jackson,0.21,Retail,1316.5,349.96,01-03-2023,,Print,#DIV/0!
+Chennai,7807.59,Groceries,Michael Kelly,0,Retail,7807.59,0,01-03-2023,,Print,#DIV/0!
+Chennai,1786.72,Groceries,Troy Cook,0.2,Online,1429.38,357.34,01-03-2023,,Print,#DIV/0!
+Chennai,2656.97,Groceries,Amanda Alexander,0.15,Online,2258.42,398.55,01-03-2023,,Print,#DIV/0!
+Chennai,6768.46,Electronics,Lauren Perez,0.12,Online,5956.24,812.22,01-04-2023,4825.77,Outdoor,5955.24
+Chennai,3318.99,Groceries,Jessica Lambert,0.05,Retail,3153.04,165.95,01-04-2023,,Outdoor,#DIV/0!
+Chennai,9590.59,Electronics,Vanessa Graves,0.11,Online,8535.63,1054.96,01-04-2023,,Outdoor,#DIV/0!
+Chennai,7022.09,Home Decor,Kristin Wright,0.23,Online,5407.01,1615.08,01-04-2023,,Outdoor,#DIV/0!
+Chennai,3546.93,Home Decor,Ethan Green,0.02,Retail,3475.99,70.94,01-04-2023,,Outdoor,#DIV/0!
+Chennai,1544.49,Groceries,Vincent Griffin,0.23,Online,1189.26,355.23,01-04-2023,,Outdoor,#DIV/0!
+Chennai,1827.68,Home Decor,Robert Howe,0.22,Retail,1425.59,402.09,01-04-2023,,Outdoor,#DIV/0!
+Chennai,4612.64,Groceries,Anthony Fletcher,0.09,Wholesale,4197.5,415.14,01-04-2023,,Outdoor,#DIV/0!
+Chennai,6566.53,Apparel,Alexis Simmons,0.25,Online,4924.9,1641.63,01-04-2023,,Outdoor,#DIV/0!
+Chennai,8914.38,Home Decor,Pamela Norton,0.12,Retail,7844.65,1069.73,01-04-2023,,Outdoor,#DIV/0!
+Chennai,2942.93,Apparel,Jessica Anderson,0.06,Retail,2766.35,176.58,01-04-2023,,Outdoor,#DIV/0!
+Chennai,7261.42,Electronics,Shannon Mendez,0.25,Wholesale,5446.07,1815.36,01-04-2023,,Outdoor,#DIV/0!
+Chennai,5851.42,Electronics,Emily Robertson,0.12,Online,5149.25,702.17,01-04-2023,,Outdoor,#DIV/0!
+Chennai,2012.53,Groceries,Jessica Ross,0,Retail,2012.53,0,01-04-2023,,Outdoor,#DIV/0!
+Chennai,1802.32,Groceries,Jill Jackson,0.18,Retail,1477.9,324.42,01-04-2023,,Outdoor,#DIV/0!
+Chennai,1589.42,Groceries,Natasha Murphy,0.13,Retail,1382.8,206.62,01-04-2023,,Outdoor,#DIV/0!
+Chennai,4194.89,Groceries,Brittney White,0.2,Online,3355.91,838.98,01-04-2023,,Outdoor,#DIV/0!
+Chennai,2372.21,Groceries,Mark Hoover,0.11,Retail,2111.27,260.94,01-04-2023,,Outdoor,#DIV/0!
+Chennai,3054.8,Apparel,Joseph Barber,0.05,Retail,2902.06,152.74,01-04-2023,,Outdoor,#DIV/0!
+Chennai,8488.88,Home Decor,Tammy Mann,0.17,Wholesale,7045.77,1443.11,01-04-2023,,Outdoor,#DIV/0!
+Chennai,2282.12,Apparel,Joseph Nelson,0.09,Wholesale,2076.73,205.39,01-04-2023,,Outdoor,#DIV/0!
+Chennai,5607.78,Groceries,Jennifer Garcia,0.02,Wholesale,5495.62,112.16,01-04-2023,,Outdoor,#DIV/0!
+Chennai,4915.97,Electronics,Erika Rogers,0.15,Retail,4178.57,737.4,01-04-2023,,Outdoor,#DIV/0!
+Chennai,9183.58,Groceries,Jacqueline Shaw,0.1,Wholesale,8265.22,918.36,01-04-2023,,Outdoor,#DIV/0!
+Chennai,8904.45,Electronics,Debra Jacobson,0.19,Retail,7212.6,1691.85,01-04-2023,,Outdoor,#DIV/0!
+Chennai,1071.43,Groceries,Julia Moore,0.19,Wholesale,867.86,203.57,01-04-2023,,Outdoor,#DIV/0!
+Chennai,3705.38,Home Decor,Jennifer Hoffman,0.02,Retail,3631.27,74.11,01-04-2023,,Outdoor,#DIV/0!
+Chennai,8669.57,Home Decor,Michael Guerrero,0.12,Online,7629.22,1040.35,01-04-2023,,Outdoor,#DIV/0!
+Chennai,8746.42,Groceries,Jared Underwood,0.17,Online,7259.53,1486.89,01-04-2023,,Outdoor,#DIV/0!
+Chennai,5134.28,Apparel,Cheryl Taylor,0.11,Wholesale,4569.51,564.77,01-04-2023,,Outdoor,#DIV/0!
+Chennai,6764.99,Electronics,Craig Patton,0.11,Online,6020.84,744.15,01-04-2023,,Outdoor,#DIV/0!
+Chennai,6308.41,Home Decor,Allison Casey,0.04,Retail,6056.07,252.34,01-04-2023,,Outdoor,#DIV/0!
+Chennai,8196.44,Electronics,Robin Roman,0.12,Online,7212.87,983.57,01-05-2023,10372.95,Digital,7211.87
+Chennai,6688.51,Electronics,Elizabeth Smith,0.23,Online,5150.15,1538.36,01-05-2023,,Digital,#DIV/0!
+Chennai,8379.42,Apparel,Joseph Taylor,0.15,Online,7122.51,1256.91,01-05-2023,,Digital,#DIV/0!
+Chennai,2557.84,Groceries,Daniel Robinson,0.13,Retail,2225.32,332.52,01-05-2023,,Digital,#DIV/0!
+Chennai,4506.62,Home Decor,Jose Braun,0.04,Wholesale,4326.36,180.26,01-05-2023,,Digital,#DIV/0!
+Chennai,1855.88,Electronics,Jeffrey Gilbert,0.2,Online,1484.7,371.18,01-05-2023,,Digital,#DIV/0!
+Chennai,8888.75,Groceries,Gwendolyn Martinez,0.19,Retail,7199.89,1688.86,01-05-2023,,Digital,#DIV/0!
+Chennai,4909.95,Home Decor,Adam Thomas,0.18,Online,4026.16,883.79,01-05-2023,,Digital,#DIV/0!
+Chennai,1475.63,Groceries,Brian Dixon,0.19,Wholesale,1195.26,280.37,01-05-2023,,Digital,#DIV/0!
+Chennai,1353.64,Home Decor,Kelly Conner,0.17,Wholesale,1123.52,230.12,01-05-2023,,Digital,#DIV/0!
+Chennai,8989.07,Groceries,Brooke Andrews,0.09,Wholesale,8180.05,809.02,01-05-2023,,Digital,#DIV/0!
+Chennai,5955.84,Home Decor,Charles Cameron,0.01,Wholesale,5896.28,59.56,01-05-2023,,Digital,#DIV/0!
+Chennai,7002.12,Home Decor,Laurie May,0.19,Wholesale,5671.72,1330.4,01-05-2023,,Digital,#DIV/0!
+Chennai,5837.93,Apparel,Melissa Francis,0.06,Online,5487.65,350.28,01-05-2023,,Digital,#DIV/0!
+Chennai,9983.75,Groceries,Crystal Herrera,0.24,Online,7587.65,2396.1,01-05-2023,,Digital,#DIV/0!
+Chennai,7890.83,Apparel,Kristi Clark,0.17,Retail,6549.39,1341.44,01-05-2023,,Digital,#DIV/0!
+Chennai,8943.78,Home Decor,Johnny Cannon,0.22,Retail,6976.15,1967.63,01-05-2023,,Digital,#DIV/0!
+Chennai,1108.62,Home Decor,Kayla Gould,0.1,Online,997.76,110.86,01-05-2023,,Digital,#DIV/0!
+Chennai,5312.11,Groceries,Suzanne Bishop,0.03,Retail,5152.75,159.36,01-05-2023,,Digital,#DIV/0!
+Chennai,3295.75,Groceries,Pamela Solis,0.16,Online,2768.43,527.32,01-05-2023,,Digital,#DIV/0!
+Chennai,5628.77,Groceries,Brandon Collins,0.23,Wholesale,4334.15,1294.62,01-05-2023,,Digital,#DIV/0!
+Chennai,3377.24,Home Decor,Michelle Stanley,0.16,Retail,2836.88,540.36,01-05-2023,,Digital,#DIV/0!
+Chennai,3033.51,Home Decor,Ashley Jackson,0.04,Retail,2912.17,121.34,01-05-2023,,Digital,#DIV/0!
+Chennai,3317.23,Home Decor,Keith Sutton,0.22,Online,2587.44,729.79,01-05-2023,,Digital,#DIV/0!
+Chennai,2418.69,Electronics,Timothy Chavez,0.03,Wholesale,2346.13,72.56,01-05-2023,,Digital,#DIV/0!
+Chennai,7302.04,Groceries,Mr. Jeffrey Erickson,0.18,Retail,5987.67,1314.37,01-06-2023,11900.98,TV,5986.67
+Chennai,9896.53,Groceries,Erika Williams,0.07,Retail,9203.77,692.76,01-06-2023,,TV,#DIV/0!
+Chennai,2885.46,Apparel,Kenneth Smith,0.02,Retail,2827.75,57.71,01-06-2023,,TV,#DIV/0!
+Chennai,7178.36,Electronics,Nicole Martinez,0.21,Wholesale,5670.9,1507.46,01-06-2023,,TV,#DIV/0!
+Chennai,7211.62,Apparel,Dawn Baker,0.19,Wholesale,5841.41,1370.21,01-06-2023,,TV,#DIV/0!
+Chennai,9681.75,Electronics,Crystal Garcia,0.03,Retail,9391.3,290.45,01-06-2023,,TV,#DIV/0!
+Chennai,623.78,Electronics,Tony Garcia,0.19,Online,505.26,118.52,01-06-2023,,TV,#DIV/0!
+Chennai,2650,Electronics,Mandy Chambers,0.19,Wholesale,2146.5,503.5,01-06-2023,,TV,#DIV/0!
+Chennai,6416.06,Electronics,Benjamin Green,0.02,Online,6287.74,128.32,01-06-2023,,TV,#DIV/0!
+Chennai,6077.64,Apparel,Lauren Simon,0.02,Online,5956.09,121.55,01-06-2023,,TV,#DIV/0!
+Chennai,9549.42,Home Decor,Deborah Castro,0.05,Wholesale,9071.95,477.47,01-06-2023,,TV,#DIV/0!
+Chennai,7907.08,Groceries,Savannah Huffman,0.16,Retail,6641.95,1265.13,01-06-2023,,TV,#DIV/0!
+Chennai,2450.65,Groceries,Jose Fitzpatrick,0.02,Wholesale,2401.64,49.01,01-06-2023,,TV,#DIV/0!
+Chennai,2412.44,Electronics,Johnny Brooks,0.05,Retail,2291.82,120.62,01-06-2023,,TV,#DIV/0!
+Chennai,2282.51,Home Decor,Brooke Frank,0.07,Online,2122.73,159.78,01-06-2023,,TV,#DIV/0!
+Chennai,628.48,Apparel,Johnny Smith,0.09,Online,571.92,56.56,01-06-2023,,TV,#DIV/0!
+Chennai,5085.99,Electronics,John Harris,0.14,Retail,4373.95,712.04,01-06-2023,,TV,#DIV/0!
+Chennai,9817.07,Groceries,Matthew Santana,0.25,Retail,7362.8,2454.27,01-06-2023,,TV,#DIV/0!
+Chennai,3962.55,Home Decor,Megan Fernandez,0.19,Retail,3209.67,752.88,01-06-2023,,TV,#DIV/0!
+Chennai,2651.94,Groceries,James Williams,0.16,Online,2227.63,424.31,01-06-2023,,TV,#DIV/0!
+Chennai,8133.01,Apparel,Steven Collins,0.23,Retail,6262.42,1870.59,01-06-2023,,TV,#DIV/0!
+Chennai,5523.5,Groceries,Amanda Thomas,0.14,Online,4750.21,773.29,01-07-2023,12714.98,Digital,4749.21
+Chennai,8336.02,Groceries,Erin Gutierrez,0.14,Wholesale,7168.98,1167.04,01-07-2023,,Digital,#DIV/0!
+Chennai,1884.07,Electronics,Crystal Herrera,0.2,Wholesale,1507.26,376.81,01-07-2023,,Digital,#DIV/0!
+Chennai,9511.7,Electronics,Alicia King,0.1,Retail,8560.53,951.17,01-07-2023,,Digital,#DIV/0!
+Chennai,774.74,Apparel,Tonya Mitchell,0.15,Wholesale,658.53,116.21,01-07-2023,,Digital,#DIV/0!
+Chennai,4376.3,Apparel,Austin Fisher,0.2,Online,3501.04,875.26,01-07-2023,,Digital,#DIV/0!
+Chennai,5003.89,Apparel,Denise Strong,0.08,Wholesale,4603.58,400.31,01-07-2023,,Digital,#DIV/0!
+Chennai,3644.22,Groceries,Cheryl Black,0.18,Retail,2988.26,655.96,01-07-2023,,Digital,#DIV/0!
+Chennai,1065.47,Home Decor,David Barber,0.17,Retail,884.34,181.13,01-07-2023,,Digital,#DIV/0!
+Chennai,6485.76,Apparel,Wendy Mueller,0.14,Retail,5577.75,908.01,01-07-2023,,Digital,#DIV/0!
+Chennai,599.75,Apparel,Gloria Diaz,0.16,Wholesale,503.79,95.96,01-07-2023,,Digital,#DIV/0!
+Chennai,3835.75,Groceries,Pamela Gonzalez,0.22,Wholesale,2991.89,843.87,01-07-2023,,Digital,#DIV/0!
+Chennai,9891.73,Home Decor,Linda Hester,0.09,Wholesale,9001.47,890.26,01-07-2023,,Digital,#DIV/0!
+Chennai,5249.55,Groceries,Megan Hernandez,0,Wholesale,5249.55,0,01-07-2023,,Digital,#DIV/0!
+Chennai,6292.85,Apparel,Andrew Goodwin,0.04,Retail,6041.14,251.71,01-07-2023,,Digital,#DIV/0!
+Chennai,4280.53,Apparel,William Gomez,0.13,Wholesale,3724.06,556.47,01-07-2023,,Digital,#DIV/0!
+Chennai,1869.46,Apparel,Adam Beck,0.04,Wholesale,1794.68,74.78,01-07-2023,,Digital,#DIV/0!
+Chennai,4431.66,Electronics,Kenneth Allen,0.01,Online,4387.34,44.32,01-07-2023,,Digital,#DIV/0!
+Chennai,7607.32,Groceries,Diane Luna,0.09,Wholesale,6922.66,684.66,01-07-2023,,Digital,#DIV/0!
+Chennai,662.21,Apparel,Courtney Freeman,0.06,Retail,622.48,39.73,01-07-2023,,Digital,#DIV/0!
+Chennai,8277.97,Apparel,Joel Edwards,0.22,Online,6456.82,1821.15,01-07-2023,,Digital,#DIV/0!
+Chennai,500.1,Home Decor,Vanessa Smith,0.1,Online,450.09,50.01,01-07-2023,,Digital,#DIV/0!
+Chennai,4565.25,Electronics,Gregory Olson,0.1,Wholesale,4108.73,456.53,01-07-2023,,Digital,#DIV/0!
+Chennai,8183.28,Electronics,Robert Collier,0.16,Retail,6873.96,1309.32,01-07-2023,,Digital,#DIV/0!
+Chennai,4849.76,Groceries,Jonathan Mccoy,0.03,Retail,4704.27,145.49,01-07-2023,,Digital,#DIV/0!
+Chennai,3354.15,Home Decor,Mr. James Harper,0.14,Online,2884.57,469.58,01-07-2023,,Digital,#DIV/0!
+Chennai,9042.59,Groceries,Eric Moore,0.18,Online,7414.92,1627.67,01-07-2023,,Digital,#DIV/0!
+Chennai,8341.76,Home Decor,Sarah Dawson,0.05,Wholesale,7924.67,417.09,01-07-2023,,Digital,#DIV/0!
+Chennai,1899.16,Apparel,Katherine Martinez,0.02,Online,1861.18,37.98,01-08-2023,5679.35,TV,1860.18
+Chennai,4011.04,Apparel,Carol Mitchell,0.22,Online,3128.61,882.43,01-08-2023,,TV,#DIV/0!
+Chennai,1140.52,Home Decor,James Wright,0.1,Online,1026.47,114.05,01-08-2023,,TV,#DIV/0!
+Chennai,4907.35,Apparel,Stephanie Carter,0.16,Online,4122.17,785.18,01-08-2023,,TV,#DIV/0!
+Chennai,1710.17,Home Decor,Bruce Shah,0.21,Wholesale,1351.03,359.14,01-08-2023,,TV,#DIV/0!
+Chennai,6862.57,Electronics,David Ray,0.06,Wholesale,6450.82,411.75,01-08-2023,,TV,#DIV/0!
+Chennai,5119.26,Electronics,Julie Savage,0.16,Retail,4300.18,819.08,01-08-2023,,TV,#DIV/0!
+Chennai,4316.03,Electronics,Damon Johnson,0.2,Retail,3452.82,863.21,01-08-2023,,TV,#DIV/0!
+Chennai,2331.86,Apparel,Timothy Howard,0.03,Wholesale,2261.9,69.96,01-08-2023,,TV,#DIV/0!
+Chennai,691.14,Groceries,Jeremy Allen,0.17,Online,573.65,117.49,01-08-2023,,TV,#DIV/0!
+Chennai,7601.78,Electronics,Tanner Ruiz,0.16,Wholesale,6385.5,1216.28,01-08-2023,,TV,#DIV/0!
+Chennai,597.2,Apparel,Courtney Ford,0.11,Retail,531.51,65.69,01-08-2023,,TV,#DIV/0!
+Chennai,1254.43,Apparel,Jason Smith,0.08,Online,1154.08,100.35,01-08-2023,,TV,#DIV/0!
+Chennai,8570.26,Groceries,Paula West,0.2,Retail,6856.21,1714.05,01-08-2023,,TV,#DIV/0!
+Chennai,8991.73,Home Decor,Anthony Davis,0.21,Online,7103.47,1888.26,01-08-2023,,TV,#DIV/0!
+Chennai,7171.24,Home Decor,Jay Bond,0.21,Retail,5665.28,1505.96,01-08-2023,,TV,#DIV/0!
+Chennai,5639.72,Electronics,James Burgess,0.05,Online,5357.73,281.99,01-08-2023,,TV,#DIV/0!
+Chennai,2599.02,Groceries,Jeffery Cox,0.08,Retail,2391.1,207.92,01-08-2023,,TV,#DIV/0!
+Chennai,7244.36,Groceries,Charlene Rodriguez,0.21,Wholesale,5723.04,1521.32,01-08-2023,,TV,#DIV/0!
+Chennai,3933.21,Apparel,Christopher Cobb,0.16,Wholesale,3303.9,629.31,01-08-2023,,TV,#DIV/0!
+Chennai,7885.45,Electronics,Shelly Phillips,0.1,Retail,7096.91,788.55,01-08-2023,,TV,#DIV/0!
+Chennai,9638.46,Electronics,Michael Peters,0.07,Wholesale,8963.77,674.69,01-08-2023,,TV,#DIV/0!
+Chennai,8167.26,Groceries,Catherine Massey,0.04,Online,7840.57,326.69,01-08-2023,,TV,#DIV/0!
+Chennai,5306.29,Electronics,Kathleen Campbell,0.22,Online,4138.91,1167.38,01-08-2023,,TV,#DIV/0!
+Chennai,8253.04,Electronics,Brandon Wood,0.07,Retail,7675.33,577.71,01-08-2023,,TV,#DIV/0!
+Chennai,4360.63,Apparel,Travis Jones,0.17,Retail,3619.32,741.31,01-08-2023,,TV,#DIV/0!
+Chennai,5283.45,Home Decor,Matthew Stone,0.04,Retail,5072.11,211.34,01-08-2023,,TV,#DIV/0!
+Chennai,4899.2,Apparel,Shawn Lee,0.12,Retail,4311.3,587.9,01-08-2023,,TV,#DIV/0!
+Chennai,8572.66,Home Decor,Thomas Rivera,0.01,Online,8486.93,85.73,01-08-2023,,TV,#DIV/0!
+Chennai,4585.97,Apparel,Morgan Stuart,0.23,Wholesale,3531.2,1054.77,01-08-2023,,TV,#DIV/0!
+Chennai,3957.99,Apparel,Stephen Schwartz,0.08,Retail,3641.35,316.64,01-08-2023,,TV,#DIV/0!
+Chennai,9335.44,Groceries,Kenneth Johnson,0.25,Wholesale,7001.58,2333.86,01-08-2023,,TV,#DIV/0!
+Chennai,3025.51,Home Decor,Darrell Rocha,0.16,Online,2541.43,484.08,01-08-2023,,TV,#DIV/0!
+Chennai,8892.29,Electronics,Shawna Sanchez,0.17,Retail,7380.6,1511.69,01-08-2023,,TV,#DIV/0!
+Chennai,5676.26,Electronics,Stephen Moore,0.08,Retail,5222.16,454.1,01-08-2023,,TV,#DIV/0!
+Chennai,1046.48,Electronics,Amanda Morris,0.08,Retail,962.76,83.72,01-08-2023,,TV,#DIV/0!
+Chennai,4634.59,Home Decor,John Ramirez,0.03,Online,4495.55,139.04,01-08-2023,,TV,#DIV/0!
+Chennai,1073.59,Home Decor,Stacey Oconnor,0.1,Wholesale,966.23,107.36,01-08-2023,,TV,#DIV/0!
+Chennai,8842.91,Groceries,Gregory Lozano,0.21,Online,6985.9,1857.01,01-09-2023,13138.25,Print,6984.9
+Chennai,9475.7,Home Decor,Brian Gardner,0.05,Retail,9001.92,473.79,01-09-2023,,Print,#DIV/0!
+Chennai,8868.3,Groceries,Courtney Malone,0.18,Online,7272.01,1596.29,01-09-2023,,Print,#DIV/0!
+Chennai,7085.54,Groceries,Paul Joyce,0.01,Retail,7014.68,70.86,01-09-2023,,Print,#DIV/0!
+Chennai,3053.72,Apparel,Wendy Griffin,0.12,Online,2687.27,366.45,01-09-2023,,Print,#DIV/0!
+Chennai,5162.32,Groceries,Dawn Sanchez,0.01,Wholesale,5110.7,51.62,01-09-2023,,Print,#DIV/0!
+Chennai,3782.65,Groceries,Austin Fowler,0.1,Online,3404.39,378.27,01-09-2023,,Print,#DIV/0!
+Chennai,5484.81,Apparel,Charlene Rowe,0.16,Retail,4607.24,877.57,01-09-2023,,Print,#DIV/0!
+Chennai,7259.76,Home Decor,Richard Santiago,0.16,Online,6098.2,1161.56,01-09-2023,,Print,#DIV/0!
+Chennai,6263.8,Apparel,Bethany Schultz,0.24,Wholesale,4760.49,1503.31,01-09-2023,,Print,#DIV/0!
+Chennai,2428.71,Electronics,Meredith Smith,0,Wholesale,2428.71,0,01-09-2023,,Print,#DIV/0!
+Chennai,8041.48,Home Decor,Glenn Davis,0.15,Retail,6835.26,1206.22,01-09-2023,,Print,#DIV/0!
+Chennai,7588.42,Home Decor,Gloria Burgess,0.07,Wholesale,7057.23,531.19,01-09-2023,,Print,#DIV/0!
+Chennai,9150.2,Apparel,Benjamin Coleman,0.2,Wholesale,7320.16,1830.04,01-09-2023,,Print,#DIV/0!
+Chennai,5245.15,Groceries,Justin Andrews,0.07,Wholesale,4877.99,367.16,01-09-2023,,Print,#DIV/0!
+Chennai,4966.93,Groceries,Dr. Kathleen Rodriguez MD,0.03,Wholesale,4817.92,149.01,01-09-2023,,Print,#DIV/0!
+Chennai,912.32,Apparel,Todd Good,0.21,Retail,720.73,191.59,01-09-2023,,Print,#DIV/0!
+Chennai,7026.27,Apparel,Timothy Ferrell,0.14,Online,6042.59,983.68,01-09-2023,,Print,#DIV/0!
+Chennai,4605.98,Home Decor,Charles Smith,0.15,Online,3915.08,690.9,01-09-2023,,Print,#DIV/0!
+Chennai,965.8,Electronics,Brandon Perkins,0.23,Online,743.67,222.13,01-09-2023,,Print,#DIV/0!
+Chennai,2575.54,Apparel,Megan Thomas,0.18,Online,2111.94,463.6,01-09-2023,,Print,#DIV/0!
+Chennai,718.32,Apparel,Chad Bailey,0.1,Online,646.49,71.83,01-09-2023,,Print,#DIV/0!
+Chennai,6107.3,Apparel,Lori Padilla,0.18,Wholesale,5007.99,1099.31,01-09-2023,,Print,#DIV/0!
+Chennai,9959.98,Home Decor,Maria Smith,0.05,Wholesale,9461.98,498,01-09-2023,,Print,#DIV/0!
+Chennai,6239.59,Groceries,James Miles,0.11,Online,5553.24,686.35,01-09-2023,,Print,#DIV/0!
+Chennai,4074.65,Groceries,Stephen Hill,0.08,Online,3748.68,325.97,01-09-2023,,Print,#DIV/0!
+Chennai,5920.35,Electronics,Kim Martin,0.22,Wholesale,4617.87,1302.48,01-09-2023,,Print,#DIV/0!
+Chennai,1253.41,Electronics,Pamela Arellano,0.06,Online,1178.21,75.2,01-09-2023,,Print,#DIV/0!
+Chennai,5372.2,Electronics,Veronica Lindsey,0.06,Wholesale,5049.87,322.33,01-09-2023,,Print,#DIV/0!
+Chennai,3940.37,Electronics,Brooke Ferguson,0.24,Online,2994.68,945.69,01-09-2023,,Print,#DIV/0!
+Chennai,5170.53,Electronics,Sean Burnett,0.2,Wholesale,4136.42,1034.11,01-10-2023,6259.02,TV,4135.42
+Chennai,533.43,Electronics,Norman Cooper,0.1,Wholesale,480.09,53.34,01-10-2023,,TV,#DIV/0!
+Chennai,9227.9,Electronics,Eric Kirby,0.24,Online,7013.2,2214.7,01-10-2023,,TV,#DIV/0!
+Chennai,7220.18,Home Decor,Maureen Ellis,0.01,Wholesale,7147.98,72.2,01-10-2023,,TV,#DIV/0!
+Chennai,1560.99,Electronics,Patrick Walton,0.05,Wholesale,1482.94,78.05,01-10-2023,,TV,#DIV/0!
+Chennai,5984.4,Groceries,Anna Frank,0.08,Retail,5505.65,478.75,01-10-2023,,TV,#DIV/0!
+Chennai,2641.34,Apparel,Marie Gordon,0.23,Wholesale,2033.83,607.51,01-10-2023,,TV,#DIV/0!
+Chennai,1163.72,Electronics,Michael Bennett,0.01,Retail,1152.08,11.64,01-10-2023,,TV,#DIV/0!
+Chennai,8901.59,Apparel,Lisa Robertson,0.02,Wholesale,8723.56,178.03,01-10-2023,,TV,#DIV/0!
+Chennai,2805.25,Electronics,David Brooks,0.02,Wholesale,2749.15,56.11,01-10-2023,,TV,#DIV/0!
+Chennai,2593.23,Apparel,Susan Roach,0.23,Wholesale,1996.79,596.44,01-10-2023,,TV,#DIV/0!
+Chennai,2138.46,Groceries,Cody Harrington,0.08,Retail,1967.38,171.08,01-10-2023,,TV,#DIV/0!
+Chennai,4278.54,Apparel,Alexandra Brown,0.24,Wholesale,3251.69,1026.85,01-10-2023,,TV,#DIV/0!
+Chennai,2713.15,Groceries,Brittany Rosales,0.12,Online,2387.57,325.58,01-10-2023,,TV,#DIV/0!
+Chennai,1621.6,Groceries,John Smith,0.22,Online,1264.85,356.75,01-10-2023,,TV,#DIV/0!
+Chennai,6526.27,Groceries,Amy Harrell,0.02,Retail,6395.74,130.53,01-10-2023,,TV,#DIV/0!
+Chennai,4080.55,Groceries,Margaret Ross,0.08,Wholesale,3754.11,326.44,01-10-2023,,TV,#DIV/0!
+Chennai,5593.48,Electronics,Misty Frazier,0.18,Wholesale,4586.65,1006.83,01-10-2023,,TV,#DIV/0!
+Chennai,6999.74,Home Decor,Jamie Norton,0.21,Online,5529.79,1469.95,01-10-2023,,TV,#DIV/0!
+Chennai,5921.45,Home Decor,Edward Skinner,0.11,Retail,5270.09,651.36,01-10-2023,,TV,#DIV/0!
+Chennai,2062.65,Home Decor,Stephanie Lopez,0.25,Wholesale,1546.99,515.66,01-10-2023,,TV,#DIV/0!
+Chennai,9340.92,Groceries,Sara Murray,0.03,Retail,9060.69,280.23,01-10-2023,,TV,#DIV/0!
+Chennai,4888.41,Electronics,Jordan Morales,0.2,Online,3910.73,977.68,01-10-2023,,TV,#DIV/0!
+Chennai,6107.66,Electronics,Lauren Ward,0.05,Retail,5802.28,305.38,01-10-2023,,TV,#DIV/0!
+Chennai,3400.99,Groceries,Daniel Singh,0.16,Retail,2856.83,544.16,01-11-2023,12009.62,TV,2855.83
+Chennai,2877.09,Home Decor,William Russell,0.03,Online,2790.78,86.31,01-11-2023,,TV,#DIV/0!
+Chennai,2988.22,Apparel,Kathryn Charles,0.2,Retail,2390.58,597.64,01-11-2023,,TV,#DIV/0!
+Chennai,3942.38,Groceries,Mrs. Alexis Hudson MD,0.18,Wholesale,3232.75,709.63,01-11-2023,,TV,#DIV/0!
+Chennai,3273.39,Groceries,Sabrina Thompson,0.11,Wholesale,2913.32,360.07,01-11-2023,,TV,#DIV/0!
+Chennai,6501.01,Apparel,Dr. Tiffany Lawrence,0.22,Online,5070.79,1430.22,01-11-2023,,TV,#DIV/0!
+Chennai,4105.02,Electronics,Joseph Peters,0.12,Online,3612.42,492.6,01-11-2023,,TV,#DIV/0!
+Chennai,1176.96,Groceries,Rhonda Hansen,0.11,Online,1047.49,129.47,01-11-2023,,TV,#DIV/0!
+Chennai,5069.52,Electronics,Tommy Lester,0.16,Wholesale,4258.4,811.12,01-11-2023,,TV,#DIV/0!
+Chennai,2665.31,Electronics,Daniel Duncan,0.24,Wholesale,2025.64,639.67,01-11-2023,,TV,#DIV/0!
+Chennai,590.41,Home Decor,Courtney Mccall,0.1,Online,531.37,59.04,01-11-2023,,TV,#DIV/0!
+Chennai,1145.93,Home Decor,Anna Mason,0.19,Wholesale,928.2,217.73,01-11-2023,,TV,#DIV/0!
+Chennai,6151.89,Groceries,Dr. Victor Brown PhD,0.22,Retail,4798.47,1353.42,01-11-2023,,TV,#DIV/0!
+Chennai,5323.39,Electronics,Bobby Barnes,0.09,Wholesale,4844.28,479.11,01-11-2023,,TV,#DIV/0!
+Chennai,8513.36,Electronics,Morgan Thompson,0.09,Wholesale,7747.16,766.2,01-11-2023,,TV,#DIV/0!
+Chennai,8703.57,Home Decor,Richard Berry,0.05,Wholesale,8268.39,435.18,01-11-2023,,TV,#DIV/0!
+Chennai,1923.66,Electronics,Janet Williams,0.15,Online,1635.11,288.55,01-11-2023,,TV,#DIV/0!
+Chennai,9652.16,Groceries,Kevin Rodriguez,0.24,Wholesale,7335.64,2316.52,01-11-2023,,TV,#DIV/0!
+Chennai,6193.76,Groceries,Derek Walsh,0,Online,6193.76,0,01-11-2023,,TV,#DIV/0!
+Chennai,3692.73,Groceries,Kimberly Gibson,0.01,Online,3655.8,36.93,01-11-2023,,TV,#DIV/0!
+Chennai,1295.41,Home Decor,Brenda Roberson,0.11,Retail,1152.91,142.5,01-11-2023,,TV,#DIV/0!
+Chennai,7980.29,Home Decor,Amanda Castro,0.13,Retail,6942.85,1037.44,01-11-2023,,TV,#DIV/0!
+Chennai,7583.5,Home Decor,Christine Rodriguez,0.13,Online,6597.65,985.86,01-12-2023,6664.2,Outdoor,6596.65
+Chennai,2941.8,Electronics,Jessica Kirby,0.21,Wholesale,2324.02,617.78,01-12-2023,,Outdoor,#DIV/0!
+Chennai,1883.79,Electronics,George Mckinney,0.11,Wholesale,1676.57,207.22,01-12-2023,,Outdoor,#DIV/0!
+Chennai,8625.22,Electronics,Ronald Paul,0.07,Retail,8021.45,603.77,01-12-2023,,Outdoor,#DIV/0!
+Chennai,5396.17,Groceries,Margaret Harper,0.03,Wholesale,5234.28,161.89,01-12-2023,,Outdoor,#DIV/0!
+Chennai,2026.13,Electronics,Connor Hill,0.2,Online,1620.9,405.23,01-12-2023,,Outdoor,#DIV/0!
+Chennai,5421.96,Home Decor,Vanessa Ortiz,0.07,Online,5042.42,379.54,01-12-2023,,Outdoor,#DIV/0!
+Chennai,948.57,Apparel,Michael Jones,0.22,Online,739.88,208.69,01-12-2023,,Outdoor,#DIV/0!
+Chennai,7701.93,Apparel,Joshua Gardner,0.24,Wholesale,5853.47,1848.46,01-12-2023,,Outdoor,#DIV/0!
+Chennai,9250.02,Groceries,Thomas Vasquez,0.16,Online,7770.02,1480,01-12-2023,,Outdoor,#DIV/0!
+Chennai,7271.32,Groceries,Pamela Fields,0.13,Wholesale,6326.05,945.27,01-12-2023,,Outdoor,#DIV/0!
+Chennai,6372,Apparel,Kimberly Young,0.01,Retail,6308.28,63.72,01-12-2023,,Outdoor,#DIV/0!
+Chennai,8351.31,Apparel,Amanda Fernandez,0.04,Online,8017.26,334.05,01-12-2023,,Outdoor,#DIV/0!
+Chennai,3939.99,Home Decor,Linda Wilson,0.21,Online,3112.59,827.4,01-12-2023,,Outdoor,#DIV/0!
+Chennai,6940.95,Electronics,Deanna Price,0.23,Online,5344.53,1596.42,01-12-2023,,Outdoor,#DIV/0!
+Chennai,2599.82,Apparel,Caitlin Grimes,0.09,Online,2365.84,233.98,01-12-2023,,Outdoor,#DIV/0!
+Chennai,856.9,Electronics,Alfred Allison,0.18,Retail,702.66,154.24,01-12-2023,,Outdoor,#DIV/0!
+Chennai,9169.33,Groceries,Cynthia Schwartz,0.12,Wholesale,8069.01,1100.32,01-12-2023,,Outdoor,#DIV/0!
+Chennai,1724.34,Apparel,Donald Chavez,0.1,Retail,1551.91,172.43,01-12-2023,,Outdoor,#DIV/0!
+Chennai,9635.2,Apparel,Kevin Andrews,0.1,Wholesale,8671.68,963.52,01-12-2023,,Outdoor,#DIV/0!
+Chennai,7579.38,Home Decor,Justin Wilcox,0.1,Wholesale,6821.44,757.94,01-12-2023,,Outdoor,#DIV/0!
+Chennai,7465.19,Groceries,Lance Berry,0.08,Online,6867.97,597.22,01-12-2023,,Outdoor,#DIV/0!
+Chennai,4514.07,Groceries,Kim Ramirez,0.11,Wholesale,4017.52,496.55,01-12-2023,,Outdoor,#DIV/0!
+Chennai,9429.37,Home Decor,Amber Morrison,0.05,Retail,8957.9,471.47,01-12-2023,,Outdoor,#DIV/0!
+Chennai,9902.48,Electronics,Pamela Melendez,0.19,Online,8021.01,1881.47,01-12-2023,,Outdoor,#DIV/0!

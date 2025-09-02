@@ -1,0 +1,297 @@
+﻿City,Amount,Product_Category,Sales_Rep,Discount,Customer_segmentation,After_dicouont,Loss,Month_Formatted,Spend,Channel,ROI %
+Kochi,1123.41,Home Decor,Caleb Acevedo,0.02,Retail,1100.94,22.47,01-01-2023,1615.66,Print,1099.94
+Kochi,4357.57,Home Decor,Tanya Williams,0.2,Online,3486.06,871.51,01-01-2023,,Print,#DIV/0!
+Kochi,1465.35,Electronics,Michael White,0.25,Retail,1099.01,366.34,01-01-2023,,Print,#DIV/0!
+Kochi,2816.64,Groceries,Stephen Tyler,0.23,Wholesale,2168.81,647.83,01-01-2023,,Print,#DIV/0!
+Kochi,7041.52,Groceries,Margaret Hull,0.15,Wholesale,5985.29,1056.23,01-01-2023,,Print,#DIV/0!
+Kochi,5653.97,Apparel,Randy Church,0.18,Retail,4636.26,1017.71,01-01-2023,,Print,#DIV/0!
+Kochi,8063.58,Groceries,Ronald Reese,0.01,Wholesale,7982.94,80.64,01-01-2023,,Print,#DIV/0!
+Kochi,4219.39,Apparel,Jeanne Mclaughlin,0.15,Retail,3586.48,632.91,01-01-2023,,Print,#DIV/0!
+Kochi,7369.68,Home Decor,Ryan Baird,0.21,Wholesale,5822.05,1547.63,01-01-2023,,Print,#DIV/0!
+Kochi,8628.17,Electronics,Anthony Gamble,0.22,Wholesale,6729.97,1898.2,01-01-2023,,Print,#DIV/0!
+Kochi,6667,Electronics,Steven Paul,0.14,Online,5733.62,933.38,01-01-2023,,Print,#DIV/0!
+Kochi,3849.21,Groceries,Courtney Perry,0.08,Retail,3541.27,307.94,01-01-2023,,Print,#DIV/0!
+Kochi,4708.28,Electronics,Eric Henry,0.01,Retail,4661.2,47.08,01-01-2023,,Print,#DIV/0!
+Kochi,9026.7,Electronics,Jose Bowen,0.08,Online,8304.56,722.14,01-01-2023,,Print,#DIV/0!
+Kochi,2052.14,Apparel,Anthony Delgado,0.17,Online,1703.28,348.86,01-01-2023,,Print,#DIV/0!
+Kochi,1489.94,Groceries,Edward Snyder,0.25,Wholesale,1117.46,372.49,01-01-2023,,Print,#DIV/0!
+Kochi,5542.47,Home Decor,Timothy Bennett,0.17,Retail,4600.25,942.22,01-01-2023,,Print,#DIV/0!
+Kochi,4996.62,Electronics,Jessica Webster,0.22,Wholesale,3897.36,1099.26,01-01-2023,,Print,#DIV/0!
+Kochi,602.76,Groceries,Thomas Castro,0.08,Online,554.54,48.22,01-01-2023,,Print,#DIV/0!
+Kochi,6991.74,Apparel,Steve Velez,0.1,Online,6292.57,699.17,01-01-2023,,Print,#DIV/0!
+Kochi,4297.55,Home Decor,Sergio Johnson,0.21,Retail,3395.06,902.49,01-02-2023,4136.48,Digital,3394.06
+Kochi,8752.33,Groceries,Robert Graham,0.04,Retail,8402.24,350.09,01-02-2023,,Digital,#DIV/0!
+Kochi,9786.34,Home Decor,Angela Stanley,0.19,Online,7926.94,1859.4,01-02-2023,,Digital,#DIV/0!
+Kochi,6876.14,Apparel,Sara Anderson,0.11,Wholesale,6119.76,756.38,01-02-2023,,Digital,#DIV/0!
+Kochi,4476.58,Electronics,Amanda Williams,0.14,Online,3849.86,626.72,01-02-2023,,Digital,#DIV/0!
+Kochi,4671.43,Groceries,Dr. David Farmer DDS,0.15,Retail,3970.72,700.71,01-02-2023,,Digital,#DIV/0!
+Kochi,2820.96,Groceries,Jennifer Smith,0.2,Retail,2256.77,564.19,01-02-2023,,Digital,#DIV/0!
+Kochi,7294.6,Home Decor,Darren Duncan,0.19,Wholesale,5908.63,1385.97,01-02-2023,,Digital,#DIV/0!
+Kochi,9626.75,Apparel,Michael Barry,0.17,Retail,7990.2,1636.55,01-02-2023,,Digital,#DIV/0!
+Kochi,8234.7,Electronics,Tyler Hill,0.2,Online,6587.76,1646.94,01-02-2023,,Digital,#DIV/0!
+Kochi,5000.02,Electronics,Marcia Jenkins,0.13,Retail,4350.02,650,01-02-2023,,Digital,#DIV/0!
+Kochi,1422.04,Electronics,Megan Perry,0.13,Retail,1237.17,184.87,01-02-2023,,Digital,#DIV/0!
+Kochi,9974.67,Apparel,Jay James,0.04,Wholesale,9575.68,398.99,01-02-2023,,Digital,#DIV/0!
+Kochi,5605.57,Home Decor,Kimberly Gray,0.17,Wholesale,4652.62,952.95,01-02-2023,,Digital,#DIV/0!
+Kochi,9647.25,Home Decor,Megan Fuller,0.16,Online,8103.69,1543.56,01-02-2023,,Digital,#DIV/0!
+Kochi,2111.51,Groceries,Theresa Robinson,0.12,Wholesale,1858.13,253.38,01-02-2023,,Digital,#DIV/0!
+Kochi,3899.59,Home Decor,Patricia Howard,0.03,Online,3782.6,116.99,01-02-2023,,Digital,#DIV/0!
+Kochi,8383.66,Apparel,Gregory Lewis,0.18,Wholesale,6874.6,1509.06,01-02-2023,,Digital,#DIV/0!
+Kochi,9100.25,Home Decor,Dr. Kelsey Moore,0.24,Wholesale,6916.19,2184.06,01-02-2023,,Digital,#DIV/0!
+Kochi,5676.61,Home Decor,Stephanie Oliver,0.16,Retail,4768.35,908.26,01-02-2023,,Digital,#DIV/0!
+Kochi,8260.84,Apparel,Anna Kerr,0.22,Online,6443.46,1817.38,01-02-2023,,Digital,#DIV/0!
+Kochi,7024.58,Groceries,Shawn Harrison,0.24,Wholesale,5338.68,1685.9,01-02-2023,,Digital,#DIV/0!
+Kochi,2635.16,Groceries,Dana Yang,0.07,Online,2450.7,184.46,01-02-2023,,Digital,#DIV/0!
+Kochi,9939.58,Electronics,Todd Ortega,0.06,Online,9343.21,596.37,01-02-2023,,Digital,#DIV/0!
+Kochi,627.77,Home Decor,Christina Fletcher,0.17,Retail,521.05,106.72,01-02-2023,,Digital,#DIV/0!
+Kochi,9911.76,Groceries,Barbara White,0.24,Wholesale,7532.94,2378.82,01-02-2023,,Digital,#DIV/0!
+Kochi,6481.47,Groceries,Pedro Henry,0.11,Wholesale,5768.51,712.96,01-02-2023,,Digital,#DIV/0!
+Kochi,2836.38,Electronics,Crystal Sanchez,0.15,Online,2410.92,425.46,01-02-2023,,Digital,#DIV/0!
+Kochi,1481.19,Home Decor,Nicole Waters,0.01,Retail,1466.38,14.81,01-02-2023,,Digital,#DIV/0!
+Kochi,1811.51,Groceries,Judith Oconnell,0.14,Online,1557.9,253.61,01-03-2023,3015.11,Digital,1556.9
+Kochi,9232.39,Apparel,Nicholas Taylor,0.06,Online,8678.45,553.94,01-03-2023,,Digital,#DIV/0!
+Kochi,5810.31,Home Decor,Thomas Young,0.08,Wholesale,5345.49,464.82,01-03-2023,,Digital,#DIV/0!
+Kochi,3364.52,Electronics,Karen Maldonado,0.09,Retail,3061.71,302.81,01-03-2023,,Digital,#DIV/0!
+Kochi,5013.59,Apparel,Albert Parker,0.01,Online,4963.45,50.14,01-03-2023,,Digital,#DIV/0!
+Kochi,9167.19,Groceries,Rebecca Waters,0.06,Online,8617.16,550.03,01-03-2023,,Digital,#DIV/0!
+Kochi,8838.36,Electronics,Paul Rogers,0.14,Online,7600.99,1237.37,01-03-2023,,Digital,#DIV/0!
+Kochi,2961.2,Home Decor,Virginia Jordan,0.17,Wholesale,2457.8,503.4,01-03-2023,,Digital,#DIV/0!
+Kochi,7479.56,Electronics,Erin Fisher,0.08,Retail,6881.2,598.36,01-03-2023,,Digital,#DIV/0!
+Kochi,4924.12,Apparel,Jessica Hendricks,0.18,Online,4037.78,886.34,01-03-2023,,Digital,#DIV/0!
+Kochi,2028.69,Home Decor,Steven Bautista,0.05,Wholesale,1927.26,101.43,01-03-2023,,Digital,#DIV/0!
+Kochi,8874.97,Apparel,Miranda Frank,0.18,Retail,7277.48,1597.49,01-03-2023,,Digital,#DIV/0!
+Kochi,4306.7,Home Decor,Wanda Harris,0.16,Wholesale,3617.63,689.07,01-03-2023,,Digital,#DIV/0!
+Kochi,541.87,Groceries,Michelle Hart,0.02,Online,531.03,10.84,01-03-2023,,Digital,#DIV/0!
+Kochi,3150.6,Groceries,John Lewis,0.22,Retail,2457.47,693.13,01-03-2023,,Digital,#DIV/0!
+Kochi,2234.19,Groceries,Luis Davidson,0.1,Retail,2010.77,223.42,01-03-2023,,Digital,#DIV/0!
+Kochi,2730.72,Apparel,Vanessa Foley,0.11,Online,2430.34,300.38,01-03-2023,,Digital,#DIV/0!
+Kochi,9432.22,Electronics,Rachel Cooper,0.18,Online,7734.42,1697.8,01-03-2023,,Digital,#DIV/0!
+Kochi,6659.36,Electronics,Melissa Hernandez,0.09,Online,6060.02,599.34,01-03-2023,,Digital,#DIV/0!
+Kochi,8171.38,Apparel,Tara Braun,0.04,Wholesale,7844.52,326.86,01-03-2023,,Digital,#DIV/0!
+Kochi,9969.59,Electronics,Stephanie Kennedy,0.04,Retail,9570.81,398.78,01-03-2023,,Digital,#DIV/0!
+Kochi,3012.67,Electronics,Amanda Ayala,0.02,Wholesale,2952.42,60.25,01-04-2023,11200.31,Digital,2951.42
+Kochi,9349.57,Home Decor,Jacqueline Bowen,0.21,Wholesale,7386.16,1963.41,01-04-2023,,Digital,#DIV/0!
+Kochi,9263.74,Home Decor,Danielle Price,0,Wholesale,9263.74,0,01-04-2023,,Digital,#DIV/0!
+Kochi,6783.47,Electronics,James Pena,0.06,Online,6376.46,407.01,01-04-2023,,Digital,#DIV/0!
+Kochi,4816.52,Electronics,Victoria Thomas,0.14,Retail,4142.21,674.31,01-04-2023,,Digital,#DIV/0!
+Kochi,7084.87,Home Decor,Jessica Berry,0.23,Retail,5455.35,1629.52,01-04-2023,,Digital,#DIV/0!
+Kochi,4175.76,Electronics,Patrick Perry,0.16,Wholesale,3507.64,668.12,01-04-2023,,Digital,#DIV/0!
+Kochi,1949.61,Home Decor,Jeremiah Smith,0.04,Wholesale,1871.63,77.98,01-04-2023,,Digital,#DIV/0!
+Kochi,5716.47,Home Decor,Carla Vasquez,0.06,Wholesale,5373.48,342.99,01-04-2023,,Digital,#DIV/0!
+Kochi,2988.41,Home Decor,Melinda Horton,0.09,Wholesale,2719.45,268.96,01-04-2023,,Digital,#DIV/0!
+Kochi,894.34,Apparel,Jason Carrillo,0.15,Online,760.19,134.15,01-04-2023,,Digital,#DIV/0!
+Kochi,3800.12,Groceries,Alan Suarez,0.01,Wholesale,3762.12,38,01-04-2023,,Digital,#DIV/0!
+Kochi,6470.21,Apparel,Taylor Porter,0.23,Online,4982.06,1488.15,01-04-2023,,Digital,#DIV/0!
+Kochi,3093.76,Home Decor,Lisa Jones,0.18,Online,2536.88,556.88,01-04-2023,,Digital,#DIV/0!
+Kochi,5875.57,Groceries,Karen Reeves,0.1,Wholesale,5288.01,587.56,01-04-2023,,Digital,#DIV/0!
+Kochi,4976.82,Apparel,Randy Porter,0.12,Retail,4379.6,597.22,01-04-2023,,Digital,#DIV/0!
+Kochi,4148.81,Apparel,Tamara Leach,0.22,Wholesale,3236.07,912.74,01-04-2023,,Digital,#DIV/0!
+Kochi,5177.94,Home Decor,Jason Barnes,0.15,Online,4401.25,776.69,01-04-2023,,Digital,#DIV/0!
+Kochi,3481.01,Electronics,Christina Taylor,0.12,Retail,3063.29,417.72,01-04-2023,,Digital,#DIV/0!
+Kochi,8555.03,Groceries,Michelle Campbell,0.01,Retail,8469.48,85.55,01-04-2023,,Digital,#DIV/0!
+Kochi,7737.05,Home Decor,Megan Perez,0.2,Wholesale,6189.64,1547.41,01-05-2023,9244.28,TV,6188.64
+Kochi,1817.24,Electronics,Curtis Cole,0.23,Wholesale,1399.27,417.97,01-05-2023,,TV,#DIV/0!
+Kochi,5564.92,Home Decor,Jennifer Molina,0.1,Retail,5008.43,556.49,01-05-2023,,TV,#DIV/0!
+Kochi,1310.39,Apparel,John Yoder,0.14,Retail,1126.94,183.45,01-05-2023,,TV,#DIV/0!
+Kochi,7079.78,Apparel,Tracy Tran,0.2,Retail,5663.82,1415.96,01-05-2023,,TV,#DIV/0!
+Kochi,3484.42,Groceries,Miguel Henson,0.24,Online,2648.16,836.26,01-05-2023,,TV,#DIV/0!
+Kochi,9814.27,Home Decor,Katherine Morales,0.02,Online,9617.98,196.29,01-05-2023,,TV,#DIV/0!
+Kochi,9087.14,Electronics,Teresa Acevedo,0.18,Online,7451.45,1635.69,01-05-2023,,TV,#DIV/0!
+Kochi,9790.06,Groceries,Phillip Peters,0.02,Wholesale,9594.26,195.8,01-05-2023,,TV,#DIV/0!
+Kochi,2741.91,Groceries,Gregory Mills,0.05,Wholesale,2604.81,137.1,01-05-2023,,TV,#DIV/0!
+Kochi,5880.65,Home Decor,Shannon Hill,0.08,Retail,5410.2,470.45,01-05-2023,,TV,#DIV/0!
+Kochi,9216.54,Home Decor,Mrs. Jessica Baker,0.1,Retail,8294.89,921.65,01-05-2023,,TV,#DIV/0!
+Kochi,3409.76,Groceries,Susan Bean,0.07,Wholesale,3171.08,238.68,01-05-2023,,TV,#DIV/0!
+Kochi,2366.65,Groceries,Penny King,0.15,Wholesale,2011.65,355,01-05-2023,,TV,#DIV/0!
+Kochi,1443.68,Electronics,Terry Holden,0.08,Online,1328.19,115.49,01-05-2023,,TV,#DIV/0!
+Kochi,1973.12,Home Decor,Megan Taylor,0.05,Online,1874.46,98.66,01-05-2023,,TV,#DIV/0!
+Kochi,8393.03,Groceries,Scott Jones,0.09,Retail,7637.66,755.37,01-05-2023,,TV,#DIV/0!
+Kochi,1132.37,Electronics,Mitchell Jones,0.2,Retail,905.9,226.47,01-05-2023,,TV,#DIV/0!
+Kochi,795.26,Apparel,Trevor Sawyer,0.15,Wholesale,675.97,119.29,01-05-2023,,TV,#DIV/0!
+Kochi,8126.6,Groceries,Jill Harris,0.08,Online,7476.47,650.13,01-05-2023,,TV,#DIV/0!
+Kochi,8382.41,Electronics,Aaron Edwards,0.06,Retail,7879.47,502.94,01-05-2023,,TV,#DIV/0!
+Kochi,6353.9,Home Decor,Jennifer Lewis,0.22,Wholesale,4956.04,1397.86,01-05-2023,,TV,#DIV/0!
+Kochi,4803.57,Groceries,Louis Coffey,0.11,Online,4275.18,528.39,01-05-2023,,TV,#DIV/0!
+Kochi,9636.82,Home Decor,Cory Harrington,0.25,Retail,7227.62,2409.21,01-06-2023,6950.95,Print,7226.62
+Kochi,9162.07,Apparel,Wayne Martinez,0.07,Retail,8520.73,641.34,01-06-2023,,Print,#DIV/0!
+Kochi,3985.53,Electronics,John Wilson,0.03,Wholesale,3865.96,119.57,01-06-2023,,Print,#DIV/0!
+Kochi,3387.01,Home Decor,Matthew Jackson,0.18,Retail,2777.35,609.66,01-06-2023,,Print,#DIV/0!
+Kochi,9975.12,Apparel,Anthony Garza,0.13,Online,8678.35,1296.77,01-06-2023,,Print,#DIV/0!
+Kochi,1508.48,Home Decor,William Patterson,0.24,Retail,1146.44,362.04,01-06-2023,,Print,#DIV/0!
+Kochi,2520,Groceries,Robin Nash,0.02,Retail,2469.6,50.4,01-06-2023,,Print,#DIV/0!
+Kochi,5165.65,Electronics,Bonnie Moreno,0.11,Wholesale,4597.43,568.22,01-06-2023,,Print,#DIV/0!
+Kochi,3001.81,Home Decor,Randy Nelson,0.09,Retail,2731.65,270.16,01-06-2023,,Print,#DIV/0!
+Kochi,8335.32,Groceries,Michael Mann,0.02,Retail,8168.61,166.71,01-06-2023,,Print,#DIV/0!
+Kochi,7675.24,Home Decor,Sylvia Madden,0.23,Online,5909.93,1765.31,01-06-2023,,Print,#DIV/0!
+Kochi,3792.02,Home Decor,Angela Diaz,0.23,Retail,2919.86,872.16,01-06-2023,,Print,#DIV/0!
+Kochi,5935.93,Apparel,Laura Fowler,0.21,Online,4689.38,1246.55,01-06-2023,,Print,#DIV/0!
+Kochi,4707.52,Electronics,Devin Hatfield,0.02,Wholesale,4613.37,94.15,01-06-2023,,Print,#DIV/0!
+Kochi,1656.51,Apparel,Chad Juarez,0.16,Online,1391.47,265.04,01-06-2023,,Print,#DIV/0!
+Kochi,2083.65,Electronics,Shane Weeks,0.22,Retail,1625.25,458.4,01-06-2023,,Print,#DIV/0!
+Kochi,3406.13,Home Decor,Crystal Hernandez,0.18,Wholesale,2793.03,613.1,01-06-2023,,Print,#DIV/0!
+Kochi,7142.33,Groceries,David Lloyd,0.06,Retail,6713.79,428.54,01-06-2023,,Print,#DIV/0!
+Kochi,4478.9,Groceries,Dale Rojas,0.05,Online,4254.96,223.95,01-06-2023,,Print,#DIV/0!
+Kochi,4597.7,Apparel,Joseph Martin,0.13,Wholesale,4000,597.7,01-06-2023,,Print,#DIV/0!
+Kochi,3768.88,Apparel,Kathryn Kaiser,0.11,Retail,3354.3,414.58,01-06-2023,,Print,#DIV/0!
+Kochi,2879.49,Electronics,Christopher Watkins,0.16,Wholesale,2418.77,460.72,01-06-2023,,Print,#DIV/0!
+Kochi,5358.57,Apparel,Cameron Gray,0.04,Retail,5144.23,214.34,01-06-2023,,Print,#DIV/0!
+Kochi,6054.63,Home Decor,Reginald Bishop,0.07,Online,5630.81,423.82,01-06-2023,,Print,#DIV/0!
+Kochi,7937.51,Electronics,Rodney Dillon,0.02,Online,7778.76,158.75,01-06-2023,,Print,#DIV/0!
+Kochi,518.34,Home Decor,Daniel Williams,0.11,Online,461.32,57.02,01-06-2023,,Print,#DIV/0!
+Kochi,1116.53,Apparel,Kyle Jones,0.23,Wholesale,859.73,256.8,01-06-2023,,Print,#DIV/0!
+Kochi,5871.92,Apparel,Dr. Kristen Sawyer,0.16,Wholesale,4932.41,939.51,01-06-2023,,Print,#DIV/0!
+Kochi,7782.58,Home Decor,David Baker,0.16,Wholesale,6537.37,1245.21,01-06-2023,,Print,#DIV/0!
+Kochi,9070.9,Home Decor,Matthew Collins,0.15,Wholesale,7710.27,1360.64,01-06-2023,,Print,#DIV/0!
+Kochi,3911.58,Groceries,Eddie Davis,0.06,Wholesale,3676.89,234.69,01-06-2023,,Print,#DIV/0!
+Kochi,7480.68,Electronics,Dr. Christopher Gutierrez,0.01,Retail,7405.87,74.81,01-07-2023,18502.83,TV,7404.87
+Kochi,2732.41,Home Decor,Emily Jensen,0.19,Online,2213.25,519.16,01-07-2023,,TV,#DIV/0!
+Kochi,7388.29,Apparel,Robert Jackson,0.17,Online,6132.28,1256.01,01-07-2023,,TV,#DIV/0!
+Kochi,3906.26,Home Decor,Casey Johnson,0.07,Retail,3632.82,273.44,01-07-2023,,TV,#DIV/0!
+Kochi,8929.07,Home Decor,Benjamin Davis,0.02,Wholesale,8750.49,178.58,01-07-2023,,TV,#DIV/0!
+Kochi,5270.19,Apparel,David Rose,0.03,Wholesale,5112.08,158.11,01-07-2023,,TV,#DIV/0!
+Kochi,1180.98,Electronics,Mark Smith,0.07,Retail,1098.31,82.67,01-07-2023,,TV,#DIV/0!
+Kochi,4389.29,Electronics,Whitney Bolton,0.13,Wholesale,3818.68,570.61,01-07-2023,,TV,#DIV/0!
+Kochi,5498.69,Groceries,David Smith,0,Online,5498.69,0,01-07-2023,,TV,#DIV/0!
+Kochi,9600.61,Groceries,Sarah Conner,0.03,Online,9312.59,288.02,01-07-2023,,TV,#DIV/0!
+Kochi,9433.56,Groceries,Corey Hall,0.23,Online,7263.84,2169.72,01-07-2023,,TV,#DIV/0!
+Kochi,2966.91,Electronics,Cassandra Boyd,0.02,Online,2907.57,59.34,01-07-2023,,TV,#DIV/0!
+Kochi,9522.38,Groceries,James Rodgers,0.15,Retail,8094.02,1428.36,01-07-2023,,TV,#DIV/0!
+Kochi,696.82,Electronics,Brian Hendricks,0.22,Wholesale,543.52,153.3,01-07-2023,,TV,#DIV/0!
+Kochi,9238,Groceries,Pamela Martinez,0.22,Wholesale,7205.64,2032.36,01-07-2023,,TV,#DIV/0!
+Kochi,1338.95,Groceries,Ashley Harris,0.19,Retail,1084.55,254.4,01-07-2023,,TV,#DIV/0!
+Kochi,4530.27,Groceries,Lisa Hughes,0.22,Online,3533.61,996.66,01-07-2023,,TV,#DIV/0!
+Kochi,7301.81,Apparel,Brian Garcia,0.17,Retail,6060.5,1241.31,01-07-2023,,TV,#DIV/0!
+Kochi,9158.51,Electronics,Teresa Patterson DVM,0.09,Retail,8334.24,824.27,01-07-2023,,TV,#DIV/0!
+Kochi,4105.03,Apparel,Justin Gomez,0.14,Online,3530.33,574.7,01-07-2023,,TV,#DIV/0!
+Kochi,7027.43,Groceries,Paula Barton,0,Online,7027.43,0,01-07-2023,,TV,#DIV/0!
+Kochi,890.21,Electronics,Angela Gardner,0.09,Online,810.09,80.12,01-07-2023,,TV,#DIV/0!
+Kochi,2179.03,Groceries,Grace Morales,0.18,Online,1786.8,392.23,01-07-2023,,TV,#DIV/0!
+Kochi,9330.69,Apparel,Mark Boone,0.03,Wholesale,9050.77,279.92,01-07-2023,,TV,#DIV/0!
+Kochi,9462.6,Apparel,Michael Vasquez,0.18,Online,7759.33,1703.27,01-07-2023,,TV,#DIV/0!
+Kochi,3639.45,Apparel,Sydney Anderson,0.25,Online,2729.59,909.86,01-07-2023,,TV,#DIV/0!
+Kochi,4498.35,Groceries,Timothy Perry,0.14,Online,3868.58,629.77,01-08-2023,6177.78,Outdoor,3867.58
+Kochi,6844.08,Apparel,Rebecca Thompson,0.16,Wholesale,5749.03,1095.05,01-08-2023,,Outdoor,#DIV/0!
+Kochi,9266.74,Electronics,David Meyer,0.19,Retail,7506.06,1760.68,01-08-2023,,Outdoor,#DIV/0!
+Kochi,3393.43,Groceries,Kenneth Bowen,0.09,Online,3088.02,305.41,01-08-2023,,Outdoor,#DIV/0!
+Kochi,2914.66,Apparel,Amanda Hill,0.16,Wholesale,2448.31,466.35,01-08-2023,,Outdoor,#DIV/0!
+Kochi,5070.65,Apparel,Jacob Berry,0.22,Online,3955.11,1115.54,01-08-2023,,Outdoor,#DIV/0!
+Kochi,8305.79,Apparel,Andrew Johnson,0.05,Wholesale,7890.5,415.29,01-08-2023,,Outdoor,#DIV/0!
+Kochi,7150.61,Home Decor,Alexis Robertson MD,0.25,Online,5362.96,1787.65,01-08-2023,,Outdoor,#DIV/0!
+Kochi,5108.37,Electronics,John Miles,0.1,Retail,4597.53,510.84,01-08-2023,,Outdoor,#DIV/0!
+Kochi,6564.87,Groceries,Cindy Brown,0.05,Online,6236.63,328.24,01-08-2023,,Outdoor,#DIV/0!
+Kochi,3136.78,Apparel,Noah Jones,0.17,Wholesale,2603.53,533.25,01-08-2023,,Outdoor,#DIV/0!
+Kochi,4909.45,Home Decor,Becky Marquez,0.01,Wholesale,4860.36,49.09,01-08-2023,,Outdoor,#DIV/0!
+Kochi,636.04,Groceries,Valerie White,0.15,Online,540.63,95.41,01-08-2023,,Outdoor,#DIV/0!
+Kochi,524.79,Home Decor,Ryan Phillips,0.11,Online,467.06,57.73,01-08-2023,,Outdoor,#DIV/0!
+Kochi,3798.52,Electronics,Timothy Sanchez,0.03,Retail,3684.56,113.96,01-08-2023,,Outdoor,#DIV/0!
+Kochi,682.72,Apparel,Robert Reid,0.14,Wholesale,587.14,95.58,01-08-2023,,Outdoor,#DIV/0!
+Kochi,7854.38,Electronics,Margaret Roberts MD,0.09,Retail,7147.49,706.89,01-08-2023,,Outdoor,#DIV/0!
+Kochi,5818.81,Electronics,Olivia Bradford,0.17,Wholesale,4829.61,989.2,01-08-2023,,Outdoor,#DIV/0!
+Kochi,934.82,Apparel,David Rodriguez,0.23,Wholesale,719.81,215.01,01-08-2023,,Outdoor,#DIV/0!
+Kochi,7680.88,Apparel,Ryan Nicholson,0.1,Wholesale,6912.79,768.09,01-09-2023,18001.91,Digital,6911.79
+Kochi,4816.41,Groceries,Lauren Hernandez,0.14,Retail,4142.11,674.3,01-09-2023,,Digital,#DIV/0!
+Kochi,3394.66,Home Decor,Denise Sanders,0.17,Wholesale,2817.57,577.09,01-09-2023,,Digital,#DIV/0!
+Kochi,6306.43,Groceries,Kristen Bennett,0.16,Online,5297.4,1009.03,01-09-2023,,Digital,#DIV/0!
+Kochi,3328.11,Groceries,Michelle Warren,0.21,Online,2629.21,698.9,01-09-2023,,Digital,#DIV/0!
+Kochi,981.62,Groceries,Roy Price,0.21,Wholesale,775.48,206.14,01-09-2023,,Digital,#DIV/0!
+Kochi,8719.25,Electronics,Lori Thomas,0.07,Online,8108.9,610.35,01-09-2023,,Digital,#DIV/0!
+Kochi,9901.88,Home Decor,Antonio Strong,0.11,Wholesale,8812.67,1089.21,01-09-2023,,Digital,#DIV/0!
+Kochi,2530.55,Electronics,Shannon Snyder,0.11,Retail,2252.19,278.36,01-09-2023,,Digital,#DIV/0!
+Kochi,5617.77,Electronics,Samantha Woods,0,Wholesale,5617.77,0,01-09-2023,,Digital,#DIV/0!
+Kochi,6370.16,Groceries,Brandi Jones,0.11,Wholesale,5669.44,700.72,01-09-2023,,Digital,#DIV/0!
+Kochi,1194.46,Groceries,Jesse Rodriguez,0.1,Online,1075.01,119.45,01-09-2023,,Digital,#DIV/0!
+Kochi,4009.27,Groceries,Ryan Roberson,0.16,Online,3367.79,641.48,01-09-2023,,Digital,#DIV/0!
+Kochi,1379,Electronics,Maria Harrison,0.08,Online,1268.68,110.32,01-09-2023,,Digital,#DIV/0!
+Kochi,1910.73,Home Decor,Frank Larson,0.03,Wholesale,1853.41,57.32,01-09-2023,,Digital,#DIV/0!
+Kochi,9312.42,Home Decor,Kelli Pope,0.15,Retail,7915.56,1396.86,01-09-2023,,Digital,#DIV/0!
+Kochi,4500.64,Groceries,Madison Villegas,0.14,Online,3870.55,630.09,01-09-2023,,Digital,#DIV/0!
+Kochi,1241.33,Electronics,Emily Sanchez,0.24,Retail,943.41,297.92,01-09-2023,,Digital,#DIV/0!
+Kochi,8787.61,Apparel,Larry Stout IV,0.13,Online,7645.22,1142.39,01-09-2023,,Digital,#DIV/0!
+Kochi,974.22,Groceries,Ariel Hanson,0.15,Online,828.09,146.13,01-09-2023,,Digital,#DIV/0!
+Kochi,2580.1,Electronics,Dominic Lucas,0.05,Wholesale,2451.1,129.01,01-09-2023,,Digital,#DIV/0!
+Kochi,6174.46,Groceries,Heather Hardy,0.1,Wholesale,5557.01,617.45,01-09-2023,,Digital,#DIV/0!
+Kochi,4891.75,Groceries,Melinda Williamson,0.1,Retail,4402.58,489.18,01-09-2023,,Digital,#DIV/0!
+Kochi,8902.36,Groceries,Patricia Rios,0.15,Online,7567.01,1335.35,01-09-2023,,Digital,#DIV/0!
+Kochi,6198.02,Electronics,Gregory Wilson,0.23,Online,4772.48,1425.54,01-09-2023,,Digital,#DIV/0!
+Kochi,8497.04,Apparel,Gina Stout,0.05,Wholesale,8072.19,424.85,01-09-2023,,Digital,#DIV/0!
+Kochi,5954.89,Apparel,Sheila Logan,0.05,Wholesale,5657.15,297.74,01-09-2023,,Digital,#DIV/0!
+Kochi,3731.86,Home Decor,Laura Good,0.25,Wholesale,2798.9,932.97,01-09-2023,,Digital,#DIV/0!
+Kochi,6360.37,Groceries,Lindsey Johnston,0.11,Online,5660.73,699.64,01-09-2023,,Digital,#DIV/0!
+Kochi,6916.17,Apparel,Nicole Torres,0.04,Wholesale,6639.52,276.65,01-09-2023,,Digital,#DIV/0!
+Kochi,7300.69,Groceries,Robert Roach,0.22,Wholesale,5694.54,1606.15,01-09-2023,,Digital,#DIV/0!
+Kochi,585.43,Groceries,Stephanie Ford,0.12,Online,515.18,70.25,01-09-2023,,Digital,#DIV/0!
+Kochi,2488.89,Groceries,Sarah White,0.07,Retail,2314.67,174.22,01-09-2023,,Digital,#DIV/0!
+Kochi,1630.98,Groceries,Melanie Holmes,0.08,Online,1500.5,130.48,01-10-2023,1245.7,Outdoor,1499.5
+Kochi,1507.64,Home Decor,Edward Collins,0.11,Retail,1341.8,165.84,01-10-2023,,Outdoor,#DIV/0!
+Kochi,1648.52,Apparel,Ronald Ramos,0.18,Retail,1351.79,296.73,01-10-2023,,Outdoor,#DIV/0!
+Kochi,6189.29,Groceries,Dana Dixon,0.23,Retail,4765.75,1423.54,01-10-2023,,Outdoor,#DIV/0!
+Kochi,3994.21,Electronics,Timothy Beck,0.11,Retail,3554.85,439.36,01-10-2023,,Outdoor,#DIV/0!
+Kochi,1615.84,Groceries,Michelle Rose,0.09,Retail,1470.41,145.43,01-10-2023,,Outdoor,#DIV/0!
+Kochi,5797.96,Groceries,Christopher Evans,0.22,Online,4522.41,1275.55,01-10-2023,,Outdoor,#DIV/0!
+Kochi,8355.82,Electronics,Claudia Russell,0.12,Retail,7353.12,1002.7,01-10-2023,,Outdoor,#DIV/0!
+Kochi,8939.18,Apparel,Vickie Martin,0.01,Wholesale,8849.79,89.39,01-10-2023,,Outdoor,#DIV/0!
+Kochi,4046.01,Groceries,Eric Clay,0,Online,4046.01,0,01-10-2023,,Outdoor,#DIV/0!
+Kochi,2840.21,Apparel,Joseph Hernandez,0.05,Retail,2698.2,142.01,01-10-2023,,Outdoor,#DIV/0!
+Kochi,2954.09,Apparel,Robin Stevens,0.1,Wholesale,2658.68,295.41,01-10-2023,,Outdoor,#DIV/0!
+Kochi,6850.97,Home Decor,Ivan Brown,0.22,Online,5343.76,1507.21,01-10-2023,,Outdoor,#DIV/0!
+Kochi,7094.33,Apparel,Derek Taylor,0.19,Retail,5746.41,1347.92,01-10-2023,,Outdoor,#DIV/0!
+Kochi,5323.3,Groceries,Daniel Gonzales,0.09,Retail,4844.2,479.1,01-10-2023,,Outdoor,#DIV/0!
+Kochi,5847.48,Apparel,Sarah Taylor,0.25,Online,4385.61,1461.87,01-10-2023,,Outdoor,#DIV/0!
+Kochi,3614.74,Apparel,Charles Garcia,0.16,Online,3036.38,578.36,01-10-2023,,Outdoor,#DIV/0!
+Kochi,1909.47,Apparel,Alan Walters,0.21,Wholesale,1508.48,400.99,01-10-2023,,Outdoor,#DIV/0!
+Kochi,8754.37,Home Decor,Cody Thompson,0.07,Retail,8141.56,612.81,01-10-2023,,Outdoor,#DIV/0!
+Kochi,2870.98,Electronics,Ronald Moody,0.15,Retail,2440.33,430.65,01-10-2023,,Outdoor,#DIV/0!
+Kochi,8382.94,Groceries,Brent Wolfe,0.08,Wholesale,7712.3,670.64,01-11-2023,12619.24,Digital,7711.3
+Kochi,1273.57,Electronics,Richard Gross,0.21,Retail,1006.12,267.45,01-11-2023,,Digital,#DIV/0!
+Kochi,2836.98,Groceries,Makayla Mosley,0.22,Retail,2212.84,624.14,01-11-2023,,Digital,#DIV/0!
+Kochi,1293.73,Apparel,Bradley Marshall,0.19,Retail,1047.92,245.81,01-11-2023,,Digital,#DIV/0!
+Kochi,4569.39,Groceries,Michael Frazier,0.02,Retail,4478,91.39,01-11-2023,,Digital,#DIV/0!
+Kochi,7001.48,Electronics,Gregory Mendoza,0.22,Online,5461.15,1540.33,01-11-2023,,Digital,#DIV/0!
+Kochi,8827.44,Apparel,Darren Wright,0.2,Online,7061.95,1765.49,01-11-2023,,Digital,#DIV/0!
+Kochi,9302.24,Apparel,Yvonne Torres,0.17,Online,7720.86,1581.38,01-11-2023,,Digital,#DIV/0!
+Kochi,4937.08,Home Decor,Daniel Coleman,0.22,Wholesale,3850.92,1086.16,01-11-2023,,Digital,#DIV/0!
+Kochi,8270.34,Groceries,Autumn Mckee,0.14,Wholesale,7112.49,1157.85,01-11-2023,,Digital,#DIV/0!
+Kochi,2681.17,Home Decor,Thomas Peterson,0.18,Retail,2198.56,482.61,01-11-2023,,Digital,#DIV/0!
+Kochi,3283.75,Electronics,Brittany Alexander,0.08,Wholesale,3021.05,262.7,01-11-2023,,Digital,#DIV/0!
+Kochi,5588.03,Apparel,Robert Crawford,0.1,Online,5029.23,558.8,01-11-2023,,Digital,#DIV/0!
+Kochi,1138.52,Home Decor,Daniel Moore,0.08,Online,1047.44,91.08,01-11-2023,,Digital,#DIV/0!
+Kochi,5772.4,Home Decor,Alex Butler,0,Online,5772.4,0,01-11-2023,,Digital,#DIV/0!
+Kochi,1979.91,Electronics,Stephen Hatfield,0.22,Online,1544.33,435.58,01-11-2023,,Digital,#DIV/0!
+Kochi,8969.92,Home Decor,Maurice Fox,0,Wholesale,8969.92,0,01-11-2023,,Digital,#DIV/0!
+Kochi,6309.85,Apparel,Emily Rodriguez,0.13,Retail,5489.57,820.28,01-11-2023,,Digital,#DIV/0!
+Kochi,2821.76,Electronics,Helen Adams,0.21,Retail,2229.19,592.57,01-11-2023,,Digital,#DIV/0!
+Kochi,3714.73,Apparel,Albert Moyer,0.1,Wholesale,3343.26,371.47,01-11-2023,,Digital,#DIV/0!
+Kochi,9303.4,Groceries,Glen Woodard,0.21,Retail,7349.69,1953.71,01-11-2023,,Digital,#DIV/0!
+Kochi,2144.4,Apparel,Carol Murillo,0.23,Online,1651.19,493.21,01-11-2023,,Digital,#DIV/0!
+Kochi,8442.67,Apparel,Bill Smith,0.02,Wholesale,8273.82,168.85,01-11-2023,,Digital,#DIV/0!
+Kochi,8528.12,Apparel,John Dunlap,0.11,Online,7590.03,938.09,01-11-2023,,Digital,#DIV/0!
+Kochi,8538.62,Groceries,Barry Gonzales,0.14,Retail,7343.21,1195.41,01-11-2023,,Digital,#DIV/0!
+Kochi,9839.83,Apparel,Christopher Schmidt,0.19,Online,7970.26,1869.57,01-11-2023,,Digital,#DIV/0!
+Kochi,8982.16,Electronics,Christopher Hickman,0.02,Retail,8802.52,179.64,01-11-2023,,Digital,#DIV/0!
+Kochi,4736.61,Apparel,Troy Thompson,0.15,Online,4026.12,710.49,01-11-2023,,Digital,#DIV/0!
+Kochi,8116.9,Groceries,Brandon Dalton,0.16,Wholesale,6818.2,1298.7,01-12-2023,12752.85,Outdoor,6817.2
+Kochi,6518.51,Home Decor,Brian Schmitt,0.07,Online,6062.21,456.3,01-12-2023,,Outdoor,#DIV/0!
+Kochi,3644.81,Electronics,Gerald Wilson,0.13,Retail,3170.98,473.83,01-12-2023,,Outdoor,#DIV/0!
+Kochi,1559.65,Home Decor,Joseph Rowe,0.13,Wholesale,1356.9,202.75,01-12-2023,,Outdoor,#DIV/0!
+Kochi,3085.48,Groceries,William Hicks,0.17,Retail,2560.95,524.53,01-12-2023,,Outdoor,#DIV/0!
+Kochi,3160.57,Home Decor,Mark Phillips,0.09,Retail,2876.12,284.45,01-12-2023,,Outdoor,#DIV/0!
+Kochi,583.05,Groceries,Jennifer Perez,0.19,Retail,472.27,110.78,01-12-2023,,Outdoor,#DIV/0!
+Kochi,2315.63,Apparel,Alexis Moss,0.11,Online,2060.91,254.72,01-12-2023,,Outdoor,#DIV/0!
+Kochi,3751.32,Home Decor,Anna Schmidt,0.12,Retail,3301.16,450.16,01-12-2023,,Outdoor,#DIV/0!
+Kochi,1306.74,Home Decor,Douglas Moreno,0.08,Wholesale,1202.2,104.54,01-12-2023,,Outdoor,#DIV/0!
+Kochi,1368.51,Apparel,Michael Coleman,0.12,Retail,1204.29,164.22,01-12-2023,,Outdoor,#DIV/0!
+Kochi,6472.31,Electronics,Ashley Lamb,0.01,Wholesale,6407.59,64.72,01-12-2023,,Outdoor,#DIV/0!
+Kochi,8805.22,Apparel,Kelsey Marshall,0.14,Wholesale,7572.49,1232.73,01-12-2023,,Outdoor,#DIV/0!
+Kochi,3683.59,Groceries,Lori Knight DDS,0.23,Online,2836.36,847.23,01-12-2023,,Outdoor,#DIV/0!
+Kochi,5784.34,Home Decor,Joseph Mitchell Jr.,0.06,Online,5437.28,347.06,01-12-2023,,Outdoor,#DIV/0!
+Kochi,676.6,Electronics,Derek Watson,0.18,Online,554.81,121.79,01-12-2023,,Outdoor,#DIV/0!
+Kochi,7845.96,Home Decor,Donald Taylor,0.11,Online,6982.9,863.06,01-12-2023,,Outdoor,#DIV/0!
+Kochi,4228.62,Groceries,Robert Thomas,0.25,Wholesale,3171.47,1057.16,01-12-2023,,Outdoor,#DIV/0!
+Kochi,7445.56,Home Decor,Jordan Mora,0.03,Online,7222.19,223.37,01-12-2023,,Outdoor,#DIV/0!
+Kochi,2241.26,Home Decor,Michael Noble,0.03,Wholesale,2174.02,67.24,01-12-2023,,Outdoor,#DIV/0!
+Kochi,5389.94,Home Decor,Nicole Allen,0.13,Online,4689.25,700.69,01-12-2023,,Outdoor,#DIV/0!
+Kochi,4195,Electronics,Wesley Brown,0.07,Online,3901.35,293.65,01-12-2023,,Outdoor,#DIV/0!
+Kochi,6346.43,Apparel,Joshua Palmer,0.1,Online,5711.79,634.64,01-12-2023,,Outdoor,#DIV/0!
+Kochi,4136.91,Apparel,Edward Landry,0.24,Wholesale,3144.05,992.86,01-12-2023,,Outdoor,#DIV/0!
+Kochi,9860.93,Home Decor,Dawn Bowman,0.12,Wholesale,8677.62,1183.31,01-12-2023,,Outdoor,#DIV/0!
+Kochi,6729.33,Apparel,Yesenia Bentley,0.19,Retail,5450.76,1278.57,01-12-2023,,Outdoor,#DIV/0!

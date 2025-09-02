@@ -1,0 +1,292 @@
+﻿City,Amount,Product_Category,Sales_Rep,Discount,Customer_segmentation,After_dicouont,Loss,Month_Formatted,Spend,Channel,ROI%
+Bangalore,4036.49,Groceries,Renee Tran,0.02,Online,3955.76,80.73,01-01-2023,18986.02,Digital,3954.76
+Bangalore,4223.1,Home Decor,Craig Huff,0.21,Retail,3336.25,886.85,01-01-2023,,Digital,#DIV/0!
+Bangalore,1416.97,Electronics,Joseph Cantrell,0.22,Wholesale,1105.24,311.73,01-01-2023,,Digital,#DIV/0!
+Bangalore,6684.37,Home Decor,Tracy House,0.14,Online,5748.56,935.81,01-01-2023,,Digital,#DIV/0!
+Bangalore,1062.76,Apparel,Jason Fernandez MD,0.04,Wholesale,1020.25,42.51,01-01-2023,,Digital,#DIV/0!
+Bangalore,7813.79,Groceries,Jose Luna,0.14,Wholesale,6719.86,1093.93,01-01-2023,,Digital,#DIV/0!
+Bangalore,1631.45,Groceries,William Flores,0.11,Retail,1451.99,179.46,01-01-2023,,Digital,#DIV/0!
+Bangalore,9057.03,Apparel,Kayla Garcia,0.05,Online,8604.18,452.85,01-01-2023,,Digital,#DIV/0!
+Bangalore,9211.83,Apparel,Andrew Reed,0.02,Online,9027.59,184.24,01-01-2023,,Digital,#DIV/0!
+Bangalore,1579.25,Home Decor,Katie Adams,0.09,Wholesale,1437.12,142.13,01-01-2023,,Digital,#DIV/0!
+Bangalore,1923.03,Home Decor,Jennifer Daniel,0.12,Retail,1692.27,230.76,01-01-2023,,Digital,#DIV/0!
+Bangalore,7670.97,Electronics,Steven Harris,0.07,Wholesale,7134,536.97,01-01-2023,,Digital,#DIV/0!
+Bangalore,2410.95,Electronics,Lindsay Allen,0.02,Wholesale,2362.73,48.22,01-01-2023,,Digital,#DIV/0!
+Bangalore,6929.59,Groceries,Jeffery Lee,0.13,Online,6028.74,900.85,01-01-2023,,Digital,#DIV/0!
+Bangalore,888.59,Electronics,Michael Wiggins,0.08,Online,817.5,71.09,01-01-2023,,Digital,#DIV/0!
+Bangalore,6156.54,Electronics,Troy Martin,0.21,Wholesale,4863.67,1292.87,01-01-2023,,Digital,#DIV/0!
+Bangalore,3472.08,Groceries,Jose Robinson,0.15,Retail,2951.27,520.81,01-01-2023,,Digital,#DIV/0!
+Bangalore,6963.57,Home Decor,Dr. Joseph Franklin MD,0.17,Online,5779.76,1183.81,01-01-2023,,Digital,#DIV/0!
+Bangalore,3553.79,Electronics,Anthony Hubbard,0.11,Wholesale,3162.87,390.92,01-01-2023,,Digital,#DIV/0!
+Bangalore,4609.43,Groceries,Frederick Rivers,0.1,Retail,4148.49,460.94,01-01-2023,,Digital,#DIV/0!
+Bangalore,540.45,Groceries,Shelby Martinez,0.18,Online,443.17,97.28,01-01-2023,,Digital,#DIV/0!
+Bangalore,4920.62,Electronics,Cathy Hanson,0,Wholesale,4920.62,0,01-01-2023,,Digital,#DIV/0!
+Bangalore,3796.45,Electronics,John Mcdonald,0.02,Online,3720.52,75.93,01-01-2023,,Digital,#DIV/0!
+Bangalore,5091.28,Apparel,John Johnson,0.05,Wholesale,4836.72,254.56,01-01-2023,,Digital,#DIV/0!
+Bangalore,8542.85,Apparel,David Wilson,0.02,Retail,8371.99,170.86,01-01-2023,,Digital,#DIV/0!
+Bangalore,5398.33,Groceries,Crystal Cook,0.09,Retail,4912.48,485.85,01-01-2023,,Digital,#DIV/0!
+Bangalore,4472.29,Groceries,Cynthia Wallace,0.04,Retail,4293.4,178.89,01-01-2023,,Digital,#DIV/0!
+Bangalore,9472.48,Electronics,Kelsey Mendoza,0.08,Retail,8714.68,757.8,01-01-2023,,Digital,#DIV/0!
+Bangalore,738.3,Apparel,Mr. Matthew Lopez Jr.,0.03,Online,716.15,22.15,01-01-2023,,Digital,#DIV/0!
+Bangalore,8195.57,Electronics,Kevin Ross,0.14,Retail,7048.19,1147.38,01-02-2023,16451.27,Outdoor,7047.19
+Bangalore,1718.78,Home Decor,Taylor Hunter,0.01,Retail,1701.59,17.19,01-02-2023,,Outdoor,#DIV/0!
+Bangalore,3636.47,Electronics,Emily Gonzalez,0.05,Retail,3454.65,181.82,01-02-2023,,Outdoor,#DIV/0!
+Bangalore,2586.52,Groceries,Nicholas Perez,0.05,Wholesale,2457.19,129.33,01-02-2023,,Outdoor,#DIV/0!
+Bangalore,8038.54,Home Decor,Bruce West,0.06,Wholesale,7556.23,482.31,01-02-2023,,Outdoor,#DIV/0!
+Bangalore,8724.42,Home Decor,Michelle Warren,0.16,Online,7328.51,1395.91,01-02-2023,,Outdoor,#DIV/0!
+Bangalore,8103.74,Apparel,Dave Warren,0.15,Wholesale,6888.18,1215.56,01-02-2023,,Outdoor,#DIV/0!
+Bangalore,2811.36,Electronics,Michelle Bennett,0.15,Online,2389.66,421.7,01-02-2023,,Outdoor,#DIV/0!
+Bangalore,3701.5,Electronics,Richard Dominguez,0.04,Wholesale,3553.44,148.06,01-02-2023,,Outdoor,#DIV/0!
+Bangalore,7238.3,Electronics,Ryan Burke,0.09,Wholesale,6586.85,651.45,01-02-2023,,Outdoor,#DIV/0!
+Bangalore,8888.35,Electronics,Michael Carr,0.05,Retail,8443.93,444.42,01-02-2023,,Outdoor,#DIV/0!
+Bangalore,4623.22,Electronics,Steven Silva,0.07,Wholesale,4299.59,323.63,01-02-2023,,Outdoor,#DIV/0!
+Bangalore,5558.66,Apparel,Brady Nelson,0.01,Online,5503.07,55.59,01-02-2023,,Outdoor,#DIV/0!
+Bangalore,8513.45,Home Decor,Dr. Grant Velez,0.11,Online,7576.97,936.48,01-02-2023,,Outdoor,#DIV/0!
+Bangalore,4007.43,Apparel,Brian Hoffman,0.15,Wholesale,3406.32,601.11,01-02-2023,,Outdoor,#DIV/0!
+Bangalore,5006.63,Electronics,Tiffany Brooks,0.03,Wholesale,4856.43,150.2,01-02-2023,,Outdoor,#DIV/0!
+Bangalore,4629.81,Home Decor,Janet Nelson,0.16,Retail,3889.04,740.77,01-02-2023,,Outdoor,#DIV/0!
+Bangalore,2194.22,Home Decor,Anthony Grant,0.01,Online,2172.28,21.94,01-02-2023,,Outdoor,#DIV/0!
+Bangalore,7377.79,Groceries,Corey Miller,0.19,Online,5976.01,1401.78,01-02-2023,,Outdoor,#DIV/0!
+Bangalore,1193.92,Groceries,Mr. Christopher Powell,0.14,Retail,1026.77,167.15,01-02-2023,,Outdoor,#DIV/0!
+Bangalore,2571.71,Groceries,Tracy Schultz,0.21,Online,2031.65,540.06,01-03-2023,18472.7,Print,2030.65
+Bangalore,2905.51,Groceries,Erin Martinez,0.17,Online,2411.57,493.94,01-03-2023,,Print,#DIV/0!
+Bangalore,8943.92,Groceries,Tyler Hodges,0.03,Wholesale,8675.6,268.32,01-03-2023,,Print,#DIV/0!
+Bangalore,6608.01,Home Decor,Megan King,0,Online,6608.01,0,01-03-2023,,Print,#DIV/0!
+Bangalore,2713.8,Apparel,Gregory Tran,0.18,Retail,2225.32,488.48,01-03-2023,,Print,#DIV/0!
+Bangalore,9116.68,Electronics,Lisa Poole,0.16,Retail,7658.01,1458.67,01-03-2023,,Print,#DIV/0!
+Bangalore,5738.73,Apparel,Jason Davis,0.16,Retail,4820.53,918.2,01-03-2023,,Print,#DIV/0!
+Bangalore,1009.55,Home Decor,Daniel Martin,0.05,Retail,959.07,50.48,01-03-2023,,Print,#DIV/0!
+Bangalore,1438.16,Electronics,Manuel Santos,0.05,Wholesale,1366.25,71.91,01-03-2023,,Print,#DIV/0!
+Bangalore,4487.53,Home Decor,Matthew Clark,0.06,Online,4218.28,269.25,01-03-2023,,Print,#DIV/0!
+Bangalore,9453.68,Apparel,Tracy Hall,0.12,Retail,8319.24,1134.44,01-03-2023,,Print,#DIV/0!
+Bangalore,2116.41,Apparel,Suzanne Banks,0,Retail,2116.41,0,01-03-2023,,Print,#DIV/0!
+Bangalore,1445.07,Groceries,David Edwards,0.1,Online,1300.56,144.51,01-03-2023,,Print,#DIV/0!
+Bangalore,8405.33,Home Decor,Kelly David,0.16,Retail,7060.48,1344.85,01-03-2023,,Print,#DIV/0!
+Bangalore,9612.73,Electronics,Kevin Jordan,0.15,Wholesale,8170.82,1441.91,01-03-2023,,Print,#DIV/0!
+Bangalore,2260.51,Electronics,Luis Clark,0.04,Wholesale,2170.09,90.42,01-03-2023,,Print,#DIV/0!
+Bangalore,5366.31,Electronics,Whitney White,0,Wholesale,5366.31,0,01-03-2023,,Print,#DIV/0!
+Bangalore,2000.94,Groceries,Mathew Gomez,0.15,Wholesale,1700.8,300.14,01-03-2023,,Print,#DIV/0!
+Bangalore,9118.68,Groceries,Christian Williams,0.22,Wholesale,7112.57,2006.11,01-03-2023,,Print,#DIV/0!
+Bangalore,4458.99,Groceries,Sarah Perez,0.19,Wholesale,3611.78,847.21,01-03-2023,,Print,#DIV/0!
+Bangalore,1990.17,Home Decor,Ashley Powers MD,0.23,Online,1532.43,457.74,01-03-2023,,Print,#DIV/0!
+Bangalore,8850.67,Home Decor,Mrs. Jacqueline Carr,0.2,Retail,7080.54,1770.13,01-03-2023,,Print,#DIV/0!
+Bangalore,3964.85,Apparel,Kristin Herrera,0.09,Retail,3608.01,356.84,01-04-2023,15746.99,Digital,3607.01
+Bangalore,3658.1,Groceries,Ronald Lee,0.09,Online,3328.87,329.23,01-04-2023,,Digital,#DIV/0!
+Bangalore,6167.98,Home Decor,Christopher Gonzales,0.21,Online,4872.7,1295.28,01-04-2023,,Digital,#DIV/0!
+Bangalore,1700.97,Home Decor,Lindsay Dalton,0.04,Online,1632.93,68.04,01-04-2023,,Digital,#DIV/0!
+Bangalore,1165.27,Home Decor,Juan Buckley,0.02,Wholesale,1141.96,23.31,01-04-2023,,Digital,#DIV/0!
+Bangalore,7684.72,Apparel,Tonya Kim,0.09,Online,6993.1,691.62,01-04-2023,,Digital,#DIV/0!
+Bangalore,9564.14,Electronics,Troy Young,0.22,Retail,7460.03,2104.11,01-04-2023,,Digital,#DIV/0!
+Bangalore,8068.99,Apparel,Christine Brown,0.13,Online,7020.02,1048.97,01-04-2023,,Digital,#DIV/0!
+Bangalore,9755.54,Groceries,Matthew Sims,0.2,Online,7804.43,1951.11,01-04-2023,,Digital,#DIV/0!
+Bangalore,933.9,Home Decor,Catherine Navarro,0.16,Wholesale,784.48,149.42,01-04-2023,,Digital,#DIV/0!
+Bangalore,5345.53,Apparel,Jason Clark,0.01,Online,5292.07,53.46,01-04-2023,,Digital,#DIV/0!
+Bangalore,8983.71,Electronics,Jason Oliver,0.11,Online,7995.5,988.21,01-04-2023,,Digital,#DIV/0!
+Bangalore,5038.03,Home Decor,Ashlee Martinez,0.18,Retail,4131.18,906.85,01-04-2023,,Digital,#DIV/0!
+Bangalore,7066.76,Apparel,Kelly Brown,0.13,Wholesale,6148.08,918.68,01-04-2023,,Digital,#DIV/0!
+Bangalore,6577.38,Home Decor,Robert Vasquez,0.15,Wholesale,5590.77,986.61,01-04-2023,,Digital,#DIV/0!
+Bangalore,7081.52,Electronics,Derrick Shaffer,0.12,Wholesale,6231.74,849.78,01-04-2023,,Digital,#DIV/0!
+Bangalore,7360.81,Groceries,Robin Cameron,0.01,Online,7287.2,73.61,01-04-2023,,Digital,#DIV/0!
+Bangalore,7233.83,Apparel,Kristopher Melendez,0.1,Retail,6510.45,723.38,01-04-2023,,Digital,#DIV/0!
+Bangalore,2764.54,Apparel,Brianna Garcia,0.08,Retail,2543.38,221.16,01-04-2023,,Digital,#DIV/0!
+Bangalore,4150.74,Electronics,Mackenzie Jones,0.17,Online,3445.11,705.63,01-04-2023,,Digital,#DIV/0!
+Bangalore,7072.1,Apparel,Mark David Jr.,0.22,Wholesale,5516.24,1555.86,01-04-2023,,Digital,#DIV/0!
+Bangalore,1174.35,Groceries,Michael Torres,0.23,Online,904.25,270.1,01-04-2023,,Digital,#DIV/0!
+Bangalore,7790.15,Home Decor,Kimberly Moreno,0.14,Wholesale,6699.53,1090.62,01-04-2023,,Digital,#DIV/0!
+Bangalore,3869.81,Groceries,Jennifer Jones,0.07,Online,3598.92,270.89,01-04-2023,,Digital,#DIV/0!
+Bangalore,4183.77,Home Decor,Benjamin Bush,0,Retail,4183.77,0,01-04-2023,,Digital,#DIV/0!
+Bangalore,6663.84,Electronics,Michael Chapman,0.04,Online,6397.29,266.55,01-04-2023,,Digital,#DIV/0!
+Bangalore,2218.68,Electronics,Cheryl Garrison,0.1,Retail,1996.81,221.87,01-04-2023,,Digital,#DIV/0!
+Bangalore,5587.6,Groceries,John Moore,0.04,Retail,5364.1,223.5,01-04-2023,,Digital,#DIV/0!
+Bangalore,5306.13,Home Decor,Samantha Newman,0.13,Wholesale,4616.33,689.8,01-04-2023,,Digital,#DIV/0!
+Bangalore,4067.31,Electronics,James Lucas,0.01,Online,4026.64,40.67,01-05-2023,11438.08,Print,4025.64
+Bangalore,2697.24,Groceries,Kevin Gray,0.11,Online,2400.54,296.7,01-05-2023,,Print,#DIV/0!
+Bangalore,2561.13,Home Decor,Marilyn Ho,0.14,Wholesale,2202.57,358.56,01-05-2023,,Print,#DIV/0!
+Bangalore,3154.28,Home Decor,Jesse Marsh,0.21,Retail,2491.88,662.4,01-05-2023,,Print,#DIV/0!
+Bangalore,2854.66,Groceries,George Orozco,0.08,Online,2626.29,228.37,01-05-2023,,Print,#DIV/0!
+Bangalore,7880.54,Electronics,Denise Wallace,0.23,Online,6068.02,1812.52,01-05-2023,,Print,#DIV/0!
+Bangalore,4715.85,Home Decor,John Sherman,0.09,Wholesale,4291.42,424.43,01-05-2023,,Print,#DIV/0!
+Bangalore,7531.91,Groceries,Dominique Jimenez,0.01,Retail,7456.59,75.32,01-05-2023,,Print,#DIV/0!
+Bangalore,4331.9,Apparel,Lee Brown,0.2,Online,3465.52,866.38,01-05-2023,,Print,#DIV/0!
+Bangalore,1669.04,Electronics,Donald Castaneda,0.01,Wholesale,1652.35,16.69,01-05-2023,,Print,#DIV/0!
+Bangalore,5905.47,Electronics,James Brown,0.01,Online,5846.42,59.05,01-05-2023,,Print,#DIV/0!
+Bangalore,6085.77,Electronics,Yolanda Beck,0.23,Retail,4686.04,1399.73,01-05-2023,,Print,#DIV/0!
+Bangalore,6159.81,Home Decor,Angela Carter,0.03,Wholesale,5975.02,184.79,01-05-2023,,Print,#DIV/0!
+Bangalore,7554.53,Apparel,Tabitha Cardenas,0.19,Wholesale,6119.17,1435.36,01-05-2023,,Print,#DIV/0!
+Bangalore,2416.71,Apparel,Brittany Hood,0.01,Wholesale,2392.54,24.17,01-05-2023,,Print,#DIV/0!
+Bangalore,7419.69,Home Decor,Wayne Dixon,0.14,Retail,6380.93,1038.76,01-05-2023,,Print,#DIV/0!
+Bangalore,6812.74,Home Decor,Martha Hoffman,0.13,Retail,5927.08,885.66,01-05-2023,,Print,#DIV/0!
+Bangalore,8113.23,Groceries,Stephanie Flowers,0.04,Retail,7788.7,324.53,01-05-2023,,Print,#DIV/0!
+Bangalore,620.84,Groceries,Michelle Oliver MD,0.09,Wholesale,564.96,55.88,01-05-2023,,Print,#DIV/0!
+Bangalore,882.26,Groceries,April Jones,0.15,Wholesale,749.92,132.34,01-05-2023,,Print,#DIV/0!
+Bangalore,9387.23,Apparel,Gary Scott,0.15,Wholesale,7979.15,1408.08,01-05-2023,,Print,#DIV/0!
+Bangalore,8623.94,Home Decor,Aaron Moon,0.17,Retail,7157.87,1466.07,01-05-2023,,Print,#DIV/0!
+Bangalore,5906.93,Groceries,Lori Berry,0.19,Online,4784.61,1122.32,01-05-2023,,Print,#DIV/0!
+Bangalore,6537.59,Electronics,Jenny Kemp,0.07,Retail,6079.96,457.63,01-05-2023,,Print,#DIV/0!
+Bangalore,3666.55,Apparel,Christopher Sullivan,0.06,Wholesale,3446.56,219.99,01-05-2023,,Print,#DIV/0!
+Bangalore,5699.47,Home Decor,Courtney Moore,0.23,Wholesale,4388.59,1310.88,01-05-2023,,Print,#DIV/0!
+Bangalore,7135.23,Electronics,Mark Anderson,0.01,Wholesale,7063.88,71.35,01-06-2023,19336.63,TV,7062.88
+Bangalore,5863.56,Groceries,Christie Hampton,0.24,Wholesale,4456.31,1407.25,01-06-2023,,TV,#DIV/0!
+Bangalore,5824.26,Home Decor,Andrew Johnson,0.15,Retail,4950.62,873.64,01-06-2023,,TV,#DIV/0!
+Bangalore,5040.84,Home Decor,Susan Brown,0.03,Retail,4889.61,151.23,01-06-2023,,TV,#DIV/0!
+Bangalore,3405.37,Apparel,Connie Foster,0.11,Retail,3030.78,374.59,01-06-2023,,TV,#DIV/0!
+Bangalore,3424.68,Groceries,Sierra Jenkins,0.05,Retail,3253.45,171.23,01-06-2023,,TV,#DIV/0!
+Bangalore,3218.06,Groceries,Eddie Turner,0.1,Online,2896.25,321.81,01-06-2023,,TV,#DIV/0!
+Bangalore,9739.64,Electronics,Carmen Crawford,0.15,Wholesale,8278.69,1460.95,01-06-2023,,TV,#DIV/0!
+Bangalore,7737.3,Apparel,Matthew Tucker,0.03,Retail,7505.18,232.12,01-06-2023,,TV,#DIV/0!
+Bangalore,4957.5,Electronics,Franklin Randolph,0.04,Wholesale,4759.2,198.3,01-06-2023,,TV,#DIV/0!
+Bangalore,8934.96,Electronics,Terry Fischer PhD,0.21,Online,7058.62,1876.34,01-06-2023,,TV,#DIV/0!
+Bangalore,936.77,Apparel,Kimberly Daniels,0,Retail,936.77,0,01-06-2023,,TV,#DIV/0!
+Bangalore,5226.98,Home Decor,Morgan Collins,0.01,Wholesale,5174.71,52.27,01-06-2023,,TV,#DIV/0!
+Bangalore,7069.68,Electronics,David Mendoza,0.12,Retail,6221.32,848.36,01-06-2023,,TV,#DIV/0!
+Bangalore,8084.95,Home Decor,Patrick Cannon,0.23,Online,6225.41,1859.54,01-06-2023,,TV,#DIV/0!
+Bangalore,7618.33,Home Decor,Brandon Gomez,0.24,Online,5789.93,1828.4,01-06-2023,,TV,#DIV/0!
+Bangalore,2478.49,Electronics,Sarah Ford,0.17,Retail,2057.15,421.34,01-07-2023,8279.14,Digital,2056.15
+Bangalore,9434.46,Electronics,Jennifer Calhoun,0.15,Wholesale,8019.29,1415.17,01-07-2023,,Digital,#DIV/0!
+Bangalore,8851.04,Apparel,Eileen Lawson,0.12,Wholesale,7788.92,1062.12,01-07-2023,,Digital,#DIV/0!
+Bangalore,8286.74,Electronics,Amanda Cooper,0.02,Wholesale,8121.01,165.73,01-07-2023,,Digital,#DIV/0!
+Bangalore,747.56,Electronics,Frederick Petersen,0.08,Wholesale,687.76,59.8,01-07-2023,,Digital,#DIV/0!
+Bangalore,3574.69,Apparel,Maria Wright,0.11,Wholesale,3181.47,393.22,01-07-2023,,Digital,#DIV/0!
+Bangalore,6155,Apparel,Beth Moore,0.04,Retail,5908.8,246.2,01-07-2023,,Digital,#DIV/0!
+Bangalore,2961.01,Home Decor,Janice Rice,0.14,Retail,2546.47,414.54,01-07-2023,,Digital,#DIV/0!
+Bangalore,7234.33,Electronics,Cathy Ayala,0.1,Online,6510.9,723.43,01-07-2023,,Digital,#DIV/0!
+Bangalore,9122.64,Apparel,Christopher Cunningham,0.2,Retail,7298.11,1824.53,01-07-2023,,Digital,#DIV/0!
+Bangalore,7074.94,Home Decor,Madeline Barton,0.02,Online,6933.44,141.5,01-07-2023,,Digital,#DIV/0!
+Bangalore,3718.51,Home Decor,Heather Frost,0.09,Online,3383.84,334.67,01-07-2023,,Digital,#DIV/0!
+Bangalore,3840.95,Groceries,James Miller,0.12,Online,3380.04,460.91,01-07-2023,,Digital,#DIV/0!
+Bangalore,3462.41,Groceries,John Odonnell,0.09,Retail,3150.79,311.62,01-07-2023,,Digital,#DIV/0!
+Bangalore,6786.5,Groceries,Crystal Jackson,0.15,Online,5768.53,1017.98,01-07-2023,,Digital,#DIV/0!
+Bangalore,1894.6,Electronics,Ashley Turner,0.2,Online,1515.68,378.92,01-07-2023,,Digital,#DIV/0!
+Bangalore,8397.03,Home Decor,Glenn Johnson,0.23,Online,6465.71,1931.32,01-07-2023,,Digital,#DIV/0!
+Bangalore,1346.81,Apparel,Ana Berry,0.24,Online,1023.58,323.23,01-07-2023,,Digital,#DIV/0!
+Bangalore,6617.3,Home Decor,Cynthia King,0.17,Wholesale,5492.36,1124.94,01-07-2023,,Digital,#DIV/0!
+Bangalore,5359.45,Apparel,Jerry Coleman,0.15,Retail,4555.53,803.92,01-07-2023,,Digital,#DIV/0!
+Bangalore,7218.32,Electronics,Victoria Roach,0.13,Retail,6279.94,938.38,01-07-2023,,Digital,#DIV/0!
+Bangalore,1421.27,Groceries,Wayne Brooks DVM,0.19,Online,1151.23,270.04,01-07-2023,,Digital,#DIV/0!
+Bangalore,5162.43,Home Decor,Jenna Hawkins,0.02,Wholesale,5059.18,103.25,01-07-2023,,Digital,#DIV/0!
+Bangalore,5692.49,Home Decor,Corey Phillips,0.2,Retail,4553.99,1138.5,01-07-2023,,Digital,#DIV/0!
+Bangalore,9040.92,Apparel,Christopher Holland,0.04,Retail,8679.28,361.64,01-07-2023,,Digital,#DIV/0!
+Bangalore,1672.98,Home Decor,Brandy Lee,0.24,Wholesale,1271.46,401.52,01-07-2023,,Digital,#DIV/0!
+Bangalore,2149.75,Groceries,Erica Perez,0.09,Wholesale,1956.27,193.48,01-07-2023,,Digital,#DIV/0!
+Bangalore,5126.68,Home Decor,Theresa Turner,0.2,Wholesale,4101.34,1025.34,01-07-2023,,Digital,#DIV/0!
+Bangalore,2160.95,Electronics,Ms. Stacy Patel DDS,0,Retail,2160.95,0,01-07-2023,,Digital,#DIV/0!
+Bangalore,2076.41,Electronics,Jessica Edwards,0.2,Wholesale,1661.13,415.28,01-07-2023,,Digital,#DIV/0!
+Bangalore,875.8,Home Decor,Alexander Hayes,0.24,Wholesale,665.61,210.19,01-07-2023,,Digital,#DIV/0!
+Bangalore,8738.52,Electronics,Michael Palmer PhD,0.17,Retail,7252.97,1485.55,01-07-2023,,Digital,#DIV/0!
+Bangalore,538.23,Home Decor,David Williams,0,Online,538.23,0,01-07-2023,,Digital,#DIV/0!
+Bangalore,2882.95,Home Decor,Angela Arnold,0.25,Online,2162.21,720.74,01-07-2023,,Digital,#DIV/0!
+Bangalore,8903.55,Home Decor,Joel Anderson,0.08,Online,8191.27,712.28,01-08-2023,8041.84,Print,8190.27
+Bangalore,6623.38,Electronics,Katherine Ochoa,0.07,Online,6159.74,463.64,01-08-2023,,Print,#DIV/0!
+Bangalore,8422.51,Electronics,Joshua Ruiz,0.21,Wholesale,6653.78,1768.73,01-08-2023,,Print,#DIV/0!
+Bangalore,1863.61,Home Decor,Victor Hernandez,0.01,Online,1844.97,18.64,01-08-2023,,Print,#DIV/0!
+Bangalore,3580.29,Home Decor,Elizabeth Robertson,0.07,Online,3329.67,250.62,01-08-2023,,Print,#DIV/0!
+Bangalore,8805.6,Home Decor,Michael Hill,0.06,Retail,8277.26,528.34,01-08-2023,,Print,#DIV/0!
+Bangalore,1352.02,Apparel,Michelle Bell,0.12,Online,1189.78,162.24,01-08-2023,,Print,#DIV/0!
+Bangalore,7386.65,Electronics,Jacob Cruz,0.09,Wholesale,6721.85,664.8,01-08-2023,,Print,#DIV/0!
+Bangalore,7915.08,Home Decor,Ryan Smith,0.24,Retail,6015.46,1899.62,01-08-2023,,Print,#DIV/0!
+Bangalore,8894.07,Electronics,Carolyn Ramirez,0.1,Online,8004.66,889.41,01-08-2023,,Print,#DIV/0!
+Bangalore,951.43,Apparel,Emily Alvarez,0.04,Retail,913.37,38.06,01-08-2023,,Print,#DIV/0!
+Bangalore,9317.52,Groceries,Justin Rivera,0.13,Retail,8106.24,1211.28,01-08-2023,,Print,#DIV/0!
+Bangalore,4915.57,Groceries,David Green,0.2,Wholesale,3932.46,983.11,01-08-2023,,Print,#DIV/0!
+Bangalore,7605.81,Groceries,Katie Santana,0.17,Wholesale,6312.82,1292.99,01-08-2023,,Print,#DIV/0!
+Bangalore,5474.36,Electronics,Kyle Rodriguez,0.21,Wholesale,4324.74,1149.62,01-08-2023,,Print,#DIV/0!
+Bangalore,9480.46,Home Decor,Adam Campbell,0.22,Wholesale,7394.76,2085.7,01-08-2023,,Print,#DIV/0!
+Bangalore,5361.16,Electronics,Patrick Wells,0.12,Wholesale,4717.82,643.34,01-08-2023,,Print,#DIV/0!
+Bangalore,1883.93,Electronics,Taylor Mccall,0.18,Online,1544.82,339.11,01-08-2023,,Print,#DIV/0!
+Bangalore,6223.02,Home Decor,Clarence Cantrell,0.01,Retail,6160.79,62.23,01-08-2023,,Print,#DIV/0!
+Bangalore,3279.59,Groceries,Mallory George,0.07,Wholesale,3050.02,229.57,01-08-2023,,Print,#DIV/0!
+Bangalore,4399.15,Groceries,Shannon Adams,0.06,Retail,4135.2,263.95,01-08-2023,,Print,#DIV/0!
+Bangalore,8359.17,Groceries,Jennifer Young,0.09,Online,7606.84,752.33,01-08-2023,,Print,#DIV/0!
+Bangalore,9082.12,Home Decor,John Conley,0.06,Wholesale,8537.19,544.93,01-08-2023,,Print,#DIV/0!
+Bangalore,3098.49,Groceries,Marissa Armstrong,0.09,Wholesale,2819.63,278.86,01-08-2023,,Print,#DIV/0!
+Bangalore,9720.95,Home Decor,Meredith Keller,0.22,Online,7582.34,2138.61,01-08-2023,,Print,#DIV/0!
+Bangalore,2513.4,Apparel,Kelly Parker,0.23,Wholesale,1935.32,578.08,01-08-2023,,Print,#DIV/0!
+Bangalore,8381.07,Home Decor,Alexander Anderson,0.01,Retail,8297.26,83.81,01-09-2023,11442.54,Outdoor,8296.26
+Bangalore,9497.48,Apparel,Anna Hart,0.03,Retail,9212.56,284.92,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,2938.28,Electronics,Timothy Owens,0.2,Online,2350.62,587.66,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,6356.18,Electronics,Sharon West,0.09,Online,5784.12,572.06,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,6844.52,Groceries,Brandon Garrett,0.05,Wholesale,6502.29,342.23,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,5637.26,Apparel,Jason Olsen,0.05,Retail,5355.4,281.86,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,2439.38,Groceries,Angel Sharp,0.06,Wholesale,2293.02,146.36,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,4834.98,Electronics,Melissa Santiago,0.06,Retail,4544.88,290.1,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,7535.92,Home Decor,Larry Tucker,0.1,Online,6782.33,753.59,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,980.23,Groceries,Whitney Anderson,0.04,Retail,941.02,39.21,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,1001.75,Electronics,Danielle Garner,0.09,Wholesale,911.59,90.16,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,2027.67,Groceries,Jose Scott,0.19,Wholesale,1642.41,385.26,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,1379.13,Apparel,Kimberly Jackson,0.22,Wholesale,1075.72,303.41,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,535.12,Groceries,Kim Lowery,0.04,Online,513.72,21.4,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,4112.02,Electronics,Desiree Wright,0.17,Wholesale,3412.98,699.04,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,8380.3,Home Decor,Julia Wong,0.12,Wholesale,7374.66,1005.64,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,5342.82,Groceries,Gerald West,0.09,Retail,4861.97,480.85,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,9072.33,Apparel,John Wyatt,0.2,Online,7257.86,1814.47,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,5548.03,Home Decor,Nathan Fuentes,0.02,Wholesale,5437.07,110.96,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,3395.87,Groceries,Karen Flores,0.08,Wholesale,3124.2,271.67,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,6754.63,Apparel,Jonathon Ortiz,0.03,Retail,6551.99,202.64,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,5674.95,Home Decor,Lindsay Hall,0.15,Online,4823.71,851.24,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,7548.6,Groceries,Frank Jones MD,0.05,Wholesale,7171.17,377.43,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,807.94,Apparel,Donna Miller,0.17,Retail,670.59,137.35,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,8690.56,Groceries,Edgar Parker,0.01,Online,8603.65,86.91,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,5497.04,Groceries,Dennis Simmons,0.02,Wholesale,5387.1,109.94,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,9567.88,Home Decor,Andrew Reed,0.22,Wholesale,7462.95,2104.93,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,4772.56,Electronics,Juan Smith,0.01,Online,4724.83,47.73,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,6791.55,Apparel,Mr. Adrian Nielsen,0.04,Retail,6519.89,271.66,01-09-2023,,Outdoor,#DIV/0!
+Bangalore,5801.45,Apparel,James Flores,0.07,Wholesale,5395.35,406.1,01-10-2023,18827.09,Print,5394.35
+Bangalore,8501.42,Groceries,Tyler Patel,0.22,Retail,6631.11,1870.31,01-10-2023,,Print,#DIV/0!
+Bangalore,1947.74,Apparel,Mia Perez,0.06,Online,1830.88,116.86,01-10-2023,,Print,#DIV/0!
+Bangalore,4575.14,Apparel,Robert Walker,0.15,Wholesale,3888.87,686.27,01-10-2023,,Print,#DIV/0!
+Bangalore,5327.56,Electronics,Anthony Kelley,0.18,Wholesale,4368.6,958.96,01-10-2023,,Print,#DIV/0!
+Bangalore,2999.99,Groceries,Dustin Smith Jr.,0.09,Wholesale,2729.99,270,01-10-2023,,Print,#DIV/0!
+Bangalore,6755.67,Groceries,Kevin Mcdonald,0.01,Online,6688.11,67.56,01-10-2023,,Print,#DIV/0!
+Bangalore,8679.11,Electronics,Thomas Schneider,0.21,Wholesale,6856.5,1822.61,01-10-2023,,Print,#DIV/0!
+Bangalore,7545.27,Electronics,Theresa Russell,0.21,Online,5960.76,1584.51,01-10-2023,,Print,#DIV/0!
+Bangalore,5447.74,Groceries,Rachael Johnson,0.2,Online,4358.19,1089.55,01-10-2023,,Print,#DIV/0!
+Bangalore,9762.43,Home Decor,John Leonard,0.15,Wholesale,8298.07,1464.36,01-10-2023,,Print,#DIV/0!
+Bangalore,2820.96,Apparel,Andrew Newman,0.12,Wholesale,2482.44,338.52,01-10-2023,,Print,#DIV/0!
+Bangalore,8810.14,Home Decor,Thomas Mcpherson,0.1,Retail,7929.13,881.01,01-10-2023,,Print,#DIV/0!
+Bangalore,3672.56,Groceries,Crystal Stone,0.12,Online,3231.85,440.71,01-10-2023,,Print,#DIV/0!
+Bangalore,8939.26,Electronics,Caroline Oneill,0.12,Retail,7866.55,1072.71,01-10-2023,,Print,#DIV/0!
+Bangalore,725.85,Apparel,Deborah Hodges,0.16,Retail,609.71,116.14,01-10-2023,,Print,#DIV/0!
+Bangalore,7362.2,Apparel,Denise Greene,0.05,Retail,6994.09,368.11,01-11-2023,8712.2,Outdoor,6993.09
+Bangalore,5915.2,Groceries,James Martin,0.2,Online,4732.16,1183.04,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,4899.09,Electronics,Dakota Mitchell,0.24,Wholesale,3723.31,1175.78,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,8831.12,Apparel,Jared Ewing,0.21,Retail,6976.58,1854.54,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,782.45,Groceries,Charles Davis,0.1,Online,704.21,78.25,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,1562.13,Apparel,Mario Williams,0.23,Retail,1202.84,359.29,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,5416.99,Groceries,Robert Smith,0.15,Wholesale,4604.44,812.55,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,4757.21,Groceries,Sarah Ali,0.06,Online,4471.78,285.43,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,8383.73,Apparel,Brent Brown,0.19,Online,6790.82,1592.91,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,7558.57,Electronics,Jenny Carroll,0.19,Online,6122.44,1436.13,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,524.3,Apparel,Laura Berger,0.2,Retail,419.44,104.86,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,4737.95,Apparel,Mason Peterson,0.13,Online,4122.02,615.93,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,3041.96,Electronics,David Harrison,0.05,Wholesale,2889.86,152.1,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,8464.82,Groceries,Denise Oliver,0.11,Wholesale,7533.69,931.13,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,620.69,Electronics,Jennifer Carlson,0.18,Online,508.97,111.72,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,6383.5,Home Decor,Phyllis Hanson,0.19,Wholesale,5170.64,1212.87,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,2115.58,Electronics,Justin Jones,0.1,Retail,1904.02,211.56,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,2019.04,Electronics,John Wilson,0.05,Online,1918.09,100.95,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,3694.36,Home Decor,Stephanie Hernandez,0.17,Retail,3066.32,628.04,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,6070.01,Electronics,Jordan Rivera,0.22,Retail,4734.61,1335.4,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,3526.48,Groceries,Philip Alexander,0.2,Wholesale,2821.18,705.3,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,6667.79,Electronics,Sheila Wade,0.14,Wholesale,5734.3,933.49,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,6467.53,Apparel,Stephen Roberts,0.15,Wholesale,5497.4,970.13,01-11-2023,,Outdoor,#DIV/0!
+Bangalore,1205.85,Home Decor,Wendy Cantu,0.05,Online,1145.56,60.29,01-12-2023,9685.65,TV,1144.56
+Bangalore,4217.04,Groceries,Rebecca Gomez,0.18,Online,3457.97,759.07,01-12-2023,,TV,#DIV/0!
+Bangalore,6259.5,Home Decor,Cory Livingston,0.14,Retail,5383.17,876.33,01-12-2023,,TV,#DIV/0!
+Bangalore,5925.23,Electronics,Angela Hester,0.13,Retail,5154.95,770.28,01-12-2023,,TV,#DIV/0!
+Bangalore,6865.46,Electronics,Kayla Lyons,0.15,Wholesale,5835.64,1029.82,01-12-2023,,TV,#DIV/0!
+Bangalore,2321.47,Groceries,Jenna Jones,0.15,Online,1973.25,348.22,01-12-2023,,TV,#DIV/0!
+Bangalore,6353,Apparel,Scott Schmitt,0.2,Online,5082.4,1270.6,01-12-2023,,TV,#DIV/0!
+Bangalore,8596.42,Groceries,Jason Lambert,0.24,Online,6533.28,2063.14,01-12-2023,,TV,#DIV/0!
+Bangalore,1857.69,Home Decor,Eric Williams,0.15,Retail,1579.04,278.65,01-12-2023,,TV,#DIV/0!
+Bangalore,941.86,Home Decor,Bruce Williams,0.01,Retail,932.44,9.42,01-12-2023,,TV,#DIV/0!
+Bangalore,8218.89,Electronics,Zachary Meyer,0.19,Retail,6657.3,1561.59,01-12-2023,,TV,#DIV/0!
+Bangalore,6593.29,Groceries,David Johnson,0.05,Wholesale,6263.63,329.66,01-12-2023,,TV,#DIV/0!
+Bangalore,4416.53,Apparel,Daniel Wilson,0,Online,4416.53,0,01-12-2023,,TV,#DIV/0!
+Bangalore,7501.25,Home Decor,Willie Ross,0.09,Online,6826.14,675.11,01-12-2023,,TV,#DIV/0!
+Bangalore,8697.64,Electronics,Jennifer Moreno,0.16,Wholesale,7306.02,1391.62,01-12-2023,,TV,#DIV/0!
+Bangalore,4945.95,Home Decor,David Rodriguez,0.07,Wholesale,4599.73,346.22,01-12-2023,,TV,#DIV/0!
+Bangalore,7510.56,Groceries,Jared Fuller,0.11,Wholesale,6684.4,826.16,01-12-2023,,TV,#DIV/0!
+Bangalore,4067.85,Apparel,Daniel Barber,0.06,Online,3823.78,244.07,01-12-2023,,TV,#DIV/0!
+Bangalore,8151.43,Groceries,Megan Bradley,0.21,Online,6439.63,1711.8,01-12-2023,,TV,#DIV/0!
+Bangalore,4297.87,Apparel,Nicholas Baker,0.25,Retail,3223.4,1074.47,01-12-2023,,TV,#DIV/0!
+Bangalore,2314.02,Groceries,Lisa Morrison,0.14,Retail,1990.06,323.96,01-12-2023,,TV,#DIV/0!
